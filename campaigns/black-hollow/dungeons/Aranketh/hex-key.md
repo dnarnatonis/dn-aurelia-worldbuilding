@@ -40,9 +40,9 @@ Legenda de tipo:
 | A09 | I | Passagem de entrada | Desemboca aqui |
 | C13 | M | Jardins Suspensos de Sylvara | Semente corrompida; Green Hag + beholder (Deus Cego). Ver `Locais/M - C13 - Jardins Suspensos de Sylvara.md` |
 | | M | Arena Bestial de Thalvok | |
+| B17 | I | Templo Secundário (Refúgio de Silas) | [[silas-the-raven|Silas]] escondido. Vesper avista ao se aproximar. Marca de corvo na entrada. [[I - B17 - Refúgio de Silas]] |
 | | I | | |
-| | I | | |
-| | D | | |
+| | D | Água potável | A água dos rios e riachos do distrito é potável |
 | | R | | |
 
 ## Distrito da Morte e Sombras (Morthys + Voryn)

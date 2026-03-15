@@ -34,7 +34,7 @@ Mas no **centro do átrio**, onde não deveria haver nada, há uma **cabana**.
 
 ## Xerxes
 
-Na soleira da porta, **um gato preto com face e patas brancas** está sentado. Não se move. Olha para o grupo. Depois olha para um deles especificamente.
+Na soleira da porta, **um gato completamente preto** está sentado. Não se move. Olha para o grupo. Depois olha para um deles especificamente.
 
 **Os PCs reconhecem:** É **Xerxes** — o gato da taverna em Black Hollow. O mesmo gato que mora lá há anos. Que todo mundo conhece.
 

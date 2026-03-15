@@ -130,7 +130,7 @@ campaign: "[[Black Hollow]]"
 ## **Xerxes, the Cat**
 
 - **Role:** The mysterious cat that seems to be known by everyone in town. Actually a **Fey Cat** — servo de [[ithiriel-keeper-of-the-garden|Morvanna]].
-- **Appearance:** A black cat with a white face and paws. Perto da cabana de Morvanna, a presença Fey é mais óbvia: olhos brilham com luz própria, pelo parece mudar de tom com a luz, movimentos antinaturalmente precisos.
+- **Appearance:** A completely black cat. Perto da cabana de Morvanna, a presença Fey é mais óbvia: olhos brilham com luz própria, pelo parece mudar de tom com a luz, movimentos antinaturalmente precisos.
 - **Personality:** Em Black Hollow: "just a normal black cat." Na cabana: **fala**. Frases curtas, crípticas, tom seco. Julga. Decide quem entra. Só deixa **um por vez**.
 - **Notable:** Mora na taverna há anos. **Implicação:** Morvanna sabe muito mais sobre Black Hollow e os PCs do que deveria. Tudo que Xerxes viu, ela viu.
 - **Quote (Black Hollow):** *"Miau."*

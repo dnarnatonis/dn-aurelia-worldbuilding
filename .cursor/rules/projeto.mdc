@@ -1,0 +1,45 @@
+---
+description: Contexto geral do workspace Aurelia Worldbuilding
+alwaysApply: true
+---
+
+# Aurelia Worldbuilding — Contexto do Projeto
+
+Workspace para worldbuilding e campanhas do mundo de **Aurelia**.
+
+## Idioma
+
+- Conteúdo de worldbuilding em **Português do Brasil (Pt-BR)**
+- Notas técnicas podem ser em inglês
+
+## Estrutura de Pastas
+
+| Pasta | Conteúdo |
+|-------|----------|
+| **campaigns** | Campanha a campanha — sessões, NPCs, materiais por crônica |
+| **references** | Regras, formatos, key notes de vídeos, materiais de apoio |
+| **worldbuilding** | Tudo sobre o mundo de Aurelia |
+
+## Worldbuilding — Subpastas
+
+| Subpasta | Propósito |
+|----------|-----------|
+| **history** | Fatos — framework de consistência. Nunca contradizer. |
+| **culture** | Línguas, costumes, etnias |
+| **myths** | Lentes sobre a history — o que as pessoas sabem. Usar classificação P1–P5 (penetração). Podem contradizer uns aos outros. |
+
+## Myths — Penetração
+
+- P1: Todo mundo sabe
+- P2: Maioria das pessoas
+- P3: Grupos específicos
+- P4: Poucos guardiões
+- P5: Ninguém sabe
+
+## AI Profile
+
+Sempre seguir o estilo e framework cognitivo definidos em:
+
+- `.ai/user-ai-profile.md`
+- `.ai/user-cognitive-framework.md`
+- `.ai/style-guide.md`

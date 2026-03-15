@@ -1,0 +1,37 @@
+---
+description: Convenções para arquivos Markdown de worldbuilding
+globs: worldbuilding/**/*.md
+alwaysApply: false
+---
+
+# Convenções — Worldbuilding Markdown
+
+## Myths — Frontmatter Obrigatório
+
+Todo mito em `worldbuilding/myths/` deve ter:
+
+```yaml
+---
+penetration: P2
+veracity: unknown
+contradicts: []
+tags: [myth, tema]
+---
+```
+
+| Campo | Valores | Descrição |
+|-------|---------|-----------|
+| `penetration` | P1–P5 | Quem conhece o mito |
+| `veracity` | true, false, unknown, partial | Relação com a verdade factual |
+| `contradicts` | lista de links | Mitos que contradizem este |
+| `tags` | lista | Classificação temática |
+
+## Links
+
+- Usar `[[wikilinks]]` para NPCs, locais, conceitos, outros mitos
+- Linkar conceitos relacionados, não toda ocorrência
+
+## History vs Myths
+
+- **history**: factual, neutro, sem interpretação
+- **myths**: narrativo, pode ser em voz in-world, pode contradizer

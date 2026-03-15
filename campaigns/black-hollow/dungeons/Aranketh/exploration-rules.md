@@ -20,15 +20,29 @@ Base: [[PHB-01-10-Exploration|PHB 01-10]] (Travel Pace) + [[DMG-02-07-Running-Ex
 | Grid | 11×11 hexes (121 total) |
 | Hexes com conteúdo | ~25–30 |
 | Restante | Ruínas exploráveis (descobertas menores) |
-| Movimento | 1 hex = 1 turno (10 min) em **Normal pace** |
+| Movimento | Normal: 1 hex/turno. Fast: 2 hexes. Slow: ½ hex. |
 
-**Cálculo:** PHB Normal pace = 300 ft/min → 3000 ft ÷ 300 = 10 min. A cidade cobre ~5.5 miles por lado (~30 sq miles).
+**Base:** Normal pace = 1 hex per turno (10 min). A cidade usa multiplicadores simplificados: Fast = 2×, Slow = ½×.
 
-| Pace   | Velocidade | Tempo por Hex | WIS (Perception/Survival) | DEX (Stealth) |
-|--------|------------|---------------|---------------------------|---------------|
-| Fast   | 400 ft/min  | ~7.5 min      | Desvantagem               | Desvantagem   |
-| Normal | 300 ft/min  | 10 min        | —                         | Desvantagem   |
-| Slow   | 200 ft/min  | 15 min        | Vantagem                  | —             |
+| Pace   | Movimento por turno | Tempo por hex | WIS (Perception/Survival) | DEX (Stealth) |
+|--------|---------------------|---------------|---------------------------|---------------|
+| Fast   | 2 hexes             | 5 min         | Desvantagem               | Desvantagem   |
+| Normal | 1 hex               | 10 min        | —                         | Desvantagem   |
+| Slow   | ½ hex               | 20 min        | Vantagem                  | —             |
+
+_Regra da cidade: Fast = dobro de movimento, Slow = metade. O turno base permanece 10 min._
+
+### Modificadores por terreno
+
+O tipo de hex afeta o movimento. Os valores da tabela acima são para **hexes normais** (ruas, quarteirões, ruínas).
+
+| Terreno | Modificador | Exemplos |
+|---------|-------------|----------|
+| **Hex normal** | base | Ruas, templos menores, ruínas, city blocks |
+| **Grande estrada** | 2× | Vias principais — movimento dobrado |
+| **Hex especial** | ½× | Desníveis, rios (quadrante verdejante) — movimento pela metade |
+
+Ao cruzar hexes de tipos diferentes no mesmo turno, aplique o modificador do hex de **destino** (ou do mais restritivo, a critério do DM).
 
 > **PHB 01-10 — Travel Pace (verbatim)**  
 > Each travel pace has a game effect, as defined below.
@@ -41,11 +55,32 @@ Base: [[PHB-01-10-Exploration|PHB 01-10]] (Travel Pace) + [[DMG-02-07-Running-Ex
 
 ---
 
+## Visão e Iluminação
+
+A cidade é iluminada por uma **luz esverdeada** que permeia todo o lugar — **Dim Light**.
+
+> **PHB 01-10 — Light (verbatim)**  
+> **Dim Light.** Dim Light, also called shadows, creates a Lightly Obscured area. An area of Dim Light is usually a boundary between Bright Light and surrounding Darkness.  
+> *In a Lightly Obscured area, you have Disadvantage on Wisdom (Perception) checks that rely on sight.*
+
+### Alcance da visão por tipo de hex
+
+| Contexto | Alcance | O que se vê |
+|---------|---------|-------------|
+| **Hexes normais** | 1 hex | Ruas, quarteirões, templos menores, ruínas — apenas hex adjacente |
+| **Grandes estradas** | 3 hexes | Visão ao longo da via principal |
+| **Construções grandes** | 3 hexes | Templos principais, torres, estruturas altas — visíveis a ±3 hexes |
+| **Torres de Obsidiana** | 6 hexes | As colunas centrais são visíveis de quase toda a cidade |
+
+Creatures com **Darkvision** ignoram a penalidade de Dim Light para visão, mas a cidade continua Lightly Obscured para efeitos de alcance (não aumenta o número de hexes visíveis).
+
+---
+
 ## Turno de Exploração
 
 Em cada turno de 10 minutos, o grupo pode fazer **uma** ação:
 
-- **Mover** para um hex adjacente
+- **Mover** — conforme pace e terreno (hex normal: Fast 2, Normal 1, Slow ½; grande estrada: 2×; hex especial: ½×)
 - **Explorar** um local de interesse
 - **Investigar** uma ruína menor
 - **Interagir** com NPC ou facção

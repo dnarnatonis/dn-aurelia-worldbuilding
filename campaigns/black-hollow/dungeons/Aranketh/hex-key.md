@@ -38,7 +38,7 @@ Legenda de tipo:
 | Hex | Tipo | Nome | Notas |
 |-----|------|------|-------|
 | A09 | I | Passagem de entrada | Desemboca aqui |
-| C13 | M | Jardins Suspensos de Sylvara | |
+| C13 | M | Jardins Suspensos de Sylvara | Semente corrompida; Green Hag + beholder (Deus Cego). Ver `Locais/M - C13 - Jardins Suspensos de Sylvara.md` |
 | | M | Arena Bestial de Thalvok | |
 | | I | | |
 | | I | | |

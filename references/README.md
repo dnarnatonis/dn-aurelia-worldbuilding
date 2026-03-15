@@ -11,6 +11,7 @@ Referências para o trabalho de worldbuilding e campanhas:
 ## Key Notes
 
 - `key-notes/six-pillars-dungeon-crawls.md` — Six Pillars of Dungeon Crawls (vídeo YouTube)
+- `key-notes/make-exploration-a-game.md` — Make Exploration a Game (exploração como gameplay)
 
 ## Frameworks
 

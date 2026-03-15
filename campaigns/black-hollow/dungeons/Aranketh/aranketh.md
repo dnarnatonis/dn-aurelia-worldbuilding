@@ -127,3 +127,4 @@ Referências: **Ulduar**, **Nokstella**, **Elden Ring legacy dungeons**, **megad
 - `backstory.md` — fragmentação do culto, 4 facções, vestígios
 - `exploration-rules.md` — regras de hexcrawl
 - `hex-key.md` — chave de hexes da cidade
+- `Locais/` — detalhes dos Grandes Marcos (ex: Jardins Suspensos de Sylvara)

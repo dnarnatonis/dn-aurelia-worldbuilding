@@ -1,13 +1,13 @@
 ---
 title: "DMG Chapter 7: Treasure"
 category: "DMG"
-tags: [reference, rules, dmg, treasure, magic-items]
-related_concepts: [tesouro, magic items, D&D]
+tags: [reference, rules, dmg, treasure, magic-items, artifacts, sentient-items]
+related_concepts: [tesouro, magic items, artefato, D&D]
 ---
 
-# Chapter 7: Treasure *By Ilse Gort*
+# Chapter 7: Treasure
 
-![The Black Dragon Onyx guards her treasure hoard in the ruins of Xak Tsaroth](display_in_vtt_image)
+*By Ilse Gort — The Black Dragon Onyx guards her treasure hoard in the ruins of Xak Tsaroth*
 
 Adventurers strive for many things, including glory, knowledge, and justice. Many adventurers also seek something more tangible: treasure. This chapter presents treasure in all its forms, from coins to magic items.
 
@@ -423,14 +423,15 @@ To use the table, find the level of the characters in the top row. Roll 1d100, a
 
 #### Magic Item Rarities Table
 
-| ————— 1d100 Roll ————— | | | | |
-|------------------------|-----------------|-----------------|-----------------|------------|
 | Levels 1–4 | Levels 5–10 | Levels 11–16 | Levels 17–20 | Item's Rarity |
+|------------|--------------|--------------|--------------|---------------|
 | 01–54 | 01–30 | 01–11 | — | Common |
 | 55–91 | 31–81 | 12–34 | — | Uncommon |
 | 92–00 | 82–98 | 35–70 | 01–20 | Rare |
 | — | 99–00 | 71–93 | 21–64 | Very Rare |
 | — | — | 94–00 | 65–00 | Legendary |
+
+*Find the character level in the top row, roll 1d100, read down that column to find your roll, then read across for the item's rarity.*
 
 ### Magic Items for Starting Characters
 
@@ -546,8 +547,6 @@ If a magic item incorporates an item that has a purchase cost (such as a weapon 
 
 *The time and cost are halved for a consumable item other than a Spell Scroll, whose crafting time and cost are given in the Player's Handbook.
 
-![Crafting magic items requires time and research](display_in_vtt_image)
-
 ## Magic Item Special Features
 
 You can add distinctiveness to a magic item by thinking about its backstory. Who made the item? Is anything unusual about its construction? Why was it made, and how was it used originally? What minor magical quirks set it apart from other items of its kind? Answering these questions can help turn a generic magic item, such as a +1 Longsword, into a more flavorful discovery.
@@ -622,3 +621,164 @@ On the Magic Item's Minor Property table and the Magic Item's Quirk table, "you"
 | 6 | Metamorphic. The item periodically alters its appearance in slight ways. You have no control over these minor alterations, which have no effect on the item's use. |
 | 7 | Painful. You experience a harmless flash of pain when using the item. |
 | 8 | Repulsive. You feel a sense of distaste when in contact with the item and continue to experience discomfort while bearing it. |
+
+## Artifacts
+
+An Artifact is a unique, singularly powerful magic item with its own origin and history. It could have been created in the midst of a crisis that threatened a kingdom, a world, or the entire multiverse, and carry the weight of that pivotal moment in history.
+
+Some Artifacts appear when they are needed most. For others, the reverse is true; when these Artifacts are discovered, the world trembles at the ramifications of the find. In either case, introducing an Artifact into a campaign requires forethought. It could be an item that opposing sides are hoping to claim, or it might be something the adventurers need to overcome their greatest challenge.
+
+Characters don't typically find Artifacts in the normal course of adventuring. In fact, Artifacts appear only when you want them to, for they are as much plot devices as magic items. Tracking down and recovering an Artifact is often the main goal of an adventure. Characters must chase down rumors, undergo significant trials, and venture into dangerous, half-forgotten places to find the Artifact they seek. Alternatively, a major villain might already have the Artifact. Obtaining and destroying the Artifact could be the only way to ensure that its power can't be used for evil.
+
+### Artifact Properties
+
+In addition to its defined properties, an Artifact might have other properties that are either beneficial or detrimental. You can choose such properties from the tables in this section or determine them randomly. You can also invent new beneficial and detrimental properties. These properties typically change each time an Artifact appears in the world.
+
+An Artifact can have as many as four minor beneficial properties and two major beneficial properties. It can have as many as four minor detrimental properties and two major detrimental properties.
+
+### Minor Beneficial Properties
+
+| 1d100 | Property |
+|-------|----------|
+| 01–20 | While attuned to the Artifact, you gain proficiency in one skill of the DM's choice. |
+| 21–30 | While attuned to the Artifact, you have Immunity to the Poisoned condition. |
+| 31–40 | While attuned to the Artifact, you have Immunity to the Charmed and Frightened conditions. |
+| 41–50 | While attuned to the Artifact, you have Resistance to one damage type of the DM's choice. |
+| 51–60 | While attuned to the Artifact, you can cast one cantrip (chosen by the DM) from it. |
+| 61–70 | While attuned to the Artifact, you can cast one level 1 spell (chosen by the DM) from it. After you cast the spell, roll 1d6. On a roll of 1–5, you can't cast it again in this way until the next dawn. |
+| 71–80 | As 61–70 above, except the spell is level 2. |
+| 81–90 | As 61–70 above, except the spell is level 3. |
+| 91–00 | While attuned to the Artifact, you gain a +1 bonus to Armor Class. |
+
+### Major Beneficial Properties
+
+| 1d100 | Property |
+|-------|----------|
+| 01–20 | While attuned to the Artifact, one of your ability scores (DM's choice) increases by 2, to a maximum of 24. |
+| 21–30 | While attuned to the Artifact, you regain 1d6 Hit Points at the start of each of your turns if you have at least 1 Hit Point. |
+| 31–40 | When you hit with an attack roll while attuned to the Artifact, the target takes an extra 1d6 Force damage. |
+| 41–50 | While you're attuned to the Artifact, your Speed increases by 10 feet. |
+| 51–60 | While attuned to the Artifact, you can cast one level 4 spell (chosen by the DM) from it. After you cast the spell, roll 1d6. On a roll of 1–5, you can't cast it again in this way until the next dawn. |
+| 61–70 | As 51–60 above, except the spell is level 5. |
+| 71–80 | As 51–60 above, except the spell is level 6. |
+| 81–90 | As 51–60 above, except the spell is level 7. |
+| 91–00 | While attuned to the Artifact, you have Immunity to the Blinded, Deafened, Petrified, and Stunned conditions. |
+
+### Minor Detrimental Properties
+
+| 1d100 | Property |
+|-------|----------|
+| 01–08 | While attuned to the Artifact, you have Disadvantage on any ability check or saving throw that uses Strength or Constitution. |
+| 09–16 | While attuned to the Artifact, you have Disadvantage on Intelligence, Wisdom, and Charisma saving throws. |
+| 17–24 | While attuned to the Artifact, you have Vulnerability to Poison damage. |
+| 25–32 | While attuned to the Artifact, you have the Blinded condition when you're more than 10 feet away from it. |
+| 33–40 | While attuned to the Artifact, you have the Deafened condition when you're more than 10 feet away from it. |
+| 41–48 | While attuned to the Artifact, you lose all sense of smell. |
+| 49–66 | While you're attuned to the Artifact, your appearance changes as the DM decides. |
+| 67–72 | While attuned to the Artifact, you emit a sour stench noticeable from up to 10 feet away. |
+| 73–76 | Whenever you touch a nonmagical gem or an art object while attuned to this Artifact, the value of the gem or art object is reduced by half. This affects a particular object only once. |
+| 77–80 | While you're attuned to the Artifact, all Holy Water within 10 feet of you is destroyed. |
+| 81–84 | While you're attuned to the Artifact, nonmagical flames are extinguished within 30 feet of you. |
+| 85–88 | While you're attuned to the Artifact, other creatures can't take Short or Long Rests while within 300 feet of you. |
+| 89–92 | While attuned to the Artifact, you kill any nonmagical vegetation you touch that isn't a creature. |
+| 93–00 | While you're attuned to the Artifact, Beasts within 30 feet of you that have a Challenge Rating of 6 or lower are Hostile toward you. |
+
+### Major Detrimental Properties
+
+| 1d100 | Property |
+|-------|----------|
+| 01–09 | You can't attune to other magic items while you're attuned to the Artifact. When you become attuned to the Artifact, your Attunement to other magic items ends immediately. |
+| 10–18 | When you become attuned to the Artifact, a random one of your ability scores is reduced by 2, to a minimum of 3. A Greater Restoration spell restores the ability. |
+| 19–27 | When you become attuned to the Artifact, you take 8d10 Psychic damage. |
+| 28–36 | The first time you become attuned to the Artifact, it gives you a quest determined by the DM. You can't use any of the Artifact's properties until you complete the quest. |
+| 37–45 | Each time you become attuned to the Artifact, there is a 10 percent chance that you attract the attention of a god who sends an avatar to wrest the Artifact from you. The avatar has the same alignment as its creator and uses the Empyrean stat block. Once it obtains the Artifact, the avatar vanishes. |
+| 46–54 | Each time you become attuned to the Artifact, you must succeed on a DC 10 Constitution saving throw or die from the shock. If you die, you're instantly transformed into a Wight under the DM's control that must protect the Artifact. |
+| 55–63 | The Artifact dilutes potions within 10 feet of itself, rendering them nonmagical. |
+| 64–72 | The Artifact erases scrolls within 10 feet of itself, rendering them nonmagical. |
+| 73–81 | While you're attuned to the Artifact, creatures of a particular type other than Humanoid (chosen by the DM) are always Hostile toward you. |
+| 82–90 | While attuned to the Artifact, you have Vulnerability to all damage. |
+| 91–96 | The Artifact imprisons a Death Slaad. Each time you become attuned to the Artifact, the slaad has a 10 percent chance of escaping, whereupon it appears in an unoccupied space as close to you as possible and attacks you. |
+| 97–00 | While attuned to the Artifact, you can't spend Hit Point Dice or regain Hit Points. |
+
+## Sentient Magic Items
+
+Some magic items have sentience and personality. Such an item might be possessed, haunted by the spirit of a previous owner, or self-aware thanks to the magic used to create it. A sentient item might be a cherished ally to its wielder or a continual thorn in the side.
+
+Most sentient items are weapons, but other kinds of items can manifest sentience. Single-use items such as potions and scrolls are never sentient.
+
+The DM controls sentient magic items and their activated properties. A bearer who maintains a good relationship with the item can access those properties. If the relationship is strained, a conflict can ensue (see "Conflict" below).
+
+### Sentient Magic Item Traits
+
+When you make a sentient magic item, you create the item's persona much as you would create an NPC (as described in the "Nonplayer Characters" section of chapter 3), with these exceptions.
+
+**Abilities.** A sentient magic item has Intelligence, Wisdom, and Charisma scores. Choose the item's abilities, or determine them randomly as follows: roll 4d6 for each one, dropping the lowest roll and totaling the rest.
+
+**Alignment.** A sentient magic item has an alignment. Its creator or nature might suggest an alignment. Otherwise, pick an alignment or roll on the Sentient Item's Alignment table.
+
+**Communication.** A sentient item communicates by sharing its emotions, broadcasting its thoughts telepathically, or speaking aloud. You can choose how it communicates or roll on the Sentient Item's Communication table.
+
+**Senses.** A sentient item can perceive its surroundings out to a limited range. You can choose its senses or roll on the Sentient Item's Senses table.
+
+**Special Purpose.** You can give a sentient item an objective it pursues, perhaps to the exclusion of all else. As long as the wielder's use of the item aligns with that special purpose, the item remains cooperative. Deviating from this course might cause conflict between the wielder and the item (see "Conflict" below). You can pick a special purpose or roll on the Sentient Item's Special Purpose table.
+
+### Sentient Item's Alignment
+
+| 1d100 | Alignment |
+|-------|------------|
+| 01–15 | Lawful Good |
+| 16–35 | Neutral Good |
+| 36–50 | Chaotic Good |
+| 51–63 | Lawful Neutral |
+| 64–73 | Neutral |
+| 74–85 | Chaotic Neutral |
+| 86–89 | Lawful Evil |
+| 90–96 | Neutral Evil |
+| 97–00 | Chaotic Evil |
+
+### Sentient Item's Communication
+
+| 1d10 | Communication |
+|------|---------------|
+| 1–6 | The item communicates by transmitting emotion to the creature carrying or wielding it. |
+| 7–9 | The item speaks one or more languages. |
+| 10 | The item speaks one or more languages. In addition, the item can communicate telepathically with any creature that carries or wields it. |
+
+### Sentient Item's Senses
+
+| 1d4 | Senses |
+|-----|--------|
+| 1 | Hearing and standard vision out to 30 feet |
+| 2 | Hearing and standard vision out to 60 feet |
+| 3 | Hearing and standard vision out to 120 feet |
+| 4 | Hearing and Darkvision out to 120 feet |
+
+### Sentient Item's Special Purpose
+
+| 1d10 | Special Purpose |
+|------|-----------------|
+| 1 | Aligned. The item seeks to defeat or destroy those of a diametrically opposed alignment. Such an item is never Neutral. |
+| 2 | Bane. The item seeks to thwart or destroy creatures of a particular type, such as Constructs, Fiends, or Undead. |
+| 3 | Creator Seeker. The item seeks its creator and wants to understand why it was created. |
+| 4 | Destiny Seeker. The item believes it and its bearer have key roles to play in future events. |
+| 5 | Destroyer. The item craves destruction and goads its user to fight arbitrarily. |
+| 6 | Glory Seeker. The item seeks renown as the greatest magic item in the world by winning fame or notoriety for its user. |
+| 7 | Lore Seeker. The item craves knowledge or is determined to solve a mystery, learn a secret, or unravel a cryptic prophecy. |
+| 8 | Protector. The item seeks to defend a particular kind of creature, such as elves or werewolves. |
+| 9 | Soulmate Seeker. The item seeks another sentient magic item, perhaps one that is similar to itself. |
+| 10 | Templar. The item seeks to defend the servants and interests of a particular deity. |
+
+### Conflict
+
+When the bearer of a sentient item acts in a manner opposed to the item's alignment or purpose, conflict can arise. When such a conflict occurs, the item's bearer makes a Charisma saving throw (DC 12 plus the item's Charisma modifier). On a failed save, the item makes one or more of the following demands:
+
+- **Chase My Dreams.** The item demands that its bearer pursue the item's goals to the exclusion of all other goals.
+- **Get Rid of It.** The item demands that its bearer dispose of anything the item finds repugnant.
+- **It's Time for a Change.** The item demands to be given to someone else.
+- **Keep Me Close.** The item insists on being carried or worn at all times.
+
+If its bearer refuses to comply with the item's demands, the item can do any of the following:
+
+1. Make it impossible for its bearer to attune to it.
+2. Suppress one or more of its activated properties.
+3. Attempt to take control of its bearer, whereupon the bearer makes a Charisma saving throw (DC 12 plus the item's Charisma modifier). On a failed save, the bearer has the Charmed condition for 1d12 hours. While Charmed in this way, the bearer must try to follow the item's commands. If the bearer takes damage, it repeats the save, ending the effect on a success. Whether or not the attempt to control its bearer succeeds, the item can't use this power again until the next dawn.

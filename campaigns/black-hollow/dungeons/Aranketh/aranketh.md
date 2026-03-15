@@ -120,6 +120,7 @@ Referências: **Ulduar**, **Nokstella**, **Elden Ring legacy dungeons**, **megad
 
 ## Arquivos Relacionados
 
+- `magic-items.md` — distribuição de itens mágicos (Tier 2)
 - [[city-of-the-gods|Worldbuilding: Aran'keth]]
 - [[cult-of-vaelthas|Cult of Vaelthas]]
 - [[the-gravedigger|The Gravedigger]]

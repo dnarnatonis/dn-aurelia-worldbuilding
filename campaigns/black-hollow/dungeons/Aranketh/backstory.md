@@ -38,7 +38,7 @@ A cidade foi construída como mecanismo de contenção. No coração do sistema 
 | Aspecto | Cada vestígio é efetivamente um *Wish* (Spell Level 10) limitado ao domínio do deus em questão. |
 |---------|---------------------------------------------------------------------------------------------------|
 | Função  | São **âncoras da prisão**. Se todos forem gastos ou destruídos, o Whisperer será livre.          |
-| Estado  | **5 restam** (reivindicados pelas 4 facções + lealistas de Vael). **3 perderam o poder** há eras. |
+| Estado  | **4 restam** (Elemental, Aberrant, Fiend, Vaelthas). **4 esgotaram o poder** há eras. |
 
 Nenhum dos jogadores principais — Vaelthas, Gravedigger — quer a libertação total do Whisperer. O motivo da influência atual do aboleth é que a maioria dos vestígios já foi **gastos**; os restantes mantêm a prisão fraca mas intacta.
 
@@ -54,17 +54,17 @@ Algumas facções podem ter usado vestígios para obter o poder que têm hoje.
 
 ## As 4 facções
 
-### 1. Facção da Forja (Elemental)
+### 1. Facção da Chama (Elemental)
 
 | Aspecto | Detalhe |
 |---------|---------|
 | **Líder** | [Elemental Cultist](https://www.dndbeyond.com/monsters/5194983-elemental-cultist) (MM 5.5e) |
-| **Base** | Forja Titânica de Khorvyn (Distrito Ordem e Pedra) |
+| **Base** | Templo da Chama Eterna de Zaralon (Distrito Fogo e Céu) |
 | **Posição sobre Vael** | Contra — rejeitam Vaelthas |
-| **Objetivo** | Dominar o fogo e a pedra da cidade. Usar o vestígio de Khorvyn (ou Zaralon) para forjar algo maior. |
+| **Objetivo** | Dominar o fogo da cidade. Usar o vestígio de Zaralon (Chama Eterna) para forjar algo maior. |
 | **Relações** | Hostis a todos. Consideram-se os únicos dignos do legado divino. |
 
-Encurralados na Forja, defendem o território com fanatismo. O calor e as máquinas divinas quebradas servem de fortaleza.
+Encurralados no Templo da Chama Eterna, defendem o território com fanatismo. O fogo eterno de Zaralon e as máquinas divinas quebradas servem de fortaleza.
 
 ---
 
@@ -75,7 +75,7 @@ Encurralados na Forja, defendem o território com fanatismo. O calor e as máqui
 | **Líder** | [Death Cultist](https://www.dndbeyond.com/monsters/5194960-death-cultist) (MM 5.5e) |
 | **Base** | Criptas sob a Catedral da Passagem de Morthys — **Necrópole Inferior** (Distrito Morte e Sombras) |
 | **Posição sobre Vael** | A favor — leais a Vaelthas |
-| **Objetivo** | Completar a pesquisa deathless de Vael. Guardar o vestígio de Morthys. Aguardar o retorno do Hierofante. |
+| **Objetivo** | Completar a pesquisa deathless de Vael. A Lâmpada da Passagem está com Vael — servem ao Hierofante para um dia acessá-la. |
 | **Relações** | Aliança tácita com Vaelthas. Desconfiam da Gravedigger. Hostis aos Aberrant e Fiend. |
 
 Têm o maior conhecimento sobre a pesquisa deathless. Ocupam as criptas mais profundas da necrópole, onde os ritos de Morthys ainda ecoam.
@@ -123,20 +123,24 @@ Entraram em contato com os Infernos após a fragmentação. Maltherion oferece a
 
 ---
 
-## Mapeamento: Vestígios e facções
+## Os 8 Vestígios — Mapeamento
 
-| Vestígio | Deus | Status | Onde / Quem |
-|----------|------|--------|-------------|
-| Chama Eterna | Zaralon | ? | Elemental ou perdido |
-| Olho Estelar | Astrael | gasto | — |
-| Semente de Sylvara | Sylvara | perdido | — |
-| Presa de Thalvok | Thalvok | perdido | — |
-| Lâmpada da Passagem | Morthys | ativo | Death (Criptas) |
-| Máscara do Véu | Voryn | ativo | Aberrant (Torre) |
-| Balança de Elyndra | Elyndra | ativo | Fiend (Hall) |
-| Martelo de Khorvyn | Khorvyn | ativo | Elemental (Forja) |
+Cada vestígio corresponde a um templo e ao domínio do deus. Efeito: *Wish* (SL 10) limitado ao aspecto divino.
 
-*5 ativos + 3 gastos/perdidos. Ajustar conforme preparo dos encontros.*
+| Vestígio | Deus | Templo | Status | Onde / Quem |
+|----------|------|--------|--------|-------------|
+| **Coração da Chama** | Zaralon | Templo da Chama Eterna | ativo | Facção da Chama (Elemental) |
+| **Olho Estelar** | Astrael | Observatório | esgotado | — (gasto há eras) |
+| **Semente de Sylvara** | Sylvara | Jardins Suspensos | esgotado | — (quadrante verdejante) |
+| **Presa de Thalvok** | Thalvok | Arena Bestial | esgotado | — (quadrante verdejante) |
+| **Lâmpada da Passagem** | Morthys | Catedral da Passagem | ativo | Vaelthas (Tomb of the First Kind) |
+| **Máscara do Véu** | Voryn | Torre do Véu | ativo | Facção do Sussurro (Aberrant) |
+| **Balança de Elyndra** | Elyndra | Hall do Julgamento | ativo | Facção Infernal (Fiend) |
+| **Martelo de Khorvyn** | Khorvyn | Forja Titânica | esgotado | — (gasto há eras) |
+
+**4 ativos** — Elemental, Aberrant, Fiend, Vaelthas. **4 esgotados** — Astrael, Sylvara, Thalvok, Khorvyn. A influência do Whisperer cresce porque a maioria já foi gasta.
+
+**Nota:** Vael mantém a Lâmpada da Passagem como garantia de lealdade dos Death — eles servem o Hierofante na esperança de acessá-la para a pesquisa deathless. Os vestígios de Sylvara e Thalvok estão no quadrante verdejante; podem existir fisicamente (corrompidos pela influência fúngica?), mas sem poder.
 
 ---
 
@@ -150,7 +154,7 @@ Possíveis localizações no hex key: hex adjacente à Catedral, ou subárea da 
 
 ## Vaelthas e a Gravedigger
 
-- **Vaelthas:** Tomb of the First Kind. Reduzido, mas ainda o Hierofante. Os Death aguardam; os outros o rejeitam.
+- **Vaelthas:** Tomb of the First Kind. Reduzido, mas ainda o Hierofante. Guarda a **Lâmpada da Passagem** (Morthys) como garantia de lealdade dos Death. Os outros o rejeitam.
 - **Gravedigger:** Opera nas sombras. Nenhuma facção sabe que é um dragão. Ela usa a fragmentação para avançar seus próprios fins — contato com o Whisperer, conhecimento sobre imortalidade — sem que nenhuma facção controle o tabuleiro.
 
 ---

@@ -161,12 +161,12 @@ Isso cria **pressão temporal**: quanto mais tempo na cidade, maior o risco.
 
 Cada distrito é dominado por uma facção cultista derivada da fé original corrompida:
 
-| Facção | Distrito | Interpretação |
-|--------|----------|---------------|
-| Culto Estelar | Fogo e Céu | O aboleth é um deus do destino |
-| Culto da Vida Corrupta | Vida e Natureza | O aboleth oferece evolução |
-| Culto Necromântico | Morte e Sombras | O aboleth domina a morte |
-| Culto da Ordem Fanática | Ordem e Pedra | O aboleth é a lei suprema |
+| Facção | Distrito | Base | Ver |
+|--------|----------|------|-----|
+| Facção da Forja (Elemental) | Ordem e Pedra | Forja Titânica | `backstory.md` |
+| Facção da Passagem (Death) | Morte e Sombras | Necrópole Inferior | `backstory.md` |
+| Facção do Sussurro (Aberrant) | Morte e Sombras | Torre do Véu | `backstory.md` |
+| Facção Infernal (Fiend) | Ordem e Pedra | Hall do Julgamento | `backstory.md` |
 
 As facções:
 - Patrulham seus territórios

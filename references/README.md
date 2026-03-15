@@ -8,6 +8,10 @@ Referências para o trabalho de worldbuilding e campanhas:
 | **rules/** | Sistemas de jogo, mecânicas (DMG, guias) |
 | **key-notes/** | Resumos de vídeos (YouTube, etc.) |
 
+## Key Notes
+
+- `key-notes/six-pillars-dungeon-crawls.md` — Six Pillars of Dungeon Crawls (vídeo YouTube)
+
 ## Frameworks
 
 - `frameworks/05-factions-model.md` — Modelo de 5 facções para política complexa (GoT, Dune)

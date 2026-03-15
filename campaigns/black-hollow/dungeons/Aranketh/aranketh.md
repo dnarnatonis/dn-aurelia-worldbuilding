@@ -49,7 +49,7 @@ Cada distrito é dedicado a um **par de deuses** e ao equilíbrio entre seus dom
 | **Distrito da Morte e Sombras** | Morthys + Voryn | Passagem, segredos, véu |
 | **Distrito da Ordem e Pedra** | Elyndra + Khorvyn | Justiça, pedra, craft |
 
-Cada distrito é dominado por uma facção cultista que interpreta de forma distinta os sussurros do aboleth.
+Cada distrito é dominado por uma facção cultista — **exceto o quadrante verdejante** (Vida e Natureza), onde uma influência alien fúngica tomou conta e nenhuma facção habita. Ver `backstory.md` para rotas de acesso.
 
 ---
 
@@ -123,5 +123,6 @@ Referências: **Ulduar**, **Nokstella**, **Elden Ring legacy dungeons**, **megad
 - [[city-of-the-gods|Worldbuilding: Aran'keth]]
 - [[cult-of-vaelthas|Cult of Vaelthas]]
 - [[the-gravedigger|The Gravedigger]]
+- `backstory.md` — fragmentação do culto, 4 facções, vestígios
 - `exploration-rules.md` — regras de hexcrawl
 - `hex-key.md` — chave de hexes da cidade

@@ -33,8 +33,11 @@ Legenda de tipo:
 
 ## Distrito da Vida e Natureza (Sylvara + Thalvok)
 
+**Entrada dos jogadores.** Influência alien fúngica. Sem facção cultista.
+
 | Hex | Tipo | Nome | Notas |
 |-----|------|------|-------|
+| | I | Passagem de entrada | Desemboca aqui |
 | | M | Jardins Suspensos de Sylvara | |
 | | M | Arena Bestial de Thalvok | |
 | | I | | |
@@ -47,9 +50,9 @@ Legenda de tipo:
 | Hex | Tipo | Nome | Notas |
 |-----|------|------|-------|
 | | M | Catedral da Passagem de Morthys | |
-| | M | Torre do Véu de Voryn | |
+| | M | Torre do Véu de Voryn | Base: Facção do Sussurro (Aberrant) |
 | | I | Tomb of the First Kind | Santuário de Vaelthas |
-| | I | | |
+| | I | Necrópole Inferior | Base: Facção da Passagem (Death) |
 | | D | | |
 | | R | | |
 
@@ -57,8 +60,8 @@ Legenda de tipo:
 
 | Hex | Tipo | Nome | Notas |
 |-----|------|------|-------|
-| | M | Hall do Julgamento de Elyndra | |
-| | M | Forja Titânica de Khorvyn | |
+| | M | Hall do Julgamento de Elyndra | Base: Facção Infernal (Fiend) |
+| | M | Forja Titânica de Khorvyn | Base: Facção da Forja (Elemental) |
 | | I | | |
 | | I | | |
 | | D | | |

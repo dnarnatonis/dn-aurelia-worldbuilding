@@ -2,32 +2,55 @@
 
 Estrutura para todo o conteúdo sobre o mundo de Aurelia.
 
-## Pastas
+## Taxonomia
 
 | Pasta | Propósito |
 |-------|-----------|
-| **history** | Fatos — framework de consistência. Coisas que provavelmente nunca usaremos diretamente, mas servem de base para o mundo. |
-| **culture** | Línguas, costumes, etnias. Descrições culturais do mundo. |
-| **myths** | Lentes sobre a history — o que as pessoas *sabem* (ou acham que sabem). Podem ser verdadeiras, falsas ou contradizer umas às outras. Usar classificação de penetração. |
+| **geography/** | Regiões, locais, mapas, ambiente físico |
+| **people/** | Culturas, línguas, facções, figuras notáveis |
+| **history/** | Timeline, eras, eventos, artefatos — fatos canônicos |
+| **cosmology/** | Planos, magia, religião, myths |
 
-## Myths — Classificação de Penetração
+## Geography
 
-Todo mito deve ter um nível de penetração que indica *quem* conhece essa informação no mundo.
+- `regions/` — regiões e territórios
+- `locations/` — cidades, vilas, masmorras
+- `maps/` — cartografia
+- `environment/` — clima, terreno
 
-| Nível | Código | Descrição |
-|-------|--------|-----------|
-| 1 | `P1` | **Todo mundo sabe** — conhecimento universal, parte do senso comum |
-| 2 | `P2` | **Conhecimento comum** — a maioria das pessoas conhece |
-| 3 | `P3` | **Conhecimento restrito** — grupos específicos (eruditos, clérigos, nobres) |
-| 4 | `P4` | **Conhecimento secreto** — poucos guardiões, tradições orais, círculos fechados |
-| 5 | `P5` | **Ninguém sabe** — perdido, esquecido ou nunca revelado |
+## People
 
-### Uso no frontmatter
+- `cultures/` — grupos culturais, sociedades
+- `cultures/languages/` — idiomas, dialetos, escrita
+- `factions/` — organizações, guildas, grupos políticos
+- `notable-figures/` — personagens históricos
+- `bestiary/` — criaturas, monstros
 
-```yaml
----
-penetration: P2
-contradicts: ["[[Outro Mito]]"]
-veracity: unknown  # true | false | unknown | partial
----
-```
+## History
+
+- `timeline/` — calendários, sequência cronológica
+- `eras/` — períodos históricos
+- `events/` — eventos significativos
+- `artifacts/` — relíquias, itens importantes
+
+## Cosmology
+
+- `planes/` — reinos, dimensões
+- `magic/` — sistemas de magia
+- `religion/` — divindades, culto, sistemas religiosos
+- `myths/` — lendas, narrativas (com penetração P1–P5)
+
+## Myths — Penetração
+
+| Nível | Quem conhece |
+|-------|--------------|
+| P1 | Todo mundo sabe |
+| P2 | Maioria das pessoas |
+| P3 | Grupos específicos |
+| P4 | Poucos guardiões |
+| P5 | Ninguém sabe |
+
+## Idioma
+
+- Conteúdo em **Pt-BR** ou **English** conforme o material
+- Manter consistência dentro de cada documento

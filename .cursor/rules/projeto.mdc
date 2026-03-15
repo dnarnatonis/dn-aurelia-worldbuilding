@@ -9,32 +9,43 @@ Workspace para worldbuilding e campanhas do mundo de **Aurelia**.
 
 ## Idioma
 
-- Conteúdo de worldbuilding em **Português do Brasil (Pt-BR)**
-- Notas técnicas podem ser em inglês
+- Conteúdo em **Pt-BR** ou **English** conforme o material existente
+- Manter consistência dentro de cada documento
 
-## Estrutura de Pastas
+## Estrutura de Pastas (Root)
 
 | Pasta | Conteúdo |
 |-------|----------|
-| **campaigns** | Campanha a campanha — sessões, NPCs, materiais por crônica |
-| **references** | Regras, formatos, key notes de vídeos, materiais de apoio |
+| **campaigns** | Campanha a campanha — sessões, NPCs, dungeons, materiais por crônica |
+| **references** | Regras (DMG, guias), formatos, key notes de vídeos, materiais de apoio |
 | **worldbuilding** | Tudo sobre o mundo de Aurelia |
 
-## Worldbuilding — Subpastas
+## Worldbuilding — Taxonomia Completa
 
-| Subpasta | Propósito |
-|----------|-----------|
-| **history** | Fatos — framework de consistência. Nunca contradizer. |
-| **culture** | Línguas, costumes, etnias |
-| **myths** | Lentes sobre a history — o que as pessoas sabem. Usar classificação P1–P5 (penetração). Podem contradizer uns aos outros. |
+| Pasta | Subpastas | Propósito |
+|-------|-----------|-----------|
+| **geography** | regions, locations, maps, environment | Mundo físico |
+| **people** | cultures, languages, factions, notable-figures, bestiary | Seres e organizações |
+| **history** | timeline, eras, events, artifacts | Fatos canônicos |
+| **cosmology** | planes, magic, religion, myths | Metafísico e sobrenatural |
 
-## Myths — Penetração
+## Tags e Wikilinks
+
+- **Tags** (frontmatter): classificação para filtros, busca e Graph do Obsidian
+- **Wikilinks** `[[nome]]`: relações semânticas entre documentos
+- Taxonomia detalhada em `worldbuilding-md.mdc` e `campaign-md.mdc`
+
+## Cosmology / Myths — Penetração (P1–P5)
 
 - P1: Todo mundo sabe
 - P2: Maioria das pessoas
-- P3: Grupos específicos
-- P4: Poucos guardiões
+- P3: Grupos específicos (eruditos, clérigos, nobres)
+- P4: Poucos guardiões, círculos fechados
 - P5: Ninguém sabe
+
+## References
+
+O conteúdo em `references/` corresponde ao que no vault original estava em `rules/`: DMG sections, 5-room dungeon, guias de campanha, etc.
 
 ## AI Profile
 

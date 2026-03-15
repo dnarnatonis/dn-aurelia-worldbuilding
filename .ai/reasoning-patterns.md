@@ -7,15 +7,15 @@ How to approach different types of tasks in this repository.
 1. **Consistency first** — check history before adding facts
 2. **Myth vs fact** — myths can contradict; history is canonical
 3. **Penetration** — always classify myths (P1–P5)
+4. **Taxonomy** — geography, people, history, cosmology (each with subfolders)
 
 ## Campaign Planning
 
 1. **Anchor in worldbuilding** — campaigns draw from worldbuilding
-2. **Session notes** — keep in campaigns/{campaign-name}/
-3. **References** — link to rules, formats, external sources
+2. **Structure** — core/, npcs/, dungeons/, sessions/, factions/, etc.
+3. **References** — link to rules in references/, worldbuilding concepts
 
 ## References
 
-- Rules, formats, key notes go in `references/`
-- Organize by type: rules, formats, videos, etc.
-- Use clear naming for discoverability
+- Rules (DMG, guias), formats, key notes go in `references/`
+- Maps to original vault's `rules/` folder

@@ -1,0 +1,83 @@
+---
+description: Estrutura e convenções para campanhas
+globs: campaigns/**/*.md
+alwaysApply: false
+---
+
+# Convenções — Campaigns
+
+## Estrutura por Campanha
+
+Cada campanha em `campaigns/{nome-da-campanha}/`:
+
+```
+campaigns/nome-da-campanha/
+├── core/           # Master plot, temas, nemesis, estrutura
+├── npcs/           # Personagens da campanha
+├── dungeons/       # Masmorras e locais de aventura
+├── sessions/       # Registro de sessões
+├── factions/       # Facções envolvidas
+├── monsters/       # Monstros e encontros
+├── encounters/     # Encontros específicos
+├── handouts/       # Materiais para jogadores
+├── players/        # Personagens jogadores
+└── extra-lore/     # Lore adicional (boletins, etc.)
+```
+
+## Tags — Taxonomia
+
+Sempre incluir `tags` no frontmatter.
+
+| Categoria | Tags | Uso |
+|-----------|------|-----|
+| **Tipo** | `npc` `session` `dungeon` `faction` `monster` `encounter` `handout` | Tipo do documento |
+| **Campanha** | `black-hollow` ou nome da campanha | Qual campanha |
+| **Relação** | `nemesis` `ally` `antagonist` | Papel narrativo |
+
+### Exemplos de Frontmatter
+
+**NPC:**
+```yaml
+---
+tags: [campaign, npc, black-hollow, antagonist]
+campaign: "[[Black Hollow]]"
+faction: "[[Cult of Vaelthas]]"
+---
+```
+
+**Sessão:**
+```yaml
+---
+tags: [campaign, session, black-hollow]
+session: 5
+---
+```
+
+**Dungeon:**
+```yaml
+---
+tags: [campaign, dungeon, black-hollow]
+location: "[[Eelgrave]]"
+---
+```
+
+**Facção de campanha:**
+```yaml
+---
+tags: [campaign, faction, black-hollow]
+---
+```
+
+## Core Files (metodologia Epic Campaigns)
+
+- `00-master-plot.md` — O motor da história
+- `01-themes.md` — Temas principais
+- `02-nemesis.md` — Perfil do antagonista
+- `03-master-plot.md` — Estrutura em 4 estágios
+- `XX-campaign-structure.md` — Status, milestones, recompensas
+
+## Links (Wikilinks)
+
+- Linkar NPCs, locais e conceitos ao worldbuilding
+- Ex: `[[Lumenaris]]`, `[[The Cabal]]`, `[[Stonewood]]`
+- Tags = classificação; wikilinks = relações semânticas

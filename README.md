@@ -8,21 +8,20 @@ Workspace para worldbuilding e campanhas do mundo de **Aurelia**.
 
 | Pasta | Conteúdo |
 |-------|----------|
-| **campaigns** | Campanha a campanha — sessões, NPCs, materiais por crônica |
-| **references** | Regras, formatos, key notes de vídeos, materiais de apoio |
+| **campaigns** | Campanha a campanha — core, NPCs, dungeons, sessões |
+| **references** | Regras (DMG, guias), formatos, key notes |
 | **worldbuilding** | Tudo sobre o mundo de Aurelia |
 
-### Worldbuilding
+### Worldbuilding — Taxonomia
 
-| Subpasta | Propósito |
-|----------|-----------|
-| **history** | Fatos — framework de consistência |
-| **culture** | Línguas, costumes, etnias |
-| **myths** | Lentes sobre a history — o que as pessoas sabem. Classificação P1–P5 (penetração). |
+| Pasta | Propósito |
+|-------|-----------|
+| **geography** | Regiões, locais, mapas, ambiente |
+| **people** | Culturas, línguas, facções |
+| **history** | Timeline, eras, eventos, artefatos |
+| **cosmology** | Planos, magia, religião, myths |
 
----
-
-## Myths — Classificação de Penetração
+### Myths — Penetração (P1–P5)
 
 | Nível | Quem conhece |
 |-------|--------------|
@@ -36,10 +35,8 @@ Workspace para worldbuilding e campanhas do mundo de **Aurelia**.
 
 ## Cursor / AI
 
-O projeto usa AI Profile e Cognitive Framework em `.ai/`:
-
 - `.ai/user-ai-profile.md`
 - `.ai/user-cognitive-framework.md`
 - `.ai/style-guide.md`
 
-Regras do projeto em `.cursor/rules/`.
+Regras: `.cursor/rules/` (projeto, worldbuilding-md, campaign-md)

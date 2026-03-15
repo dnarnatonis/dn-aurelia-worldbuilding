@@ -6,16 +6,31 @@ alwaysApply: false
 
 # Convenções — Worldbuilding Markdown
 
-## Myths — Frontmatter Obrigatório
+## Tags — Taxonomia
 
-Todo mito em `worldbuilding/myths/` deve ter:
+Sempre incluir `tags` no frontmatter. Hierarquia: tipo principal + subtipo.
+
+| Categoria | Tags | Uso |
+|-----------|------|-----|
+| **Tipo** | `geography` `people` `history` `cosmology` | Tipo principal |
+| **Subtipo** | `region` `location` `culture` `faction` `language` `artifact` `myth` `religion` `plane` | Específico |
+| **Era** (myths) | `origins` `mythical-age` `age-of-balance` `age-of-heroes` `age-of-man` | Quando aplicável |
+| **Penetração** (myths) | `P1` `P2` `P3` `P4` `P5` | Quem conhece |
+
+## Frontmatter por Tipo
+
+### Myths (`cosmology/myths/`)
 
 ```yaml
 ---
+title: "Nome do Mito"
+age: "Age of Heroes"
+order: 1
 penetration: P2
 veracity: unknown
 contradicts: []
-tags: [myth, tema]
+tags: [cosmology, myth, age-of-heroes, P2]
+related_concepts: []
 ---
 ```
 
@@ -23,15 +38,92 @@ tags: [myth, tema]
 |-------|---------|-----------|
 | `penetration` | P1–P5 | Quem conhece o mito |
 | `veracity` | true, false, unknown, partial | Relação com a verdade factual |
+| `age` | era cronológica | Organização por era |
 | `contradicts` | lista de links | Mitos que contradizem este |
-| `tags` | lista | Classificação temática |
 
-## Links
+### Geography
 
-- Usar `[[wikilinks]]` para NPCs, locais, conceitos, outros mitos
+```yaml
+---
+title: "Nome"
+category: "Regions" | "Locations"
+tags: [geography, region]   # ou location
+related_concepts: []
+---
+```
+
+### People (cultures, factions)
+
+```yaml
+---
+title: "Nome"
+category: "Cultures" | "Factions"
+tags: [people, culture]     # ou faction
+related_concepts: []
+---
+```
+
+### History (artifacts, timeline, events)
+
+```yaml
+---
+title: "Nome"
+category: "Artifacts" | "Timeline" | "Events"
+tags: [history, artifact]   # ou timeline, event
+related_concepts: []
+---
+```
+
+### Languages
+
+```yaml
+---
+title: "Nome do Idioma"
+category: "Ancient Languages"
+origin: "Pre-Cataclysmic Era"
+status: "Dead Language" | "Living"
+speakers: "Quem fala"
+writing_system: "Sistema de escrita"
+tags: [people, language]
+related_concepts: []
+---
+```
+
+### Religion
+
+```yaml
+---
+title: "Nome"
+category: "Religion"
+tags: [cosmology, religion]
+related_concepts: []
+---
+```
+
+### Planes
+
+```yaml
+---
+title: "Nome"
+category: "Planes"
+tags: [cosmology, plane]
+related_concepts: []
+---
+```
+
+## Links (Wikilinks)
+
+- Usar `[[wikilinks]]` para NPCs, locais, conceitos, outros documentos
 - Linkar conceitos relacionados, não toda ocorrência
+- Tags = classificação; wikilinks = relações semânticas
 
-## History vs Myths
+## History vs Myths vs Religion
 
-- **history**: factual, neutro, sem interpretação
-- **myths**: narrativo, pode ser em voz in-world, pode contradizer
+- **history**: factual, neutro, fatos canônicos
+- **myths**: narrativas — o que as pessoas contam; podem contradizer
+- **religion**: crenças estruturadas, práticas, hierarquias
+
+## Nomenclatura
+
+- Nomes de arquivo em lowercase, hífens para espaços
+- Ex: `the-alamans.md`, `imperial-calendar.md`

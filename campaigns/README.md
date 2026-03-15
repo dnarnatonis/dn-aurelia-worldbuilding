@@ -2,12 +2,20 @@
 
 Organize campanha a campanha.
 
-Cada campanha deve ter sua própria pasta:
+## Estrutura por Campanha
 
 ```
-campaigns/
-  nome-da-campanha/
-    sessões/
-    npcs/
-    ...
+campaigns/nome-da-campanha/
+├── core/           # Master plot, temas, nemesis
+├── npcs/
+├── dungeons/
+├── sessions/
+├── factions/
+├── monsters/
+├── encounters/
+├── handouts/
+├── players/
+└── extra-lore/
 ```
+
+Ver `.cursor/rules/campaign-md.mdc` para convenções detalhadas.

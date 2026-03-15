@@ -12,9 +12,10 @@ Complements the AI Profile with formatting and structural conventions.
 ## Worldbuilding Documents
 
 - **history**: factual, neutral tone
-- **culture**: descriptive, ethnographic
-- **myths**: narrative, in-world voice when appropriate
-- Always include frontmatter with classification (e.g. penetration for myths)
+- **geography**: descriptive, spatial
+- **people/cultures**: ethnographic, descriptive
+- **cosmology/religion**: structured belief systems
+- **cosmology/myths**: narrative, in-world voice when appropriate; always include penetration (P1–P5)
 
 ## Links
 

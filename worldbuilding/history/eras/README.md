@@ -1,0 +1,3 @@
+# Eras
+
+Períodos históricos maiores.

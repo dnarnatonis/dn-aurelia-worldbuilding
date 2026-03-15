@@ -2,6 +2,10 @@
 
 Organize campanha a campanha.
 
+## Campanhas
+
+- **black-hollow/** — Gilded Dawn, Black Hollow
+
 ## Estrutura por Campanha
 
 ```

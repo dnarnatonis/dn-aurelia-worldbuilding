@@ -8,17 +8,36 @@ location: "[[city-of-the-gods|Aran'keth]]"
 
 Aran'keth funciona como um **megadungeon urbano em hexcrawl**. Toda exploração é medida em **turnos de 10 minutos**.
 
+Base: [[PHB-01-10-Exploration|PHB 01-10]] (Travel Pace) + [[DMG-02-07-Running-Exploration|DMG 02-07]] (hexcrawl, Journey Stages).
+
 ---
 
 ## Mapa Hexcrawl
 
 | Parâmetro | Valor |
 |-----------|-------|
-| Escala | 1 hex = 200–300 metros |
-| Grid | 7×7 ou 9×9 hexes |
+| Escala | 1 hex = 3000 ft (0.5 mile, ~900 m) |
+| Grid | 11×11 hexes (121 total) |
 | Hexes com conteúdo | ~25–30 |
 | Restante | Ruínas exploráveis (descobertas menores) |
-| Movimento | 1 hex = 1 turno (10 min) |
+| Movimento | 1 hex = 1 turno (10 min) em **Normal pace** |
+
+**Cálculo:** PHB Normal pace = 300 ft/min → 3000 ft ÷ 300 = 10 min. A cidade cobre ~5.5 miles por lado (~30 sq miles).
+
+| Pace   | Velocidade | Tempo por Hex | WIS (Perception/Survival) | DEX (Stealth) |
+|--------|------------|---------------|---------------------------|---------------|
+| Fast   | 400 ft/min  | ~7.5 min      | Desvantagem               | Desvantagem   |
+| Normal | 300 ft/min  | 10 min        | —                         | Desvantagem   |
+| Slow   | 200 ft/min  | 15 min        | Vantagem                  | —             |
+
+> **PHB 01-10 — Travel Pace (verbatim)**  
+> Each travel pace has a game effect, as defined below.
+>
+> **Fast.** Traveling at a Fast pace imposes Disadvantage on a traveler's Wisdom (Perception or Survival) and Dexterity (Stealth) checks.
+>
+> **Normal.** Traveling at a Normal pace imposes Disadvantage on Dexterity (Stealth) checks.
+>
+> **Slow.** Traveling at a Slow pace grants Advantage on Wisdom (Perception or Survival) checks.
 
 ---
 

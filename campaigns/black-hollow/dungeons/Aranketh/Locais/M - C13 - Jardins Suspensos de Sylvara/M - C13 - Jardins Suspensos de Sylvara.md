@@ -17,9 +17,9 @@ Elevada no meio da mata corrompida pela invasão fúngica, a antiga estrutura do
 
 | Aspecto | Detalhe |
 |---------|---------|
-| **Situação** | Vestígio divino esgotado corrompido por influência alien fúngica; espalha a praga pelo quadrante |
-| **Conflito** | Uma Green Hag mantém um beholder como "pet" — manifestação de um Deus Cego e Idiota (Azathoth-style); usa o poder fúngico para controlar o quadrante |
-| **Objetivo** | Investigar a corrupção, alcançar o templo central; confrontar ou negociar com a Hag |
+| **Situação** | Guardiã de Sylvara ([[ithiriel-keeper-of-the-garden|Ithiriel]]) enlouquecida pelo Whisperer; vestígio esgotado; crescimento compulsivo = corrupção fúngica |
+| **Conflito** | Ithiriel (Guardiã) enlouquecida = fonte da corrupção. Coven de 3 Hags mora aqui por conveniência (véu fino para Feyglade). Red herring — parecem culpadas, não são. |
+| **Objetivo** | Investigar a corrupção, alcançar o templo central; confrontar Ithiriel + Beholder (combate ou purificação). Hags são pit stop. |
 | **Recompensa** | Informação sobre os vestígios, possível item ([[magic-items|budget Tier 2]]), pista sobre a prisão do Whisperer |
 
 ---
@@ -90,67 +90,50 @@ Elevada no meio da mata corrompida pela invasão fúngica, a antiga estrutura do
 | Aspecto | Detalhe |
 |---------|---------|
 | **Status** | Esgotada — perdeu o poder há eras |
-| **Local** | Câmera central do templo, sob a cúpula |
+| **Local** | Câmera central do templo, sob a cúpula — **envolta no Beholder** |
 | **Função atual** | Centro da corrupção fúngica — atrai, amplifica ou canaliza a influência alien |
-| **Física** | Pode existir como objeto — semente petrificada, rachada, envolta em micélio |
+| **Física** | Semente petrificada, rachada — o beholder a envolve, contém ou parasita |
 
-A Semente não é usável como vestígio. Mas sua presença explica a corrupção do quadrante e oferece **informação** sobre os 8 vestígios e a prisão.
+A Semente não é usável como vestígio. Mas sua presença explica a corrupção do quadrante e oferece **informação** sobre os 8 vestígios e a prisão. Para acessá-la, os PCs precisam lidar com o beholder primeiro.
 
 ---
 
-## Antagonista: A Hag e o Beholder
+## Antagonistas
+
+### Ithiriel — Guardiã de Sylvara
+
+[[ithiriel-keeper-of-the-garden|Ithiriel]] é a **verdadeira fonte de poder** do quadrante. Emissária de Sylvara, deixada para proteger a Semente durante a Fracture. Enlouquecida pelo Whisperer ao longo de milhares de anos — seu domínio (Vida, Ciclos, Crescimento) distorcido em **crescimento compulsivo sem controle**. A corrupção fúngica do quadrante inteiro é obra de Ithiriel, não da Hag.
+
+Ver [[ithiriel-keeper-of-the-garden|ficha completa]] e [[backstory#Guardiões de Aran'keth|conceito de Guardiões]].
 
 ### O Beholder — Deus Cego e Idiota
 
-Manifestação de uma divindade exterior ao estilo **Azathoth** (Mitos de Cthulhu): consciência incompreensível, alheia aos assuntos mortais. O universo existe como sonho dele. A Hag o mantém como **"pet"** — canaliza ou contém sua presença para controlar o quadrante.
+Manifestação de uma divindade exterior ao estilo **Azathoth** (Mitos de Cthulhu): consciência incompreensível, alheia aos assuntos mortais. Atraído pelo poder corrompido de Ithiriel. **Envolve a Semente de Sylvara** — a contém ou parasita, fundido com o vestígio esgotado. A Hag o usa como ferramenta de controle sobre a Guardiã.
 
-*Stat block:* [Beholder Zombie](https://www.dndbeyond.com/monsters/5194922-beholder-zombie) (MM 5.5e) ou reskin — a ideia é que *pareça* um beholder, não um zombie fraco. O encontro será criado depois.
+*Stat block:* [Beholder Zombie](https://www.dndbeyond.com/monsters/5194922-beholder-zombie) (MM 5.5e) ou reskin — a ideia é que *pareça* um beholder, não um zombie fraco. A Semente pode ser visível no centro do corpo (núcleo orgânico).
 
-### A Green Hag
+### Morvanna — Uma Hag, Três Personalidades
 
-[Green Hag](https://www.dndbeyond.com/monsters/5195057-green-hag) (MM 5.5e). Aproveitou a **fragmentação do culto** para fazer seu movimento — usar o poder fúngico e o beholder para dominar o quadrante verdejante.
+**Morvanna.** [Green Hag](https://www.dndbeyond.com/monsters/5195057-green-hag) (MM 5.5e) — **um corpo, três personalidades**. Ocupam o mesmo corpo; o DM interpreta como vozes distintas. Mora nos Jardins por **conveniência** — o véu para a [[Feyglade Veil]] é fino aqui. Cabana Baba Yaga no átrio (demiplano). **Pit stop**, não antagonista.
 
 | Aspecto | Detalhe |
 |---------|---------|
-| **O que quer** | Poder, puro e simples |
-| **O que sabe** | Fragmentação (superficial — visão de fora); Vaelthas; vestígios; um pouco sobre a prisão |
-| **Posição sobre PCs** | Não necessariamente hostil — **aliada de ocasião** se proposto |
+| **Culpa na corrupção?** | **Não.** Mas não fizeram nada para melhorar. |
+| **Red herring** | Age como Hag — ambígua, traiçoeira, suspeita. Os PCs vão se perguntar. |
+| **O que quer** | Seguir sua natureza: segredos, favores, entretenimento |
+| **O que sabe** | Fragmentação, Ithiriel, vestígios, Whisperer (observa tudo) |
+| **Posição sobre PCs** | Curiosa. Visitantes são entretenimento e moeda de troca. |
 
-#### NPC (Epic Campaigns)
-
-| Campo | Conteúdo |
-|-------|----------|
-| **Job** | "Senhora" do quadrante — controla o beholder, canaliza a corrupção fúngica |
-| **Goal** | Consolidar poder; talvez expandir |
-| **Desire** | Poder, autonomia, não ser descoberta pelas facções |
-| **Fear** | Perder o beholder; Vaelthas ou a Gravedigger descobrirem seu jogo |
-| **Use** | Fonte de informação (vestígios, prisão, Vaelthas); possível aliada se negociado |
-| **Competence** | Alta — sobreviveu à fragmentação, estabeleceu domínio |
-| **Likability** | Variável — pragmática, não cruel por crueldade |
-| **Proactivity** | Alta — fez o move quando o culto ruiu |
-
-#### Informação que pode dar
-
-- Fragmentação do culto (visão superficial)
-- Vaelthas e o Tomb of the First Kind
-- Vestígios — quais existem, onde estão
-- Prisão do Whisperer — noções gerais
-
-#### Aliança de ocasião
-
-Se os PCs propuserem negociação, a Hag pode trocar informação por algo que deseje (proteção, distração de inimigos, acesso a outro vestígio). Não quer mal aos PCs — são ferramentas potenciais ou ameaças a gerenciar.
+**As três personalidades:** A Anfitriã (maternal, traiçoeira), A Sombria (observadora, fala pouco), A Faminta (curiosa, invasiva, coleciona). Em combate: 3 ações/turno, 3 pools de HP; cada pool zerada = uma personalidade banida ao Feywild. Ver [[encounter-02-the-atrium-branching|encontro 2]] para detalhes.
 
 ---
 
-## Estrutura 5-Room
+## Estrutura
 
-| Sala | Tipo | Encontro |
-|------|------|----------|
-| **1 — Guardião** | Puzzle | [[encounter-01-the-gate-of-senses|O Portão dos Sentidos]] — ritual das 3 efígies, sacrifício de sentido |
-| **2 — Puzzle/Social** | Exploração (Branching) | [[encounter-02-the-atrium-branching|O Átrio]] — 2 caminhos (canal → [[encounter-03-the-drowned-passage|03]], escadas → [[encounter-04-the-upper-terrace|04]]) |
-| 3 — Twist | Hazard/Social | [[encounter-03-the-drowned-passage|Passagem Afogada]] ou [[encounter-04-the-upper-terrace|Terraço]] — reviravolta por caminho |
-| 4 — Climax | Combate/Negociação | Câmera central — Hag + Beholder + Semente |
-| 5 — Recompensa | Resolução | Semente, loot, informação |
+| Encontro | Tipo | Conteúdo |
+|----------|------|----------|
+| **1 — A Cabana** | Guardião + Puzzle + Twist | [[encounter-01-the-hags-cabin|A Cabana de Morvanna]] — Xerxes (gatekeeper), negociação com o coven (puzzle), revelação de espionagem + red herring (twist) |
+| **2 — O Terraço** | Climax | [[encounter-02-the-terrace-climax|Ithiriel e a Semente]] — confronto com a Guardiã + Beholder. Combate, social ou purificação. Semente como recompensa narrativa. |
 
 ---
 
@@ -160,13 +143,8 @@ Se os PCs propuserem negociação, a Hag pode trocar informação por algo que d
 
 | # | Arquivo | Tipo | Descrição |
 |---|---------|------|-----------|
-| 1 | [[encounter-01-the-gate-of-senses|encounter-01]] | Guardião — Puzzle | Ritual das 3 efígies (olhos, boca, ouvidos), círculo mágico, porta lacrada. Sacrifício voluntário abre passagem. |
-| 2 | [[encounter-02-the-atrium-branching|encounter-02]] | Exploração — Branching | Átrio pós-portal: 2 caminhos (canal, escadas), objetos interativos, escolha real. |
-| 3 | [[encounter-03-the-drowned-passage|encounter-03]] | Hazard + Combate | Caminho A — Canal afogado, esporos, spore servants. Chega ao climax pela retaguarda. |
-| 4 | [[encounter-04-the-upper-terrace|encounter-04]] | Social | Caminho B — Terraço superior, encontro com a Hag. Negociação ou combate. Chega ao climax pela entrada frontal. |
-| 5 | TBD | **Climax** | Câmera central — Hag + Beholder + Semente |
-
-*A Hag pode ser encontrada antes do climax — encontro social/negociação.*
+| 1 | [[encounter-01-the-hags-cabin|encounter-01]] | Guardião + Puzzle + Twist | Átrio: Xerxes guarda a porta (um por vez). Cabana Baba Yaga (demiplano). Morvanna — negociação, red herring, informação. |
+| 2 | [[encounter-02-the-terrace-climax|encounter-02]] | Climax | Terraço: Ithiriel (Treant corrompido) + Beholder (Semente dentro). Múltiplas soluções — combate, social, purificação. |
 
 ---
 
@@ -180,9 +158,11 @@ Se os PCs propuserem negociação, a Hag pode trocar informação por algo que d
 
 ## Conexões
 
-- [[5-room-dungeon|5-Room Dungeon]] — estrutura narrativa
-- [[make-exploration-a-game|Make Exploration a Game]] — branching pós-guardião
-- [[backstory|Backstory]] — Semente de Sylvara (esgotada)
+- [[encounter-01-the-hags-cabin|Encontro 1]] — A Cabana de Morvanna
+- [[encounter-02-the-terrace-climax|Encontro 2]] — O Terraço (Climax)
+- [[ithiriel-keeper-of-the-garden|Ithiriel]] — Guardiã de Sylvara
+- [[make-exploration-a-game|Make Exploration a Game]] — framework
+- [[backstory|Backstory]] — Semente de Sylvara (esgotada), Guardiões
 - [[aranketh|Aran'keth overview]]
 - [[magic-items|Magic Items — Aran'keth]]
 - [[six-pillars-dungeon-crawls|Six Pillars]]

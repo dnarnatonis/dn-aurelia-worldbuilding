@@ -54,7 +54,7 @@ campaign: "[[Black Hollow]]"
 - **Role:** Sells herbs, poultices, and "folk remedies"
 - **Appearance:** Elderly woman wrapped in layers of shawls, cloudy blue eyes that seem to see too much. Fingers stained green from herbs.
 - **Personality:** Kindly grandmother type with a hint of mystery
-- **Notable:** May have connections to the Hag
+- **Notable:** May have connections to [[ithiriel-keeper-of-the-garden|Morvanna]]
 - **Quote:** *"The old ways still work, dearie. Sometimes better than the new."*
 
 ### **Rook – Street Informant**
@@ -129,8 +129,9 @@ campaign: "[[Black Hollow]]"
 
 ## **Xerxes, the Cat**
 
-- **Role:** The mysterious cat that seems to know be known by everyone in the town.
-- **Appearance:** A black cat with a white face and paws.
-- **Personality:** Just a normal black cat.
-- **Notable:** Been in town for a long time.
-- **Quote:** *"Miau."*
+- **Role:** The mysterious cat that seems to be known by everyone in town. Actually a **Fey Cat** — servo de [[ithiriel-keeper-of-the-garden|Morvanna]].
+- **Appearance:** A black cat with a white face and paws. Perto da cabana de Morvanna, a presença Fey é mais óbvia: olhos brilham com luz própria, pelo parece mudar de tom com a luz, movimentos antinaturalmente precisos.
+- **Personality:** Em Black Hollow: "just a normal black cat." Na cabana: **fala**. Frases curtas, crípticas, tom seco. Julga. Decide quem entra. Só deixa **um por vez**.
+- **Notable:** Mora na taverna há anos. **Implicação:** Morvanna sabe muito mais sobre Black Hollow e os PCs do que deveria. Tudo que Xerxes viu, ela viu.
+- **Quote (Black Hollow):** *"Miau."*
+- **Quote (Cabana):** *"Um. Só um."*

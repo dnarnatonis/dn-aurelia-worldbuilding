@@ -31,7 +31,7 @@ O culto original ([[cult-of-vaelthas|Dark Reformation]]) operava sob Vaelthas e 
 
 ---
 
-## Os 8 Vestígios e a Prisão
+## Os 8 Vestígios, os Guardiões e a Prisão
 
 A cidade foi construída como mecanismo de contenção. No coração do sistema estão **8 artefatos** — vestígios do poder dos Oito Deuses, abençoados por eles durante a Age of Balance.
 
@@ -43,6 +43,18 @@ A cidade foi construída como mecanismo de contenção. No coração do sistema 
 Nenhum dos jogadores principais — Vaelthas, Gravedigger — quer a libertação total do Whisperer. O motivo da influência atual do aboleth é que a maioria dos vestígios já foi **gastos**; os restantes mantêm a prisão fraca mas intacta.
 
 Algumas facções podem ter usado vestígios para obter o poder que têm hoje.
+
+### Guardiões de Aran'keth
+
+Quando os Oito se retiraram durante a Fracture, cada deus deixou para trás um **Guardião** — emissário com fragmento de Power divino. Como os Maiar de Tolkien: enviados com uma missão, portadores de poder vestigial, mas sem acesso pleno ao Knowledge ou à Will do deus ([[creation|Power, Knowledge, Will]]).
+
+| Aspecto | Guardião |
+|---------|----------|
+| **Power** | Sim — vestigial mas real. Podem canalizar o domínio do deus. |
+| **Knowledge** | Parcial — sabem a missão (proteger vestígio e prisão), não o plano cósmico. |
+| **Will** | Própria, mortal — podem ser corrompidos, enganados, enlouquecidos. |
+
+Os Guardiões ficaram **milhares de anos** em Aran'keth. O Whisperer preencheu as lacunas de Knowledge com mentiras, corroeu a Will. **Todos enlouqueceram** — cada um de forma distinta, conforme seu domínio. Ver [[ithiriel-keeper-of-the-garden|Ithiriel]] (Sylvara) para o primeiro exemplo.
 
 ---
 
@@ -127,16 +139,16 @@ Entraram em contato com os Infernos após a fragmentação. Maltherion oferece a
 
 Cada vestígio corresponde a um templo e ao domínio do deus. Efeito: *Wish* (SL 10) limitado ao aspecto divino.
 
-| Vestígio | Deus | Templo | Status | Onde / Quem |
-|----------|------|--------|--------|-------------|
-| **Coração da Chama** | Zaralon | Templo da Chama Eterna | ativo | Facção da Chama (Elemental) |
-| **Olho Estelar** | Astrael | Observatório | esgotado | — (gasto há eras) |
-| **Semente de Sylvara** | Sylvara | Jardins Suspensos | esgotado | — (quadrante verdejante) |
-| **Presa de Thalvok** | Thalvok | Arena Bestial | esgotado | — (quadrante verdejante) |
-| **Lâmpada da Passagem** | Morthys | Catedral da Passagem | ativo | Vaelthas (Tomb of the First Kind) |
-| **Máscara do Véu** | Voryn | Torre do Véu | ativo | Facção do Sussurro (Aberrant) |
-| **Balança de Elyndra** | Elyndra | Hall do Julgamento | ativo | Facção Infernal (Fiend) |
-| **Martelo de Khorvyn** | Khorvyn | Forja Titânica | esgotado | — (gasto há eras) |
+| Vestígio | Deus | Templo | Status | Onde / Quem | Guardião |
+|----------|------|--------|--------|-------------|----------|
+| **Coração da Chama** | Zaralon | Templo da Chama Eterna | ativo | Facção da Chama (Elemental) | TBD |
+| **Olho Estelar** | Astrael | Observatório | esgotado | — (gasto há eras) | TBD |
+| **Semente de Sylvara** | Sylvara | Jardins Suspensos | esgotado | — (quadrante verdejante) | [[ithiriel-keeper-of-the-garden\|Ithiriel]] — enlouquecida, crescimento compulsivo |
+| **Presa de Thalvok** | Thalvok | Arena Bestial | esgotado | — (quadrante verdejante) | TBD |
+| **Lâmpada da Passagem** | Morthys | Catedral da Passagem | ativo | Vaelthas (Tomb of the First Kind) | TBD |
+| **Máscara do Véu** | Voryn | Torre do Véu | ativo | Facção do Sussurro (Aberrant) | TBD |
+| **Balança de Elyndra** | Elyndra | Hall do Julgamento | ativo | Facção Infernal (Fiend) | TBD |
+| **Martelo de Khorvyn** | Khorvyn | Forja Titânica | esgotado | — (gasto há eras) | TBD |
 
 **4 ativos** — Elemental, Aberrant, Fiend, Vaelthas. **4 esgotados** — Astrael, Sylvara, Thalvok, Khorvyn. A influência do Whisperer cresce porque a maioria já foi gasta.
 

@@ -2,9 +2,13 @@
 
 Referências para o trabalho de worldbuilding e campanhas:
 
-- **Regras** — sistemas de jogo, mecânicas
-- **Formatos** — templates, estruturas reutilizáveis
-- **Key notes** — resumos de vídeos (YouTube, etc.)
-- **Outros** — qualquer material de apoio
+| Pasta | Conteúdo |
+|-------|----------|
+| **frameworks/** | Modelos e frameworks reutilizáveis (ex: 5 facções) |
+| **rules/** | Sistemas de jogo, mecânicas (DMG, etc.) |
+| **formats/** | Templates, estruturas reutilizáveis |
+| **key-notes/** | Resumos de vídeos (YouTube, etc.) |
 
-Organize por tipo ou por fonte, conforme fizer sentido.
+## Frameworks disponíveis
+
+- `frameworks/05-factions-model.md` — Modelo de 5 facções para política complexa (GoT, Dune)

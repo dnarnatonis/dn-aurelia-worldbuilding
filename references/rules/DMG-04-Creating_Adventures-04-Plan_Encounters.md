@@ -45,10 +45,6 @@ The plots of evil cult leaders, malevolent spellcasters, and Fiends often involv
 
 A villain the characters seek to defeat is surrounded by minions powerful enough to kill the adventurers. The characters can flee and hope to confront the villain another day, or they can try to fight their way through the minions. As a complication, the minions might be innocent creatures under the villain's control. Killing the villain means breaking that control, but the adventurers must endure the minions' attacks until the villain falls.
 
-## Display in VTT
-
-Goblin raiders prepare an ambush in a gorge
-
 ## Keeping the Adventure Moving
 
 Make sure your players have clear objectives they can pursue at every stage of the adventure. Three simple techniques can ensure that the players understand the task at hand and how to pursue it:
@@ -205,53 +201,51 @@ If a monster has a feature that lower-level characters can't easily overcome, co
 
 The attitudes, motivations, and behavior of the monsters in an encounter help determine how a social interaction plays out (and whether it might erupt into combat) and influence the course of combat.
 
-## Display in VTT
-
-Kobolds build a barricade to keep adventurers at bay
-
 ## Initial Attitudes
 
 A published adventure typically notes or implies whether a creature's initial attitude toward the adventurers is Friendly, Indifferent, or Hostile. In an encounter you've created, you can decide that starting attitude, or you can randomly determine it using the Initial Attitude table.
 
-## Initial Attitude
+### Initial Attitude
 
-1d12* Initial Attitude
-4 or lower Hostile
-5–8 Indifferent
-9 or higher Friendly
+| 1d12* | Initial Attitude |
+|-------|------------------|
+| 4 or lower | Hostile |
+| 5–8 | Indifferent |
+| 9 or higher | Friendly |
+
 *Roll different dice to alter the range and likelihood of possible attitudes. For example, you could roll 1d6 for a predatory monster, 1d6 + 3 for ordinary travelers, or 1d6 + 6 for kindhearted individuals.
 
 ## Monster Personality
 
 If an encounter involves a significant individual, use the guidance in the "Nonplayer Characters" section of chapter 3 to flesh out the details of that individual's personality and aims. For a group of nameless monsters, you can decide on a personality based on the monsters' entries in the Monster Manual, or you can use the Monster Personality table to inform how you portray the monsters and their actions. It's simplest to assign the same personality traits to an entire group of monsters in an encounter. For example, one bandit gang might be an unruly mob of braggarts, while the members of another gang are always on edge and ready to flee at the first sign of danger.
 
-## Roll Table to VTT
+### Monster Personality
 
-Monster Personality
-1d8 Personality
-1 Cowardly; surrenders easily
-2 Greedy; wants treasure
-3 Boastful; makes a show of bravery but runs from danger
-4 Disorderly; poorly trained and easily rattled
-5 Fanatical; ready to die fighting
-6 Brave; stands firm against danger
-7 Jocular; taunts enemies
-8 Orderly; difficult to rattle
+| 1d8 | Personality |
+|-----|-------------|
+| 1 | Cowardly; surrenders easily |
+| 2 | Greedy; wants treasure |
+| 3 | Boastful; makes a show of bravery but runs from danger |
+| 4 | Disorderly; poorly trained and easily rattled |
+| 5 | Fanatical; ready to die fighting |
+| 6 | Brave; stands firm against danger |
+| 7 | Jocular; taunts enemies |
+| 8 | Orderly; difficult to rattle |
 
 ## Monster Relationships
 
 Encounters with groups of monsters can be more interesting if rivalries, hatreds, or attachments exist among the monsters in the group. The death of a much-revered leader might throw its followers into a frenzy. On the other hand, a monster might flee if its hunting companion is killed, or a mistreated toady might be eager to surrender and betray its boss in return for its life. You can use the Monster Relationships table to inspire such relationships within a monster group.
 
-## Roll Table to VTT
+### Monster Relationships
 
-Monster Relationships
-1d6 Relationship
-1 Two monsters have a bitter rivalry; each wants the other to suffer.
-2 One monster, bullied by the others, hangs back and flees at the first opportunity.
-3 One monster is revered or even worshiped by the others, who will die for it.
-4 One monster is admired by the group; its allies try to impress or help it.
-5 One monster cares only for itself and not the rest of the group.
-6 One monster bullies the others; it forces them into danger, but they want it defeated.
+| 1d6 | Relationship |
+|-----|--------------|
+| 1 | Two monsters have a bitter rivalry; each wants the other to suffer. |
+| 2 | One monster, bullied by the others, hangs back and flees at the first opportunity. |
+| 3 | One monster is revered or even worshiped by the others, who will die for it. |
+| 4 | One monster is admired by the group; its allies try to impress or help it. |
+| 5 | One monster cares only for itself and not the rest of the group. |
+| 6 | One monster bullies the others; it forces them into danger, but they want it defeated. |
 
 ## Reactive Tactics
 
@@ -332,9 +326,6 @@ You can influence the pace and tension of your adventure by determining where an
 It is possible to dial up the urgency to the point that the players feel they don't have time to investigate the interesting details they encounter in the world. When this happens, consider using a helpful NPC to take some of the pressure off. A wise elder might advise them that the situation is not as urgent as they fear, a whimsical Fey being might use magical mischief to force them to slow down, or a kindly Celestial could tell them they're taking the concerns of the mortal world just a bit too seriously.
 
 ## Random Encounters
-
-Display in VTT
-Mysterious lights glimmer in a remote mountain lake, drawing adventurers to explore
 
 Random encounters are randomly determined encounters that don't occur in a fixed location. The options are often presented in a table. When a random encounter occurs, you roll a die and consult the table to determine what the party encounters. Sample random encounter tables appear in the adventure examples later in this chapter. Similar tables appear in many published adventures and rulebooks, and you can easily create your own by following these examples.
 

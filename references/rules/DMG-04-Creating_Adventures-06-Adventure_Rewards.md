@@ -40,7 +40,7 @@ As a rough benchmark, aim to roll on the Random Treasure Hoard table about once 
 |---|---|---|
 | 0–4 | 2d4 × 100 (500) GP | 1d4 - 1 |
 | 5–10 | 8d10 × 100 (4,400) GP | 1d3 |
-| 11–16 | 8d8 × 10,000 (36,000) GP | 1d4 |
+| 11–16 | 8d8 × 1,000 (36,000) GP | 1d4 |
 | 17+ | 6d10 × 10,000 (330,000) GP | 1d6 |
 
 ## Quest Rewards

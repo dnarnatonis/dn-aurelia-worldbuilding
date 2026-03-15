@@ -17,12 +17,12 @@ Base: [[PHB-01-10-Exploration|PHB 01-10]] (Travel Pace) + [[DMG-02-07-Running-Ex
 | Parâmetro | Valor |
 |-----------|-------|
 | Escala | 1 hex = 3000 ft (0.5 mile, ~900 m) |
-| Grid | 11×11 hexes (121 total) |
+| Grid | 19×19 hexes (361 total) |
 | Hexes com conteúdo | ~25–30 |
 | Restante | Ruínas exploráveis (descobertas menores) |
 | Movimento | Normal: 1 hex/turno. Fast: 2 hexes. Slow: ½ hex. |
 
-**Base:** Normal pace = 1 hex per turno (10 min). A cidade usa multiplicadores simplificados: Fast = 2×, Slow = ½×.
+**Base:** Normal pace = 1 hex per turno (10 min). A cidade cobre ~9.5 miles por lado (~90 sq miles). Multiplicadores: Fast = 2×, Slow = ½×.
 
 | Pace   | Movimento por turno | Tempo por hex | WIS (Perception/Survival) | DEX (Stealth) |
 |--------|---------------------|---------------|---------------------------|---------------|
@@ -163,7 +163,7 @@ Cada distrito é dominado por uma facção cultista derivada da fé original cor
 
 | Facção | Distrito | Base | Ver |
 |--------|----------|------|-----|
-| Facção da Forja (Elemental) | Ordem e Pedra | Forja Titânica | `backstory.md` |
+| Facção da Chama (Elemental) | Fogo e Céu | Templo da Chama Eterna | `backstory.md` |
 | Facção da Passagem (Death) | Morte e Sombras | Necrópole Inferior | `backstory.md` |
 | Facção do Sussurro (Aberrant) | Morte e Sombras | Torre do Véu | `backstory.md` |
 | Facção Infernal (Fiend) | Ordem e Pedra | Hall do Julgamento | `backstory.md` |

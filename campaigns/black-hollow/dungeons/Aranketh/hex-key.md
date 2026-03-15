@@ -24,7 +24,7 @@ Legenda de tipo:
 
 | Hex | Tipo | Nome | Notas |
 |-----|------|------|-------|
-| | M | Templo da Chama Eterna | |
+| | M | Templo da Chama Eterna | Base: Facção da Chama (Elemental) |
 | | M | Observatório de Astrael | |
 | | I | | |
 | | I | | |
@@ -37,8 +37,8 @@ Legenda de tipo:
 
 | Hex | Tipo | Nome | Notas |
 |-----|------|------|-------|
-| | I | Passagem de entrada | Desemboca aqui |
-| | M | Jardins Suspensos de Sylvara | |
+| A09 | I | Passagem de entrada | Desemboca aqui |
+| C13 | M | Jardins Suspensos de Sylvara | |
 | | M | Arena Bestial de Thalvok | |
 | | I | | |
 | | I | | |
@@ -61,7 +61,7 @@ Legenda de tipo:
 | Hex | Tipo | Nome | Notas |
 |-----|------|------|-------|
 | | M | Hall do Julgamento de Elyndra | Base: Facção Infernal (Fiend) |
-| | M | Forja Titânica de Khorvyn | Base: Facção da Forja (Elemental) |
+| | M | Forja Titânica de Khorvyn | Vestígio esgotado; local vazio |
 | | I | | |
 | | I | | |
 | | D | | |

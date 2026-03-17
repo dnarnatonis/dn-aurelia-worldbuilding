@@ -43,7 +43,7 @@ Legenda de tipo:
 | B17 | I | Templo Secundário (Refúgio de Silas) | [[silas-the-raven|Silas]] escondido. Vesper avista ao se aproximar. Marca de corvo na entrada. [[I - B17 - Refúgio de Silas]] |
 | | I | | |
 | | D | Água potável | A água dos rios e riachos do distrito é potável |
-| | R | | |
+| A14 | R | | Entrada pelo túnel — jogadores chegam aqui |
 
 ## Distrito da Morte e Sombras (Morthys + Voryn)
 

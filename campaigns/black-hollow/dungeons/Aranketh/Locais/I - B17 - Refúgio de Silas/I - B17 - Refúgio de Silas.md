@@ -2,7 +2,7 @@
 tags: [campaign, dungeon, black-hollow, aranketh, location]
 campaign: "[[Black Hollow]]"
 location: "[[aranketh|Aran'keth]]"
-distrito: "Vida e Natureza"
+distrito: "Quarter of Being (Bairro do Ser)"
 hex: "B17"
 tipo: "Local Intermediário (I)"
 ---

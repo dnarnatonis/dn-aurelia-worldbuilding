@@ -1,20 +1,10 @@
 # Encontro 1: A Cabana de Morvanna
 
 **Tipo:** Guardião + Puzzle + Twist (Social)
-**Duração:** 30–50 minutos
+**Pilar:** Social (ou Combate)
+**Duração:** Moderate 20–40 minutos; Major (Combate) 40-80 minutos
 
-**Música:** [Sugestão: tema misterioso, folclórico]
-
----
-
-## Framework aplicado
-
-*Baseado em [[make-exploration-a-game|Make Exploration a Game]].*
-
-**Loop de exploração:**
-```
-OBSERVAR → INVESTIGAR → DECIDIR → DESCOBRIR
-```
+**Música:** [The Nightingale](https://music.youtube.com/watch?v=GKt_uBspT_g&list=OLAK5uy_mCEI_dk83gKOMlNZa8xX1YTT2imtILM2E)
 
 ---
 
@@ -32,7 +22,7 @@ Mas no **centro do átrio**, onde não deveria haver nada, há uma **cabana**.
 
 ---
 
-## Xerxes
+## Xerxes (Xervazar)
 
 Na soleira da porta, **um gato completamente preto** está sentado. Não se move. Olha para o grupo. Depois olha para um deles especificamente.
 
@@ -74,74 +64,39 @@ A cabana é **maior por dentro do que por fora**. Ao cruzar a porta, o grupo ent
 
 ## O Coven
 
-**Morvanna.** Três personalidades — **um corpo**. Uma Hag, três mentes. O véu para a [[Feyglade Veil]] é fino nos Jardins; ela tem muito poder aqui. Mora neste lugar por conveniência. A corrupção fúngica não incomoda — e um quadrante onde ninguém mais vem é território ideal.
+**NPC:** [[morvanna]]
 
-**Não são responsáveis pela corrupção.** Não controlam Ithiriel. Não manipulam o beholder. Estão aqui porque é bom para elas. Ponto. Mas não fizeram nada para melhorar — e isso levanta suspeita.
+**Morvanna** é uma Hag com três mentes em um só corpo (A Anfitriã, A Sombria, A Faminta). Ela mora nos Jardins por conveniência, pois o véu para a [[Feyglade Veil]] é fino aqui. 
 
-**Red herring:** Os PCs vão se perguntar se Morvanna causou tudo. A ambiguidade é intencional.
+*Para detalhes completos de interpretação, personalidades e o que ela oferece/pede em negociações, consulte o artigo principal da NPC: [[morvanna]].*
 
-### As três personalidades
+### [Study](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#StudyAction) [Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) DC 15 — *o que o folclore e o corpo dizem*
 
-*Uma corpo, três vozes. O DM interpreta como personalidades distintas — postura, tom, gestos mudam quando cada uma "fala".*
+**Filosofia:** o teste **não tranca** a verdade — acrescenta **camadas** (contexto de Aurelia, nomes de história, detalhes sensoriais). Sem sucesso ou sem testar, os PCs ainda têm conto de fadas + cabana impossível; com sucesso, o conto **encaixa no mundo**.
 
-| Personalidade | Comportamento | Na cabana |
-|---------------|---------------|-----------|
-| **A Anfitriã** | Maternal, calorosa, faz chá, sorri demais. A que abre a porta e convida. Parece a mais confiável — é a mais traiçoeira. | Serve, conversa, puxa assunto. |
-| **A Sombria** | Silenciosa, observadora, olha sem piscar. Avalia os PCs o tempo todo. Fala pouco — quando fala, corta. | Postura fechada, fuso na mão, observa. |
-| **A Faminta** | Curiosa, indiscreta, quer saber de tudo. Coleciona segredos e objetos. Toca nas coisas dos PCs sem pedir. | Mexe nas prateleiras, no caldeirão, faz perguntas invasivas. |
+**Sucesso — mostrar, não rotular:** você **não** precisa dizer *"é uma Hag"* em voz de narrador. Descreva o encaixe:
 
-> _"Ao entrar, vocês veem uma mulher — ou três? O corpo parece mudar entre um gesto e outro: ora serve chá com sorriso largo, ora fia no canto com olhar fixo, ora já está perto demais, examinando o equipamento de um de vocês. A voz alterna — maternal, cortante, curiosa._
->
-> _— Sentem-se. O chá esfria."_
+- **Corpo e ar:** dedos com nós que lembram galho velho; unhas que parecem ter sido feitas para **rasgar corda**, não para costurar; calor que não vem só da lareira — vem do **espaço**, como se a sala **curvasse** um pouco em direção a ela.
+- **Objetos que contam:** ganchos na prateleira onde cabem **xícaras demais** para uma só dona; um par de **tesouras** de costura perto de **mechas presas** (cabelo? memória? troca antiga?); o chá que **aceita** açúcar demais fácil — magia doméstica com gosto de **armadilha bem arrumada**.
+- **Folclore de Aurelia / [[Feyglade Veil]]:** lembranças de histórias de fronteira (Norte, ermos, lugares onde o **véu** fica fino): *"avós do crepúsculo"* que **não morrem direito**, que **cozinham** barganhas, que aparecem onde **realidade e sonho trocam de lugar**. Os eruditos ligam isso ao que se conta sobre o Feyglade — **nada é só o que parece**, e **trocas** lá raramente têm preço escrito na etiqueta. Morvanna **cheira** a esse tipo de lenda: **Fey** envelhecida, **faminta** no sentido antigo — não só de comida.
 
-**Posição inicial:** Neutra. Curiosa, não hostil. Visitantes são entretenimento.
+👉 **Na mesa:** os jogadores podem concluir *Hag* sozinhos; o DM confirma pelo **vocabulário do mundo** (véu, barganha, colecionadora, crepúsculo), não pelo Monster Manual.
 
-### Abordagem
-
-| Se o grupo... | A Hag... |
-|---------------|----------|
-| Entra e aceita chá | A Anfitriã serve. A Faminta faz perguntas. A Sombria observa. Negociação flui. |
-| Entra mas recusa chá | A Anfitriã faz beiço. A Faminta ri. A Sombria diz: *"Inteligentes."* |
-| Não entra na cabana | A Anfitriã sai: *"Que grosseria."* As outras ficam dentro, ouvindo. |
-| Ataca | Coven Magic + demiplano. 3 ações/turno, 3 pools de HP. Má ideia. |
-| Ignora a cabana | A porta se abre sozinha. A Faminta: *"Mas o que vocês carregam de interessante..."* |
-| Intimida | A Anfitriã ri. A Sombria para de fiar. A Faminta: *"Ah, esse tem fibra."* |
+**Falha ou sem teste — uma camada ainda:** a cabana é **demasiado acolhedora** para o lugar; a anfitriã **quer** que você se sinta em casa — e isso, por si, é **pista** de conto de fadas predatório.
 
 ---
 
-## O que as Hags querem
+### [Study](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#StudyAction) [Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) DC 20 — *três dobras no mesmo tecido*
 
-As Hags querem **seguir com sua natureza traiçoeira**. Não têm um grande plano. Não querem dominar o quadrante. Estão confortáveis aqui — véu fino, poder fey, ninguém incomoda. Todo mundo quer algo, não é?
+**Sucesso — natureza múltipla (mostrar):**
 
-O que elas **realmente** querem de cada interação: **entretenimento, segredos, e favores.** Hags clássicas.
+- **Luz:** nas chamas e no vapor do caldeirão, por um instante **três silhuetas** encaixam onde só há **um corpo** — não espíritos separados flutuando; **três vieses** do mesmo contorno, como se a mesma mulher tivesse sido **desenhada três vezes** com traços diferentes.
+- **Som:** quando ela fala, às vezes o fim da frase **não bate** com o começo — tom maternal que **corta** para seco, ou uma pergunta infantil que **desce** para grave sem transição; ouvidos atentos captam **harmônicos** dissonantes, como **três vozes** compartilhando cordas vocais.
+- **Arcano (se o personagem “enxerga” magia):** o vínculo com o espaço não é de **um** ancoramento — é um **nó triplo** no mesmo ponto: um corpo, **três tensões** puxando regras do demiplano (quem entra, quem fala, quem cobra).
 
-### Moeda de troca
+👉 **Compreensão jogável:** não são três Hags empilhadas; é **uma** entidade (ou **um** pacto/corpo) habitada por **três presenças** que se revezam ou colidem — *coven* no sentido de **círculo**: magia e vontade **compartilhadas**, identidade **dobrada em três**. Isso explica **por que** negociações podem mudar de tom no meio da frase — e **por que** irritar “uma” pode despertar “outra” sem aviso.
 
-O que elas **oferecem:**
-
-| Oferta | Quem oferece | Detalhe |
-|--------|-------------|---------|
-| **Informação** | A Sombria | Fragmentação do culto, vestígios, Guardiões. Sabe porque observa. |
-| **Sobre o terraço** | A Anfitriã | O que espera lá em cima. Conhece os Jardins — mora aqui. |
-| **Sobre Ithiriel** | A Sombria | O que é, o que era. *"Ela canta o dia todo. Muito irritante."* |
-| **Item** | A Faminta | Poção, ingrediente, objeto menor. Tirado das prateleiras. Tem um preço. |
-| **Chá** | A Anfitriã | Reconfortante. Não envenenado. Provavelmente. |
-
-O que elas **pedem:**
-
-| Pedido | Quem pede | Detalhe |
-|--------|----------|---------|
-| **Um segredo pessoal** | A Faminta | *"Me contem algo que ninguém sabe."* (Hags colecionam segredos.) |
-| **Favor futuro** | A Sombria | Não especificado. *"Um dia eu chamo. Vocês vêm."* |
-| **Informação** | A Anfitriã | O que está acontecendo lá fora. Notícias. Fofoca. |
-| **Um objeto** | A Faminta | Algo que os PCs carregam. Ela já está mexendo nele. |
-| **Uma promessa** | A Sombria | Qualquer promessa serve. O peso da palavra dada importa mais que o conteúdo. |
-
-### Múltiplas trocas
-
-Cada troca é pequena. Cada uma tem preço. Os PCs decidem quanto negociar.
-
-As Hags não mentem diretamente — **omitem, distorcem, implicam**. Se perguntarem se causaram a corrupção: *"Nós? Queridos, nós chegamos depois. Mas chegamos, não é?"* (Verdade. Mas dita de um jeito que levanta dúvida.)
+**Falha entre 15 e 19 — camada extra sem o diagrama:** algo está **errado na continuidade** (gesto que não ligou ao anterior, olhar que não “pertence” à frase). Não precisam saber *três mentes*; sabem que **identidade aqui é instável** — o que já muda como abordam promessas e favores.
 
 ---
 
@@ -155,29 +110,13 @@ Opcionalmente, o chá pode ter um efeito menor — cura 1d4 HP, ou dá advantage
 
 ## Checks de Conhecimento (na cabana)
 
-### [Search](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#SearchAction) [Insight](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) DC 14
+### [Search](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#SearchAction) [Insight](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) DC 15
 
 Estão sendo honestas — mas omitem e implicam. Não mentem diretamente. A omissão principal: elas **não causaram** a corrupção, mas não se importam que continue.
 
-### [Study](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#StudyAction) [Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) DC 16
+### [Study](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#StudyAction) [Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) DC 15
 
 A cabana é um demiplano estável — Coven Magic potencializada pela proximidade com a [[Feyglade Veil]]. O véu é fino aqui; é por isso que elas moram neste lugar.
-
-### [Search](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#SearchAction) DC 15 (prateleiras)
-
-Coleção eclética: frascos, ervas, inscrições élficas copiadas, notas sobre os vestígios, diagramas do templo, mechas de cabelo, dedais de prata, cartas de amor amareladas. As Hags colecionam — tudo e qualquer coisa.
-
----
-
-## Objetos aninhados (átrio)
-
-**Runas na parede:**
-- [Study](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#StudyAction) [History](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) ou [Religion](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) DC 15: As escadas levavam ao terraço — local sagrado de contemplação e audiência com a Guardiã.
-- **Segredo (DC 18):** Uma runa está diferente — mais recente. A Hag alterou algo.
-
-**Pegadas no chão:**
-- [Search](https://www.dndbeyond.com/sources/dnd/br-2024/rules-glossary#SearchAction) DC 12: Não humanas — pés grandes, dedos longos. Vão da cabana para as escadas e voltam.
-- **Segredo:** A Hag sobe ao terraço regularmente. Ela e Ithiriel têm alguma dinâmica.
 
 ---
 
@@ -257,23 +196,13 @@ A cabana inteira é o hoard. Tudo o que Morvanna tem está nas prateleiras, nos 
 
 *Escolha conforme o [[magic-items|budget]]. Sugestões temáticas para Morvanna:*
 
-| Slot | Rarity | Sugestões temáticas |
-|------|--------|--------------------|
-| 1 | Common | [Potion of Healing](https://www.dndbeyond.com/magic-items/8960641-potion-of-healing), [Candle of the Deep](https://www.dndbeyond.com/magic-items/9229014-candle-of-the-deep), [Pot of Awakening](https://www.dndbeyond.com/magic-items/4690-pot-of-awakening) |
-| 2 | Common | [Talking Doll](https://www.dndbeyond.com/magic-items/22968-talking-doll) *(perfeito para uma Hag)*, [Mystery Key](https://www.dndbeyond.com/magic-items/9228994-mystery-key) |
-| 3 | Uncommon | [Bag of Tricks](https://www.dndbeyond.com/magic-items/9228951-bag-of-tricks), [Cloak of Elvenkind](https://www.dndbeyond.com/magic-items/4607-cloak-of-elvenkind), [Eyes of Charming](https://www.dndbeyond.com/magic-items/9229027-eyes-of-charming) |
+| Slot | Rarity   | Sugestões temáticas                                                                                                                                                                                                                                           |
+| ---- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Common   | [Potion of Healing](https://www.dndbeyond.com/magic-items/8960641-potion-of-healing), [Candle of the Deep](https://www.dndbeyond.com/magic-items/9229014-candle-of-the-deep), [Pot of Awakening](https://www.dndbeyond.com/magic-items/4690-pot-of-awakening) |
+| 2    | Common   | [Talking Doll](https://www.dndbeyond.com/magic-items/22968-talking-doll), [Mystery Key](https://www.dndbeyond.com/magic-items/9228994-mystery-key), [Bag of Holding](https://www.dndbeyond.com/magic-items/9228356-bag-of-holding)                            |
+| 3    | Uncommon | [Bag of Tricks](https://www.dndbeyond.com/magic-items/9228951-bag-of-tricks), [Cloak of Elvenkind](https://www.dndbeyond.com/magic-items/4607-cloak-of-elvenkind), [Broom of Flying](https://www.dndbeyond.com/magic-items/9228372-broom-of-flying),          |
 
 **Nota sobre trocas:** Morvanna não dá magic items de graça. Cada um tem preço — e o preço nunca é GP. É um segredo, uma promessa, um favor. Os itens Common ela troca mais facilmente. Uncommon exige algo pessoal.
-
-### Itens Narrativos (sem valor mecânico)
-
-| Item | Detalhe |
-|------|---------|
-| **Diagramas do templo** | Mapas desenhados à mão dos Jardins. Mostram o layout — incluindo o terraço. Útil para planejamento tático. |
-| **Notas sobre os vestígios** | Fragmentos. Morvanna observa há séculos. Menciona Ithiriel, a Semente, e "os outros que ficaram." |
-| **Inscrições élficas copiadas** | Transcrições das runas do templo. Em tinta de esporos sobre pergaminho fey. |
-| **Cartas de amor amareladas** | De quem? Para quem? Morvanna não diz. A Anfitriã suspira. A Sombria desvia o olhar. |
-| **Diário de visitantes** | Lista (curta) de quem visitou a cabana. Poucos nomes. Alguns riscados. |
 
 ---
 
@@ -321,5 +250,4 @@ A cabana inteira é o hoard. Tudo o que Morvanna tem está nas prateleiras, nos 
 
 - [[encounter-02-the-terrace-climax|Encontro 2]] — O Terraço (Climax)
 - [[M - C13 - Jardins Suspensos de Sylvara|Jardins Suspensos de Sylvara]] — Encontro 1 da dungeon
-- [[make-exploration-a-game|Make Exploration a Game]] — framework
 - [[ithiriel-keeper-of-the-garden|Ithiriel]] — Guardiã de Sylvara

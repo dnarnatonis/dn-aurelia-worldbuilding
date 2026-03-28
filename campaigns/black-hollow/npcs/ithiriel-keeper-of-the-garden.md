@@ -21,21 +21,21 @@ faction: "Guardiões de Aran'keth"
 
 ## O que é um Guardião
 
-Os Guardiões de Aran'keth são **emissários dos Oito Deuses**, deixados para trás quando os deuses se retiraram durante a Fracture. Pensem neles como os **Maiar** de Tolkien — enviados com uma missão, portadores de poder, mas sem acesso pleno ao conhecimento ou à vontade divina.
+Os Guardiões de Aran'keth são **vestígios vivos dos Oito Arquimagos** — não deuses em si, mas ecos, constructos ou sucessores imbuídos com fragmento de poder antes do **sacrifício** que selou o Whisperer e arrancou a cidade do Prime Plane. Na lenda popular são *emissários divinos*; na prática, lembram os **Maiar** de Tolkien — missão, poder vestigial, sem o plano completo nem a vontade infalível do mestre.
 
 ### Cosmologia: Power, Knowledge, Will
 
-Os Outer Gods manifestam-se através de três aspectos: **Power**, **Knowledge**, **Will** ([[creation|Creation Myth]]). Viridiana delegou seu **Power** aos Oito. Os Oito, por sua vez, deixaram **fragmentos de seu Power** nos Guardiões e nos [[backstory#Os 8 Vestígios e a Prisão|Vestígios-artefato]].
+Os Outer Gods manifestam-se através de três aspectos: **Power**, **Knowledge**, **Will** ([[creation|Creation Myth]]). Viridiana delegou **Power** aos Oito (na lenda, deuses menores). Os **arquimagos** de Aran'keth canalizaram esse legado; ao selar a cidade, deixaram **fragmentos** nos Guardiões e nos [[backstory#O sacrifício, os 8 Vestígios, os Guardiões e a Prisão|Vestígios-artefato]].
 
 | Aspecto | Guardião tem? | Consequência |
 |---------|--------------|--------------|
-| **Power** | Sim — vestigial mas real | Podem agir, lutar, canalizar domínio divino |
-| **Knowledge** | Parcial — sabem a missão, não o plano cósmico | Não entendem por que os deuses partiram; lacunas que o Whisperer preenche com mentiras |
+| **Power** | Sim — vestigial mas real | Podem agir, lutar, canalizar o domínio do patrono (ex.: **Lothiriel** / *Sylvara*) |
+| **Knowledge** | Parcial — sabem a missão, não o plano cósmico | Lacunas que o Whisperer preenche com mentiras |
 | **Will** | Própria — mortal, não divina | Podem ser corrompidos, enganados, enlouquecidos |
 
 ### A loucura
 
-Os Guardiões ficaram **milhares de anos** em Aran'keth, sozinhos, cumprindo uma missão cujo propósito completo desconhecem. O Whisperer (aboleth) sussurra há eras — preenchendo as lacunas de Knowledge com mentiras, corroendo a Will. Cada Guardião enlouqueceu de forma diferente, conforme seu domínio e personalidade.
+Os Guardiões ficaram **milhares de anos** em Aran'keth, isolados com o selo, cumprindo uma missão cujo propósito completo desconhecem. O Whisperer (aboleth) sussurra há eras — preenchendo as lacunas de Knowledge com mentiras, corroendo a Will. Cada Guardião enlouqueceu de forma diferente, conforme seu domínio e personalidade.
 
 ---
 
@@ -47,7 +47,7 @@ Os Guardiões ficaram **milhares de anos** em Aran'keth, sozinhos, cumprindo uma
 
 ### O que é
 
-Guardiã de Sylvara — emissária da deusa da Vida, Ciclos, Fertilidade e Crescimento. Deixada nos Jardins Suspensos para proteger a **Semente de Sylvara** e o ciclo de crescimento da cidade.
+**Vestígio vivo** da linhagem de **Lothiriel** (*Sylvara*, “Senhora das Flores” — [[lesser-gods]]). Arquimaga da Vida (na lenda, *deusa*). Deixada nos Jardins Suspensos para proteger a **Semente** e o ciclo de crescimento da cidade antes do sacrifício que selou Aran'keth.
 
 ### Aparência original (antes da loucura)
 
@@ -116,7 +116,7 @@ A **corrupção fúngica do quadrante inteiro** é obra de Ithiriel — não da 
 |---------|---------|
 | **Culpa?** | **Resposta curta:** não. **Resposta longa:** Mas não fizeram nada para melhorar. |
 | **Papel** | Pit stop. Moram aqui, seguem sua natureza traiçoeira, negociam com quem aparece. |
-| **Relação com Ithiriel** | Indiferença prática. Não ajudam, não atrapalham. A Guardiã é problema dos deuses, não delas. |
+| **Relação com Ithiriel** | Indiferença prática. Não ajudam, não atrapalham. A Guardiã é problema do legado élfico, não delas. |
 | **Red herring** | Os PCs vão se perguntar se as Hags são responsáveis pela corrupção. Não são. Mas a ambiguidade é intencional — Hags agem como Hags, e isso levanta suspeita. |
 | **Por que estão aqui** | O véu fino para a Feyglade dá poder a criaturas fey. A corrupção fúngica não as incomoda — e um quadrante onde ninguém mais vem é território ideal. |
 
@@ -126,7 +126,7 @@ A **corrupção fúngica do quadrante inteiro** é obra de Ithiriel — não da 
 
 Se os PCs conseguirem **momentos de lucidez** (música, invocação de Sylvara, purificação parcial, empatia):
 
-- **Guardiões:** Existem 8 — um por deus. Todos ficaram. Todos enlouqueceram de formas diferentes.
+- **Guardiões:** Existem 8 — um por patrono (na lenda, um por deus). Todos ficaram. Todos enlouqueceram de formas diferentes.
 - **Vestígios:** A Semente perdeu o poder há eras. Ela não sabe por quê. (Lacuna de Knowledge.) A Semente está envolta no beholder — o "Deus Cego e Idiota" a contém ou parasita.
 - **A Prisão:** Sabe que existe. Sabe que os vestígios são âncoras. Não sabe os detalhes — apenas que *não pode falhar*.
 - **Os outros:** Pode dar pistas vagas sobre outros Guardiões: *"O ferreiro parou de bater. A juíza parou de julgar. O astrólogo... ele olha para o nada."*

@@ -164,6 +164,7 @@ Ithiriel não é malvada. Está quebrada. O medo dela — de falhar, de ser aban
 | **Informação de Ithiriel** | Se alcançada: outros Guardiões, vestígios, prisão |
 | **Loot** | Conforme [[magic-items\|budget Tier 2]]; tema **Relics** (Sylvara = natureza, vida) |
 | **Aliada instável** | Se pacificada, Ithiriel pode ajudar — mas não é confiável longo prazo |
+[Staff of Healing](https://www.dndbeyond.com/magic-items/9229097-staff-of-healing)
 
 ---
 

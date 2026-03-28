@@ -40,7 +40,7 @@ O tipo de hex afeta o movimento. Os valores da tabela acima são para **hexes no
 |---------|-------------|----------|
 | **Hex normal** | base | Ruas, templos menores, ruínas, city blocks |
 | **Grande estrada** | 2× | Vias principais — movimento dobrado |
-| **Hex especial** | ½× | Desníveis, rios (quadrante verdejante) — movimento pela metade |
+| **Hex especial** | ½× | Desníveis, rios (Quarter of Being / quadrante verdejante) — movimento pela metade |
 
 Ao cruzar hexes de tipos diferentes no mesmo turno, aplique o modificador do hex de **destino** (ou do mais restritivo, a critério do DM).
 
@@ -159,14 +159,14 @@ Isso cria **pressão temporal**: quanto mais tempo na cidade, maior o risco.
 
 ## Facções Ativas
 
-Cada distrito é dominado por uma facção cultista derivada da fé original corrompida:
+Cultos derivados da fé original corrompida — **dois** disputam o **Quarter of Brilliance** (Aberrant no Observatório × Fiend no Tribunal); os outros distritos: **Death** na Umbra (com **Vaelthas** no Tomb), **Elemental** na cratera de Oblivion:
 
 | Facção | Distrito | Base | Ver |
 |--------|----------|------|-----|
-| Facção da Chama (Elemental) | Fogo e Céu | Templo da Chama Eterna | `backstory.md` |
-| Facção da Passagem (Death) | Morte e Sombras | Necrópole Inferior | `backstory.md` |
-| Facção do Sussurro (Aberrant) | Morte e Sombras | Torre do Véu | `backstory.md` |
-| Facção Infernal (Fiend) | Ordem e Pedra | Hall do Julgamento | `backstory.md` |
+| Facção da Chama (Elemental) | Quarter of Oblivion | Cratera do Templo (Chama / meteorito) | `backstory.md` |
+| Facção da Passagem (Death) | Quarter of Darkness | Necrópole Inferior | `backstory.md` |
+| Facção do Sussurro (Aberrant) | Quarter of Brilliance | Observatório (Far Realm) | `backstory.md` |
+| Facção Infernal (Fiend) | Quarter of Brilliance | Hall do Julgamento (Tribunal) | `backstory.md` |
 
 As facções:
 - Patrulham seus territórios

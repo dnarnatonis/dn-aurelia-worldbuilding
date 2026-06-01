@@ -81,105 +81,67 @@ Silas serve como **motivação pessoal** para Vesper e **fonte de informações 
 
 ## 🧠 Motivação Central
 
-**Redenção através da Exposição da Verdade**
+Silas carrega o peso de ter treinado crianças como Vesper para se tornarem ferramentas da Cabal. Descobrir que a "Gravedigger" (Morwyn Ashfeld) estava usando seus "graduados" como peças descartáveis em um ritual muito maior — e que ela provavelmente é muito mais antiga e monstruosa do que os chefes originais da Cabal sugeriam — o quebrou moralmente. Agora busca expor a organização de dentro para fora e sabotar o *Project Inheritance* a qualquer custo.
 
-Silas carrega o peso de ter treinado crianças como Vesper para se tornarem ferramentas da Cabal. Descobrir que a Gravedigger estava usando seus "graduados" como peças descartáveis o quebrou. Agora busca expor a organização de dentro para fora, mesmo que isso custe sua vida.
-
-**Conflito Interno:** Quer proteger Vesper, mas sabe que mantê-lo ignorante pode ser mais perigoso do que envolvê-lo na verdade.
+**Conflito Interno:** Quer proteger Vesper desesperadamente, mas sabe que mantê-lo ignorante sobre a magnitude cósmica de Aran'keth e do *Whisperer* no subterrâneo pode ser o que o matará.
 
 ---
 
-## 💡 Três Características Rápidas
+## 🎭 Personalidade
 
-1. **Modo de Falar:** Voz baixa e medida, usa metáforas relacionadas a corvos e sombras. Quando nervoso, sussurra em códigos da Cabal inconscientemente.
+Silas é o arquétipo do mestre de espiões fraturado: brilhante, pragmático, eternamente vigilante e esmagado pelo peso das próprias escolhas. Ao contrário de um acadêmico isolado, a genialidade de Silas foi forjada no campo e nas sombras; ele enxerga o mundo através de códigos, rotas de fuga e alavancas de pressão. Ele é a aranha que percebeu tarde demais que estava tecendo uma teia para si e para seus "filhotes".
 
-2. **Traço de Personalidade:** Paranóico mas carinhoso - sempre verifica as sombras, mas seus olhos se suavizam quando fala de seus "filhotes" (ex-estudantes).
+Ele carrega uma culpa sufocante. A descoberta de que estava entregando seus estudantes — jovens que ele ensinou a sobreviver, a confiar nas sombras e a não confiar em mais ninguém — diretamente para as garras descartáveis da "Gravedigger", o quebrou. Essa culpa se manifesta em uma paranoia extrema. Silas nunca dorme o suficiente, sempre verifica suas costas e fala em um tom baixo e medido, repleto de metáforas de corvos e jargões da Cabal. Quando sob pressão, ele sussurra antigos códigos de treinamento inconscientemente.
 
-3. **Comportamento Marcante:** Desenha símbolos arcanos no ar quando pensa, um hábito de seus dias como instrutor. Sempre carrega pequenos objetos que podem servir como componentes de feitiços.
+**Paternalismo e Frieza:** Ele é uma contradição ambulante. Por um lado, possui a frieza de um assassino e a lógica de um estrategista cruel, disposto a sacrificar a própria vida (e até a de aliados secundários) para derrubar a Cabal de dentro para fora. Por outro lado, ele nutre um carinho paternal profundo e quase desesperado por seus ex-estudantes, especialmente Vesper. A segurança deles é seu calcanhar de Aquiles absoluto. 
 
----
+**Redenção Obsessiva:** A fuga de Silas não foi covardia, foi redirecionamento tático. Ele se transformou num rato de biblioteca enlouquecido nas profundezas de Black Hollow. Sua busca pelas verdadeiras motivações da Gravedigger não é curiosidade acadêmica, é uma obsessão febril por armas e vantagens táticas. Ele precisa saber o que a Cabal está tentando despertar para saber como matá-lo e garantir a sobrevivência de sua linhagem de alunos.
 
-## 🧩 As Cinco Perguntas
+Em suma, Silas é um homem com um relógio-bomba preso ao peito, que decidiu abraçar o próprio detentor na esperança de explodir os verdadeiros vilões junto com ele.
 
-1. **O que quer?** Expor a Gravedigger e desmantelar a rede da Cabal antes que Project Inheritance seja completado.
+## 👤 Aparência
 
-2. **O que está disposto a fazer?** Sacrificar sua própria vida, mas não a de seus ex-estudantes. Trair a Cabal completamente, mesmo sabendo as consequências.
+Silas parece ser um homem que envelheceu duas décadas em menos de uma. Aos quarenta e poucos anos, seus cabelos, antes negros, agora estão grisalhos precocemente e desgrenhados. Ele não possui a postura arrogante de um mago tradicional de torre, mas a tensão muscular constante de um soldado foragido.
 
-3. **O que tem medo de perder?** Vesper e outros ex-estudantes sendo mortos por sua causa. Que a verdade morra com ele.
+Seus olhos azuis são penetrantes, inquietos e carregam imensas olheiras, como pires sombrios que demonstram dias movidos apenas por magia, adrenalina e paranoia. Seu rosto é afiado e severo, mas seus olhos podem se suavizar de repente com alívio, caso encontre um rosto familiar em quem confia. Suas mãos possuem cicatrizes finas, marcas não apenas de conjuração arcana, mas de rituais de sangue da Cabal e combates corpo-a-corpo no passado. 
 
-4. **Quem ama?** Seus ex-estudantes como filhos adotivos, especialmente Vesper. Tem um carinho paternal profundo, mesmo que nunca tenha expressado abertamente.
+Ele não veste robes esvoaçantes. Sua indumentária é puramente tática e focada na sobrevivência: roupas práticas de couro e linho negro, gastas pelo tempo nos escombros. Múltiplos cintos, bandoleiras e bolsos ocultos forram seu sobretudo surrado. Ele é um arsenal vivo disfarçado de andarilho das sombras: grimórios compactos, frascos de antídotos velozes, e uma adaga cerimonial de empunhadura fosca presa firmemente na cintura. Um pesado anel de sinete pende por uma corrente de prata manchada em seu peito, um lembrete do grupo que jurou destruir.
 
-5. **Qual é seu segredo?** Além de ser um agente duplo, ele descobriu que a Gravedigger não é apenas uma operativa da Cabal - ela pode ser uma das fundadoras originais, muito mais antiga e poderosa do que aparenta.
+Ao seu lado, e em frequente voo de patrulha pelo teto, está o seu familiar: um enorme corvo de penas cor-de-ônix e intelecto perturbador, que atua como os ouvidos que ele não tem e os olhos nas costas que ele deseja ter.
 
----
+## 🤫 Segredo
 
-## 📋 Detalhes Pessoais
+Silas está armando uma rebelião suicida não apenas por vingança contra a Gravedigger, mas para evitar o cumprimento inevitável do seu próprio juramento de sangue com a Cabal.
 
-**Aparência:**
-
-- Homem de meia-idade (45 anos) com cabelos grisalhos prematuros
-- Olhos azuis penetrantes que parecem sempre calcular
-- Cicatrizes finas nas mãos de rituais arcanos
-- Veste roupas escuras práticas, sempre com bolsos ocultos
-- Anel de sinete da Cabal escondido em uma corrente no pescoço
-
-**Equipamentos Típicos:**
-
-- Grimório pessoal com códigos e cifras
-- Kit de componentes arcanos disfarçado como kit de escriba
-- Adaga cerimonial da Cabal (escondida)
-- Múltiplas identidades falsas e documentos
-- Poções de cura e antídotos
+*   **A Verdade:** O juramento que atou Silas (e, por extensão logística, alguns de seus melhores alunos formados) ao escalão sênior da Cabal é reforçado por Magia de Geas e Contratos de Sangue. A Gravedigger pode acionar essa lealdade arcana. O segredo monstruoso que Silas descobriu no *undercroft* de Black Hollow não é apenas que a líder cultiva um poder profano antigo, mas que o *Project Inheritance* planeja usar as mentes brilhantes e o controle sombrio desses estudantes (os "graduados" de Silas) como "pilhas humanas" (ou condutores ritualísticos) para manter o Aboleth ou o poder dracônico em cheque no futuro.
+*   **Por que ele esconde:** Ele nunca revelou a real letalidade e o escopo apocalíptico do Projeto Inheritance para Vesper e os outros porque a) eles teriam suas mentes quebradas sob o peso da perseguição mágica, e b) a Gravedigger tem a habilidade arcana de pressentir quando agentes rebelados divulgam os pormenores cruciais do contrato (Geas modificado). Portanto, Silas age nas sombras e solta migalhas na esperança de que os aventureiros invadam o coração da corrupção, destruam os focos de poder do *undercroft* e quebrem os conduítes mágicos antes que a Gravedigger "acione o gatilho" e recrute todos os pupilos dele forçosamente contra a própria vontade deles. Silas esconde o fato de que, se ele falhar agora em Aran'keth, amanhã seus amados alunos se tornarão monstros irreparáveis controlados por ela.
 
 ---
 
-## 🎯 Situação Atual no Manor Blackthorne
+## 🎯 Situação Atual em Aran'keth (A Biblioteca Velada)
 
-### Localização: Nível 2 (Undercroft)
+### Localização: Túneis Subterrâneos - O Refúgio
 
-**Status Provável:** Escondido mas ferido, investigando ativamente mas preso pelos perigos do local.
+**Status Provável:** Escondido, paranóico, porém trabalhando febrilmente na *conspiracy wall*. Silas evitou os esporos mortais da superfície utilizando túneis e canais desmoronados. Ele está exausto, sem suprimentos de comida ou água, sobrevivendo à base de magia e determinação.
 
-**O Que Ele Descobriu:**
+**O Que Ele Descobriu no Subsolo (A "Conspiracy Wall"):**
 
-**Na Undercroft Proper:**
+**Sobre a Estrutura do Templo e a Corrupção:**
+- A corrupção fúngica e a estagnação no *Quarter of Being* **não** são um acidente natural do selamento; elas estão sendo deliberadamente catalisadas.
+- O ritual de Morrighael (A Rainha Fantasma) no Cume está fraturado e sendo drenado por agentes externos.
+- Rotas secretas e atalhos pelo complexo de Aran'keth foram mapeados meticulosamente por ele.
 
-- Correspondência entre a Gravedigger e células desconhecidas em outras cidades
-- Mapas detalhados da rede subterrânea de Black Hollow (mais antigos que ela deveria conhecer)
-- Evidências de que ela planejava Black Hollow há décadas, não anos
-- Registros das escavações originais de Lord Blackthorne com anotações em sua caligrafia
+**Sobre a Gravedigger (Morwyn Ashfeld):**
+- Correspondências e anotações interceptadas indicam que a Gravedigger é a financiadora original das escavações que revelaram Black Hollow, atuando por trás dos panos muito antes de assumir sua identidade atual.
+- Símbolos em Dracônico e Abissal nas profundezas indicam pactos ancestrais muito mais velhos que a fundação da própria Cabal.
+- A "entidade" cósmica selada pela deusa da morte nas ruínas de Aran'keth (o *Whisperer in the Dark*) é o verdadeiro alvo do *Project Inheritance*. A Cabal quer usá-la como arma ou bateria.
 
-**Na Mine Entrance:**
+**Suspeitas Crescentes (As Peças que Faltam):**
+- Silas sabe que Morwyn Ashfeld não envelhece normalmente e possui um nível de compreensão histórica inviável para uma operativa humana comum, mas ele *não* sabe de sua verdadeira natureza dracônica (Black Dragon disfarçado).
+- Ele não sabe com exatidão a extensão interplanar das torres de obsidiana, apenas que a Semente no Cume e o sacrifício da Rainha Fantasma são as "fechaduras".
 
-- Símbolos estranhos gravados nas paredes - não reconhece como Cabal, mas são antigos
-- Textos em idiomas que ela não deveria conhecer (Dracônico, Abissal)
-- Referências a "acordos ancestrais" e "pactos de sangue"
-- Evidências de múltiplas visitas ao local ao longo de anos
-
-**No Grove (Área Corrompida):**
-
-- A corrupção não é acidental - está sendo deliberadamente cultivada
-- Rituais de contenção foram sabotados por alguém que os entendia perfeitamente
-- A "entidade" sob Black Hollow está sendo gradualmente despertada
-- Conexão entre a corrupção e algo muito mais antigo que a Cabal
-
-**Suspeitas Crescentes:**
-
-- A Gravedigger demonstra conhecimento impossível sobre eventos históricos
-- Sua idade aparente não condiz com a profundidade de seu conhecimento
-- Ela fala ocasionalmente em línguas que não deveria conhecer
-- Seus "patronos acadêmicos" nunca aparecem em registros oficiais
-- A Cabal local parece mais organizada e antiga do que deveria ser possível
-
-**O Que Ele NÃO Sabe:**
-
-- A verdadeira natureza dracônica da Gravedigger (apenas suspeita que algo está errado)
-- A existência do Project Inheritance (operação muito acima de seu nível)
-- Que a entidade é um Aboleth (sabe que é algo poderoso e antigo)
-- A extensão completa da rede da Cabal (conhece apenas a célula local)
-- Os verdadeiros objetivos de imortalidade da Gravedigger
-
-**Conclusão Perigosa:**
-Silas concluiu que a Gravedigger não é quem aparenta ser e que Black Hollow está sendo usado para algo muito maior e mais perigoso que uma simples operação da Cabal. Ele suspeita que ela pode ser uma agente de algo muito mais antigo e poderoso, mas não conseguiu descobrir exatamente o quê.
+**Conclusão Desesperada:**
+Silas concluiu que se os heróis não impedirem o avanço do *Project Inheritance* no coração das ruínas, e se a contenção da Rainha Fantasma for completamente rompida pela Gravedigger, o cataclismo que aniquilou Aran'keth se repetirá em toda a região de Black Hollow. Pior: isso será feito usando as mentes dos "filhotes" dele como combustível mágico na detonação do selo.
 
 ---
 
@@ -211,12 +173,11 @@ Silas concluiu que a Gravedigger não é quem aparenta ser e que Black Hollow es
 4. **Natureza da Corrupção** - O que foi realmente libertado
 5. **Pontos Fracos da Cabal** - Como a organização pode ser exposta
 
-### Possíveis Estados ao Ser Encontrado
+### Possíveis Estados ao Ser Encontrado na Biblioteca Velada
 
-- **Escondido:** Criou refúgio secreto, continua pesquisando
-- **Ferido:** Precisa de cura, mas ainda lúcido
-- **Capturado:** Preso por agentes ou criaturas, precisa resgate
-- **Corrompido:** Exposto à influência do Grove, luta contra ela
+- **Paranoia Defensiva:** Usa ilusões complexas e mensagens em códigos da Cabal antes de se revelar. Confunde os recém-chegados com assassinos enviados por Morwyn.
+- **Exaustão Arcana:** Seus suprimentos acabaram. Ele precisa desesperadamente de curas (restauração de *HP/Exhaustion*) e Rations para conseguir lutar ou conjurar *Shadow Step*.
+- **Vínculo Letal:** Ele pode recusar sair da biblioteca até que tenha certeza absoluta de que Vesper e os outros estão seguros ou de que o plano da Cabal para usar seus alunos como "condutores" no Cume foi frustrado.
 
 ### Reações aos Jogadores
 

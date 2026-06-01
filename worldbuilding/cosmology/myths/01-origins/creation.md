@@ -1,38 +1,55 @@
 ---
-title: "The Creation Myth"
-category: "Mythology"
-related_concepts: ["Outer Gods", "Primordial Forces", "Chaos"]
+title: "O Mito da Criação"
+category: "mythology"
+subcategory: "origins"
+order: 1
+tags: [criação, cosmos, caos, kaziru, banuatu, halqu, viridiana, outer-gods, primordial]
+related_concepts: ["[[Viridiana]]", "[[Kaziru]]", "[[Banuātu]]", "[[Halqu]]", "[[Verdant Dream]]", "[[divine-legacy]]"]
 ---
 
-## The Cosmic Hierarchy
+# O Mito da Criação
 
-### Outer Gods
+## Os Deuses Exteriores
 
-Beings that exist outside reality itself, representing abstract concepts. They can manifest in reality through three aspects:
+Antes do cosmos, existiam apenas os **Deuses Exteriores** — seres que existem fora da realidade, cada um representando um conceito absoluto. Cada Deus Exterior manifesta-se através de três aspectos inseparáveis:
 
-- **Power**: Their portfolio in the material world (e.g., Clerical Domains)
-- **Knowledge**: Their understanding and representation of concepts
-- **Will**: Their consciousness and ego
+- **Poder**: sua influência no mundo material
+- **Conhecimento**: sua compreensão e representação do conceito
+- **Vontade**: sua consciência e ego
 
-## The Birth of Reality
+## O Fracasso da Manifestação
 
-### The First Attempt
+Os Deuses Exteriores da Criação e da Destruição — **Banuātu** e **Halqu** — tentaram manifestar-se na realidade com todos os três aspectos intactos e simultâneos. A realidade não existia ainda para contê-los.
 
-The Outer Gods of Creation and Destruction attempted to manifest in their entirety, with all their Power, Knowledge, and Will intact. This attempt birthed Chaos, the first primordial force.
+O esforço gerou **Kaziru** — o Caos. Não uma entidade, mas uma força pura que tornou tudo instável e fugaz, impossibilitando qualquer forma duradoura.
 
-### The Primordial Forces
+## A União de Banuātu e Halqu
 
-1. **Chaos (Kaziru)**
-   - Born from the first failed manifestation
-   - Not an entity, but a pure force
-   - Made creation unstable and fleeting
+Banuātu e Halqu manifestaram-se novamente, desta vez de forma parcial. Ao fazê-lo, se encontraram.
 
-2. **Creation (Banuātu)**
-   - Feminine aspect
-   - Mother of Nature
-   - Represents generative forces
+- **Banuātu** é o aspecto feminino — a Mãe da Natureza. Representa o impulso generativo, o crescimento, o acúmulo.
+- **Halqu** é o aspecto masculino — o Pai da Natureza. Representa a transformação, a dissolução, o espaço necessário para que o novo exista.
 
-3. **Destruction (Halqu)**
-   - Masculine aspect
-   - Father of Nature
-   - Represents transformative forces
+Da união entre eles nasceu **Viridiana** — a Natureza encarnada.
+
+## O Sacrifício de Viridiana
+
+Viridiana ordenou o que Kaziru havia deixado em fragmentos:
+
+1. Formou os **Planos Elementais** a partir do caos puro
+2. Criou o **Plano Material** como um reino de ciclos — nascimento, crescimento, morte, renovação
+
+Então sacrificou sua **Vontade** — dispersando-a pelo Plano Material. Cada fragmento de sua Vontade tornou-se uma **alma mortal**.
+
+Sem sua Vontade, Viridiana recuou para o **Sonho Verdejante**, onde persiste como Poder e Conhecimento sem consciência própria.
+
+## A Hierarquia Cósmica Resultante
+
+| Entidade | Natureza | Status atual |
+|---|---|---|
+| **Banuātu** (Criação) | Deus Exterior — feminino | Manifesta parcialmente; distante |
+| **Halqu** (Destruição) | Deus Exterior — masculino | Manifesta parcialmente; distante |
+| **Kaziru** (Caos) | Força primordial pura | Ativo; permeia o cosmos |
+| **Viridiana** (Natureza) | Deusa nascida — diminuída | Retirada ao Sonho Verdejante |
+| **Archfeys** | Deuses menores caóticos de Criação | Protetores de Viridiana |
+| **Demônios** | Deuses menores caóticos de Destruição | Opõem-se à ordem natural |

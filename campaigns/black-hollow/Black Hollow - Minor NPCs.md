@@ -54,7 +54,7 @@ campaign: "[[Black Hollow]]"
 - **Role:** Sells herbs, poultices, and "folk remedies"
 - **Appearance:** Elderly woman wrapped in layers of shawls, cloudy blue eyes that seem to see too much. Fingers stained green from herbs.
 - **Personality:** Kindly grandmother type with a hint of mystery
-- **Notable:** May have connections to [[ithiriel-keeper-of-the-garden|Morvanna]]
+- **Notable:** May have connections to [[olenna|Olenna, a Bela]]
 - **Quote:** *"The old ways still work, dearie. Sometimes better than the new."*
 
 ### **Rook – Street Informant**
@@ -129,9 +129,9 @@ campaign: "[[Black Hollow]]"
 
 ## **Xerxes, the Cat**
 
-- **Role:** The mysterious cat that seems to be known by everyone in town. Actually a **Fey Cat** — servo de [[ithiriel-keeper-of-the-garden|Morvanna]].
-- **Appearance:** A completely black cat. Perto da cabana de Morvanna, a presença Fey é mais óbvia: olhos brilham com luz própria, pelo parece mudar de tom com a luz, movimentos antinaturalmente precisos.
-- **Personality:** Em Black Hollow: "just a normal black cat." Na cabana: **fala**. Frases curtas, crípticas, tom seco. Julga. Decide quem entra. Só deixa **um por vez**.
-- **Notable:** Mora na taverna há anos. **Implicação:** Morvanna sabe muito mais sobre Black Hollow e os PCs do que deveria. Tudo que Xerxes viu, ela viu.
+- **Role:** The mysterious cat that seems to be known by everyone in town. Actually a **Fey Cat** — espião de [[olenna|Olenna]].
+- **Appearance:** A completely black cat. Perto de Olenna, a presença Fey é mais óbvia: olhos brilham com luz própria, pelo parece mudar de tom com a luz, movimentos antinaturalmente precisos.
+- **Personality:** Em Black Hollow: "just a normal black cat." No templo: **fala**. Frases curtas, crípticas, tom seco. Julga. Decide quem entra. Só deixa **um por vez**.
+- **Notable:** Mora na taverna há anos. **Implicação:** Olenna sabe muito mais sobre Black Hollow e os PCs do que deveria. Tudo que Xerxes viu, ela viu.
 - **Quote (Black Hollow):** *"Miau."*
-- **Quote (Cabana):** *"Um. Só um."*
+- **Quote (Templo):** *"Um. Só um."*

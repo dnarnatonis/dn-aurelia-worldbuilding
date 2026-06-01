@@ -56,7 +56,7 @@ Antes do sacrifício (ou como parte dele), cada arquimago deixou um **Guardião*
 | **Knowledge** | Parcial — sabem proteger vestígio e prisão; não o plano cósmico total. |
 | **Will** | Própria — podem ser corrompidos, enganados, enlouquecidos. |
 
-Os Guardiões ficaram **milhares de anos** isolados com o Whisperer. O aboleth preencheu as lacunas de Knowledge com mentiras e corroeu a Will. **Todos enlouqueceram** — cada um à sua maneira, distorcendo o domínio que juraram guardar. Ver [[ithiriel-keeper-of-the-garden|Ithiriel]] (vestígio da linhagem de Sylvara) para o primeiro exemplo.
+Os Guardiões ficaram **milhares de anos** isolados com o Whisperer. O aboleth preencheu as lacunas de Knowledge com mentiras e corroeu a Will. **Todos enlouqueceram** — cada um à sua maneira, distorcendo o domínio que juraram guardar. Ver [[aranketh#A Última Rainha: Morrighael|Morrighael]] para o maior exemplo da tragédia da cidade.
 
 ---
 
@@ -145,7 +145,7 @@ Cada vestígio corresponde a um templo e ao domínio do **arquimago**. Em Aran'k
 |----------|--------------------------|--------|--------|-------------|----------|
 | **Coração da Chama** | **Caelathar** (*Zaralon*) | Templo da Chama Eterna | ativo | Facção da Chama (Elemental) | TBD |
 | **Olho Estelar** | **Eryndor** (*Astrael*) | Observatório | ativo | Facção do Sussurro (Aberrant) — Far Realm / [[veshka\|Veshka]] | TBD |
-| **Semente de Sylvara** | **Lothiriel** (*Sylvara*) | Jardins Suspensos | esgotado | — (quadrante verdejante) | [[ithiriel-keeper-of-the-garden\|Ithiriel]] — enlouquecida, crescimento compulsivo |
+| **O Luto de Morrighael** | **Lothiriel** (*Sylvara*) | Jardins Suspensos | corrompido | — (quadrante verdejante) | [[aranketh#A Última Rainha: Morrighael\|Morrighael]] — luto cristalizado, imortalidade fúngica |
 | **Presa de Thalvok** | **Rhuvenar** (*Thalvok*) | Arena Bestial | esgotado | — (quadrante verdejante) | TBD |
 | **Lâmpada da Passagem** | **Faelyth** (*Morthys*) | Catedral da Passagem | ativo | Vaelthas (Tomb of the First Kind) | TBD |
 | **Máscara do Véu** | **Ulthryn** (*Voryn*) | Torre do Véu | esgotado | — (gasto há eras; torre sem facção cultista dominante) | TBD |

@@ -55,7 +55,7 @@ Legenda de tipo:
 | Hex | Tipo | Nome | Notas |
 |-----|------|------|-------|
 | A09 | I | Passagem de entrada | Desemboca aqui |
-| C13 | M | Jardins Suspensos (Lothiriel) | Semente corrompida; Green Hag + beholder (Deus Cego). Nome comum: Sylvara. Ver `Locais/M - C13 - Jardins Suspensos de Sylvara.md` |
+| C13 | M | Jardins Suspensos (Lothiriel) | Câncer Fúngico; Olenna (Fada) + Morrighael (Rainha Fantasma). Nome comum: Sylvara. Ver `Locais/M - C13 - Jardins Suspensos de Sylvara.md` |
 | | M | Arena Bestial (Rhuvenar) | Nome comum: Thalvok |
 | B17 | I | Templo Secundário (Refúgio de Silas) | [[silas-the-raven|Silas]] escondido. Vesper avista ao se aproximar. Marca de corvo na entrada. [[I - B17 - Refúgio de Silas]] |
 | | I | | |

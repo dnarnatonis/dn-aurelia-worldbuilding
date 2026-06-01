@@ -16,7 +16,7 @@ Distrito de **Lothiriel** + **Rhuvenar** (*Sylvara* + *Thalvok* em culto comum; 
 
 | Aspecto | Detalhe |
 |---------|---------|
-| **Causa** | Guardiã [[ithiriel-keeper-of-the-garden|Ithiriel]] enlouquecida; vestígios de **Lothiriel** / **Rhuvenar** esgotados ou distorcidos; mandato de “proteger a vida” virou crescimento compulsivo |
+| **Causa** | Guardiã [[aranketh#A Última Rainha: Morrighael|Morrighael]] presa em luto eterno; vestígios de **Lothiriel** / **Rhuvenar** esgotados ou distorcidos; o feitiço de selamento causou imortalidade fúngica e distorceu o ciclo da vida |
 | **Clímax em aberto** | [[M - C13 - Jardins Suspensos de Sylvara|Jardins Suspensos]] — confronto com **Beholder** (*Deus Cego*) ainda em definição na mesa |
 | **Mecânica de distrito (temporária)** | Enquanto isso, **bolsões de esporos venenosos** no ar livre e em espaços semi-fechados simulam a pressão ambiental do quadrante (ver abaixo). Após resolver o arco do Beholder nos Jardins, o DM pode **afrouxar**, **regionalizar** ou **remover** esporos conforme a narrativa |
 

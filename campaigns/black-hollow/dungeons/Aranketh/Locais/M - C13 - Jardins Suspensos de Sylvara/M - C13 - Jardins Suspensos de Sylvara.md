@@ -9,17 +9,19 @@ tipo: "Grande Marco (M)"
 
 # Jardins Suspensos de Sylvara
 
-*Templo de **Lothiriel** (*Sylvara*, “Senhora das Flores”) — nome comum de culto; runas e tradição élfica usam **Lothiriel**. Ver [[lesser-gods|nomes élficos dos Oito]].*
+*Complexo de Templos de **Lothiriel** (*Sylvara*, “Senhora das Flores”) — deusa da vida, ciclos e crescimento. Parte da antiga metrópole de Aran'keth.*
 
-Elevada no meio da mata corrompida pela invasão fúngica, a antiga estrutura dos Jardins domina o **Quarter of Being** (*Bairro do Ser*). O **artefato de Lothiriel** (lenda: *Semente de Sylvara*) — a Semente — é o centro da corrupção, repousando na câmera central do antigo templo. Os jardins ocupam **vários hexes** em volta do massivo templo central.
+Elevada no meio da mata corrompida pela invasão fúngica, a antiga estrutura monumental dos Jardins domina o **Quarter of Being** (*Bairro do Ser*). O outrora exuberante ápice do bairro repousa agora sob o domínio de **Morrighael**, a Rainha Fantasma, cujo luto e feitiço de selamento transformaram a região num pesadelo de vida estagnada. Os jardins ocupam **vários hexes** em volta do massivo templo central, estruturado em enormes terraços como a Babilônia antiga.
 
 ---
 
 ## Lore: Quarter of Being
 
-O distrito era governado por **Lothiriel** e **Rhuvenar** (*Sylvara* e *Thalvok* em culto comum — [[lesser-gods]]) — arquimagos cuja magia unia vida, ciclos e instinto feral. Para a lenda, eram deuses; na prática, mestres do **ser** vivo. Rios e jardins suspensos misturavam druidismo e arcana num só desenho urbano.
+Na era de glória de Aran'keth, o distrito era dedicado aos princípios de **Lothiriel** e **Rhuvenar** (*Sylvara* e *Thalvok*). Era o coração do **ser** vivo. Rios artificiais, enormes aquedutos e jardins suspensos monumentais misturavam arquitetura e natureza selvagem num só desenho urbano, refletindo o equilíbrio entre crescimento e predação.
 
-No **sacrifício** que selou o Whisperer, a **Semente** e a **Presa** ficaram aqui como âncoras. Os guardiões deveriam preservar o equilíbrio. Sem a orientação dos mestres, isolados por milênios, **Ithiriel** distorceu o mandato: “proteger a vida” virou **crescimento sem morte** — um câncer fúngico. O Quarter of Being deixou de ser jardim e tornou-se **tumor verdejante**: vida que não completa o ciclo, apenas prolifera e apodrece.
+Quando o *Whisperer in the Dark* ameaçou a realidade, **Morrighael**, a última rainha da cidade, tomou a terrível decisão de conjurar o Grande Selamento. Ela sacrificou a magia e as almas de seu próprio povo, arrancando Aran'keth do Prime Material Plane. Após o rito, imortal porém fraturada, Morrighael exilou-se no cume dos Jardins Suspensos. 
+
+Isolada por éons, seu luto cristalizado e obsessão por não deixar as lembranças do seu povo morrerem corromperam a magia do local. A vida no bairro parou de morrer; ela passou apenas a proliferar. O Quarter of Being deixou de ser um jardim equilibrado e tornou-se um **tumor verdejante**: um ecossistema fúngico e simbiótico infinito, refletindo a negação da morte.
 
 ---
 
@@ -27,10 +29,10 @@ No **sacrifício** que selou o Whisperer, a **Semente** e a **Presa** ficaram aq
 
 | Aspecto | Detalhe |
 |---------|---------|
-| **Situação** | Guardiã de Sylvara ([[ithiriel-keeper-of-the-garden|Ithiriel]]) enlouquecida pelo Whisperer; vestígio esgotado; crescimento compulsivo = corrupção fúngica |
-| **Conflito** | Ithiriel (Guardiã) enlouquecida = fonte da corrupção. Coven de 3 Hags mora aqui por conveniência (véu fino para Feyglade). Red herring — parecem culpadas, não são. |
-| **Objetivo** | Investigar a corrupção, alcançar o templo central; confrontar Ithiriel + Beholder (combate ou purificação). Hags são pit stop. |
-| **Recompensa** | Informação sobre os vestígios, possível item ([[magic-items|budget Tier 2]]), pista sobre a prisão do Whisperer |
+| **Situação** | O clímax do distrito é o exílio de **Morrighael**, a Rainha Fantasma. A corrupção fúngica emana do seu luto e feitiço fraturado que recusa o fim dos ciclos. |
+| **Conflito** | Morrighael é a sentinela máxima do selamento cósmico, insensível ao destino de intrusos. Olenna (Fada) mora nos terraços inferiores por conveniência (véu fino para Feyglade). Red herring — parece a causa da corrupção, mas não é. |
+| **Objetivo** | Investigar a corrupção, escalar os imensos terraços até o cume; confrontar ou dialogar com a Rainha Fantasma. Sobreviver à flora predatória. |
+| **Recompensa** | Informação vital sobre a verdadeira história do Sacrifício e as chaves para as Torres de Obsidiana, além de relíquias élficas presas em âmbar e fungo. |
 
 ---
 
@@ -38,21 +40,16 @@ No **sacrifício** que selou o Whisperer, a **Semente** e a **Presa** ficaram aq
 
 ### Hanging Gardens of Babylon
 
-- **Terraços em ascensão** — jardins em camadas, como montanha verde de alvenaria antiga
-- **Bases profundas** — solo profundo para raízes de árvores grandes (agora raízes e micélios entrelaçados)
-- **Irrigação** — canais e quedas d'água (rios do quadrante); hoje água estagnada, musgo, esporos
-- **Vegetação luxuriante** — árvores, trepadeiras, flores (substituídas por fungos, líquens, vegetação corrompida)
+- **Terraços em ascensão** — jardins em camadas de alvenaria monumental antiga.
+- **Bases profundas** — solo desenhado para suportar raízes de árvores titânicas (agora ocupado por raízes podres e vastas redes de micélio).
+- **Irrigação** — aquedutos e quedas d'água (antigos rios do quadrante); hoje carregam água espessa, seiva escura e nuvens de esporos.
+- **Vegetação exuberante e monstruosa** — as flores e trepadeiras originais fundiram-se em colônias fúngicas letais.
 
-[Wikipedia: Hanging Gardens of Babylon](https://en.wikipedia.org/wiki/Hanging_Gardens_of_Babylon)
+### Raven Queen & The Morrígan
 
-### Freya's Quadrant (Ulduar)
-
-- **Arquitetura titânica** — templo antigo, pedra divina, geometria impossível
-- **Natureza reclamando** — estrutura majestosa devorada por verde selvagem
-- **Corrupção externa** — entidade antiga (Yogg-Saron) corrompeu o guardião; aqui: influência fúngica alien + Semente esgotada
-- **Templo da Vida** — domínio de crescimento, sementes, ciclo natural — invertido em decadência
-
-[Wowpedia: Freya](https://wowpedia.fandom.com/wiki/Freya)
+- **Atmosfera Trágica e Fatalista** — Morrighael mistura a frieza de uma deusa da morte com a carnificina de uma profetisa de guerra.
+- **Memórias como Tesouros** — A rainha acumula lembranças físicas de seu povo morto, cristalizadas ao redor do templo.
+- **Avatares de Penas e Sombras** — Corvos cegos (ou criações sombrias aladas) patrulham a região em seu nome.
 
 ---
 
@@ -60,12 +57,12 @@ No **sacrifício** que selou o Whisperer, a **Semente** e a **Presa** ficaram aq
 
 | Pilar | Implementação |
 |-------|---------------|
-| **Arena** | Terraços em múltiplos níveis, arcos sombrios, cobertura de fungos — posicionamento tático, elevação, linha de visão |
-| **Danger** | Hag + beholder, esporos, vegetação hostil, terreno difícil (raízes, lama, água parada); **alvenaria instável** (magias de concussão/pressão podem derrubar tetos) |
-| **Rest** | Ambiente hostil — esporos perturbam descanso; corrupção ativa |
-| **Exploration** | Passagens entre terraços, canais secos, câmera central, história ambiental (inscrições élficas, restos de peregrinos) |
-| **Interaction** | Negociação com a Hag; eco de Sylvara? Vegetação que reage? Puzzle para acessar a câmera? |
-| **Reward** | Semente (informativa, não usável), loot, pista sobre os 8 vestígios |
+| **Arena** | Terraços em múltiplos níveis, arcos sombrios, cobertura densa de fungos e limo — exige movimentação cuidadosa. Elevação e linha de visão são cruciais. |
+| **Danger** | A flora predatória, nuvens de esporos, águas corrompidas. Corvos cegos de Morrighael e aberrações simbióticas. **Alvenaria instável** (magias de pressão podem derrubar partes do teto das antigas estufas). |
+| **Rest** | Ambiente extremamente hostil — esporos e sussurros macabros perturbam descansos prolongados. |
+| **Exploration** | Subir os enormes degraus do zigurate ajardinado; ler a tragédia nas relíquias intocadas e nos murais de estuque lascados. |
+| **Interaction** | O pit-stop com Olenna (a Fada) oferece meias-verdades. A interação com Morrighael no cume dita a sobrevivência do grupo. |
+| **Reward** | Antigos tesouros do império élfico (cristalizados em memórias) e conhecimentos proibidos da Era do Equilíbrio. |
 
 ---
 
@@ -73,153 +70,113 @@ No **sacrifício** que selou o Whisperer, a **Semente** e a **Presa** ficaram aq
 
 ### Escala
 
-- **Jardins:** ocupam **3–5 hexes** em volta do templo central (hex C13 como núcleo)
-- **Templo central:** estrutura massiva com cúpula, múltiplos níveis, arcos
-- **Terreno:** hexes especiais (½× movimento) — rios, desníveis, vegetação densa
+- **Jardins:** ocupam **3–5 hexes** do distrito (hex C13 como núcleo).
+- **Templo central:** uma estrutura massiva em formato de zigurate (terraços escalonados), coroada por um santuário aberto às estrelas (ou ao teto da caverna).
+- **Terreno:** hexes especiais (½× movimento) devido aos desníveis colossais e vegetação asfixiante.
 
 ### Estrutura
 
 ```
-        [terraço superior]
+        [Santuário Aberto - O Cume]
               |
-    [terraço] — [TEMPLO CENTRAL] — [terraço]
-              |     (cúpula)
-        [terraço inferior]
+    [Terraço Superior] — [Salões de Memória]
+              |     
+    [Terraço Médio] — [Átrio de Olenna]
               |
-    [canal/rio] [terraço] [canal/rio]
+    [Aquedutos Secos] [Terraço Inferior] [Piscinas de Seiva]
 ```
 
-- **Terraços:** plataformas de pedra em degraus, cobertas de fungos, musgo, trepadeiras mortas
-- **Canais:** outrora irrigação; hoje água turva, esporos flutuantes
-- **Templo central:** cúpula, câmera central onde a Semente repousa
+- **Terraços:** plataformas de pedra em degraus, cobertas por um denso tapete de fungos, raízes expostas e neblina de esporos.
+- **Canais:** antigas vias de água, hoje lodosas e venenosas.
+- **O Cume:** o local onde Morrighael senta-se, contemplando o vazio em seu luto sem fim.
 
 ---
 
 ## Arquitetura interior (ruínas do templo)
 
-No **interior** das ruínas — galerias, salas sob os terraços e corredores que sobem até a câmera da cúpula — a construção segue um padrão élfico antigo, hoje **sem manutenção**: o micélio e a humidade comeram o reboco, mas a geometria mantém-se legível.
+No **interior** das ruínas — galerias botânicas e salões que conectam os terraços — a construção exibe a imponência do passado élfico e o estrago de milênios.
 
 ### Paredes e tetos
 
 | Elemento | Descrição |
 |----------|-----------|
-| **Paredes** | Blocos de pedra **sem argamassa** (apenas encaixe e peso), por fora cobertos de **estuque** (reboco). O estuque lascou-se em placas; por baixo vê-se o encaixe perfeito dos blocos. |
-| **Tetos** | Mesmo sistema: pedra + estuque. **Arcos em consola** (*corbel arches*) suportam lajes; de longe parecem mandíbulas de pedra. |
-| **Alturas** | A maioria dos **corredores** tem teto a **6 m de altura** (~20 ft). **Salas** podem ir de **6 m a 12 m** (~20–40 ft) — sobretudo antecâmaras sob terraços abertos ou poços de luz onde a vegetação desce em cortinas. |
-
-### Portas
-
-- Materiais: **lajes de pedra** ou **bronze batido** (laminado a martelo, verde-pátina).
-- **Pesadas**, mas **abrem sem teste** — rangem, deslocam poeira e esporos; o ruído pode chamar atenção.
+| **Paredes** | Blocos colossais sem argamassa. Cobertos de estuque lascado, revelando entalhes cuneiformes e glifos élficos antigos. |
+| **Tetos** | Arcos em consola (*corbel arches*) seguram as pedras. Em muitos lugares, estão cedendo pelo peso do micélio. |
+| **Alturas** | Corredores abobadados (~6 m). Antecâmaras com pés-direitos colossais (até 12 m), onde raízes pendem como cortinas de carne morta. |
 
 ### Alvenaria instável
 
-Em vários pontos os **arcos em consola** que seguram o teto **não estão sólidos**: rachas, deslocamentos, fungos a escorrer pelas juntas. Magias que **explodem** ou **vibram** o ar com força podem **fazer desabar** a abóbada **dentro da área do efeito**.
+Devido ao abandono, a estrutura arruinada responde perigosamente a grandes impactos.
 
 | Gatilho | Efeito |
 |---------|--------|
-| **Magias de área** como *fireball* (explosão) ou *thunderwave* (dano de trovão em área) | **25%** de chance (1 em 4) de **colapso parcial do teto** na área do feitiço. |
-| **Colapso** | **16 (3d10)** de dano de **concussão** a criaturas **na área** do feitiço (ajuste de narrativa: esmagamento por pedra). |
-| **Depois** | Escombros podem **bloquear** passagens, **soterrar** objetos ou **cortar saídas**. Limpar = trabalho, ferramentas, ou magia. |
+| **Magias de área** (ex: *fireball*, *thunderwave*) | **25%** de chance (1 em 4) de **colapso parcial do teto**. |
+| **Colapso** | **16 (3d10)** de dano de **concussão** a criaturas **na área** do colapso (pedregulhos caindo). |
+| **Consequência** | Escombros podem bloquear o caminho. Limpar exige trabalho braçal ou magia de transmutação. |
 
-*Sugestão de mesa:* rolar **1d4** ao lançar essas magias em corredor ou sala com teto suspeito; em **1**, ocorre o colapso. Magias que não mexem com pressão nem som (ex.: *ray of frost* num alvo) não disparam esta regra, salvo decisão do DM.
+### Poções ressecadas (sedimentos)
 
-### Poções resecadas (sedimentos)
-
-Em nichos, prateleiras tombadas ou copos de ritual, os personagens podem encontrar o **resto de uma poção**: **pó sedimentado** no fundo de um frasco ou tigela.
+Nas antigas salas de alquimia ou oferenda, há frascos com **pó sedimentado**.
 
 | Ação | Efeito |
 |------|--------|
-| **Misturar o pó com vinho** | Restaura a **poção com efeito completo** (o DM escolhe ou determina aleatoriamente a poção, conforme o tier). |
-| **Misturar com água** | Restaura a poção, mas se ela tiver **duração** (ex.: *invisibilidade*), a duração é **metade** da normal. |
-| **Engolir o pó seco** | **1 em 8** de funcionar como **poção de veneno** (*potion of poison*); caso contrário, **sem efeito** (pó inerte ou indigesto). |
-
-*Tom:* encaixa no abandono milenar — apoticaires élficos deixaram frascos; a humidade evaporou o líquido e o encantamento ficou **preso no sedimento** até ser reidratado.
-
----
-
-## A Semente de Sylvara
-
-| Aspecto | Detalhe |
-|---------|---------|
-| **Status** | Esgotada — perdeu o poder há eras |
-| **Local** | Câmera central do templo, sob a cúpula — **envolta no Beholder** |
-| **Função atual** | Centro da corrupção fúngica — atrai, amplifica ou canaliza a influência alien |
-| **Física** | Semente petrificada, rachada — o beholder a envolve, contém ou parasita |
-
-A Semente não é usável como vestígio. Mas sua presença explica a corrupção do quadrante e oferece **informação** sobre os 8 vestígios e a prisão. Para acessá-la, os PCs precisam lidar com o beholder primeiro.
+| **Misturar com vinho** | Restaura a poção ao efeito completo (DM decide qual). |
+| **Misturar com água** | Restaura a poção, mas a duração cai pela metade. |
+| **Engolir o pó puro** | 1 chance em 8 de virar *potion of poison*; caso contrário, inerte. |
 
 ---
 
 ## Antagonistas
 
-### Ithiriel — Guardiã de Sylvara
+### Morrighael — A Rainha Fantasma
 
-[[ithiriel-keeper-of-the-garden|Ithiriel]] é a **verdadeira fonte de poder** do quadrante. Emissária de Sylvara, deixada para proteger a Semente durante a Fracture. Enlouquecida pelo Whisperer ao longo de milhares de anos — seu domínio (Vida, Ciclos, Crescimento) distorcido em **crescimento compulsivo sem controle**. A corrupção fúngica do quadrante inteiro é obra de Ithiriel, não da Hag.
+A última governante de Aran'keth. Morrighael conjurou o sacrifício que aniquilou seu povo e selou a cidade. Isolada no topo dos Jardins por milênios, a imortalidade amaldiçoada fraturou sua mente. Seu luto eterno distorceu as energias da vida, fundindo seu instinto de preservação e profecia num câncer fúngico incontrolável.
+A corrupção do quadrante inteiro é uma manifestação do seu trauma: a recusa em deixar o que resta de sua cidade desaparecer gerou uma imortalidade distorcida onde nada morre naturalmente.
 
-Ver [[ithiriel-keeper-of-the-garden|ficha completa]] e [[backstory#Guardiões de Aran'keth|conceito de Guardiões]].
+Ver perfil completo em [[aranketh#A Última Rainha: Morrighael]].
 
-### O Beholder — Deus Cego e Idiota
+### Aberrações Simbióticas e Corvos Cegos
 
-Manifestação de uma divindade exterior ao estilo **Azathoth** (Mitos de Cthulhu): consciência incompreensível, alheia aos assuntos mortais. Atraído pelo poder corrompido de Ithiriel. **Envolve a Semente de Sylvara** — a contém ou parasita, fundido com o vestígio esgotado.
+A flora e fauna do local. Onde havia animais majestosos, hoje existem **Corvos Cegos Colossais** e treants/plantas distorcidas (*reskin de Treants, Shambling Mounds ou Myconids*). São as defesas subconscientes do exílio da rainha.
 
-*Stat block:* [Beholder Zombie](https://www.dndbeyond.com/monsters/5194922-beholder-zombie) (MM 5.5e) ou reskin — a ideia é que *pareça* um beholder, não um zombie fraco. A Semente pode ser visível no centro do corpo (núcleo orgânico).
+### Olenna, A Bela
 
-### Morvanna — Uma Hag, Três Personalidades
-
-**Morvanna.** [Green Hag](https://www.dndbeyond.com/monsters/5195057-green-hag) (MM 5.5e) — **um corpo, três personalidades**. Ocupam o mesmo corpo; o DM interpreta como vozes distintas. Mora nos Jardins por **conveniência** — o véu para a [[Feyglade Veil]] é fino aqui. Cabana Baba Yaga no átrio (demiplano). **Pit stop**, não antagonista.
+Entidade fey antiquíssima que fez morada nos terraços inferiores dos Jardins Suspensos. Não é uma Hag e não usa disfarces, mas se porta como uma aristocrata decadente. Mora aqui por conveniência (o véu para a [[Feyglade Veil]] é fino aqui). Não causa a corrupção fúngica; apenas prospera nela.
 
 | Aspecto | Detalhe |
 |---------|---------|
-| **Culpa na corrupção?** | **Não.** Mas não fizeram nada para melhorar. |
-| **Red herring** | Age como Hag — ambígua, traiçoeira, suspeita. Os PCs vão se perguntar. |
-| **O que quer** | Seguir sua natureza: segredos, favores, entretenimento |
-| **O que sabe** | Fragmentação, Ithiriel, vestígios, Whisperer (observa tudo) |
-| **Posição sobre PCs** | Curiosa. Visitantes são entretenimento e moeda de troca. |
+| **Culpa na corrupção?** | **Não.** Está apenas se aproveitando do ambiente hostil de Morrighael. |
+| **Red herring** | Age como fada — ambígua, traiçoeira. Os PCs podem crer que o câncer fúngico vem dela. |
+| **O que quer** | Segredos, barganhas, memórias e favores através de apostas ("Gambler"). |
+| **O que sabe** | Muito sobre a queda da cidade e a natureza da Rainha Fantasma (mas esconde a verdade). |
 
-**As três personalidades:** A Anfitriã (maternal, traiçoeira), A Sombria (observadora, fala pouco), A Faminta (curiosa, invasiva, coleciona). Em combate: 3 ações/turno, 3 pools de HP; cada pool zerada = uma personalidade banida ao Feywild. Ver [[encounter-02-the-atrium-branching|encontro 2]] para detalhes.
+*Ver Encontro 1 para detalhes do encontro com Olenna.*
 
 ---
 
-## Estrutura
+## Estrutura de Encontros
 
 | Encontro | Tipo | Conteúdo |
 |----------|------|----------|
-| **1 — A Cabana** | Guardião + Puzzle + Twist | [[encounter-01-the-hags-cabin|A Cabana de Morvanna]] — Xerxes (gatekeeper), negociação com o coven (puzzle), revelação de espionagem + red herring (twist) |
-| **2 — O Terraço** | Climax | [[encounter-02-the-terrace-climax|Ithiriel e a Semente]] — confronto com a Guardiã + Beholder. Combate, social ou purificação. Semente como recompensa narrativa. |
-
----
-
-## Encontros
-
-*Formato: [[Eelgrave/encounters|Eelgrave encounters]] — tipo, duração, música, descrição, layout, checks, táticas.*
-
-| # | Arquivo | Tipo | Descrição |
-|---|---------|------|-----------|
-| 1 | [[encounter-01-the-hags-cabin|encounter-01]] | Guardião + Puzzle + Twist | Átrio: Xerxes guarda a porta (um por vez). Cabana Baba Yaga (demiplano). Morvanna — negociação, red herring, informação. |
-| 2 | [[encounter-02-the-terrace-climax|encounter-02]] | Climax | Terraço: Ithiriel (Treant corrompido) + Beholder (Semente dentro). Múltiplas soluções — combate, social, purificação. |
+| **1 — O Átrio** | Guardião + Puzzle + Twist | [[encounter-01-the-hags-cabin|O Átrio de Olenna]] — Xerxes na porta, negociação Feérica, obtenção de meias-verdades sobre o Cume. |
+| **2 — O Cume** | Clímax | O encontro com **Morrighael**, a Rainha Fantasma, no santuário a céu aberto. Ela julgará os heróis, determinando se merecem ser sacrificados à prisão ou se podem ser agentes contra os intrusos humanos. |
 
 ---
 
 ## Recompensas
 
-- **Semente** — objeto narrativo; pista sobre vestígios e prisão
-- **Loot** — conforme [[magic-items|budget Tier 2]]; tema **Relics** (Sylvara = natureza, vida)
-- **Informação** — inscrições, eco temporal, visão do passado dos Jardins
+- **Memórias Cristalizadas** — Conhecimento vital sobre o Sacrifício e o Grande Selamento.
+- **Relíquias Élficas** — Itens mágicos de Tier 2 (budget [[magic-items]]), englobados por raízes ou guardados com rancor.
+- **Chaves de Obsidiana** — O que for necessário para abrir caminho até o núcleo do *Whisperer*.
 
 ---
 
 ## Conexões
 
-- `random-encounters-jardins-vicinity.md` — encontros aleatórios (fungos) nas proximidades do marco
-- [[encounter-01-the-hags-cabin|Encontro 1]] — A Cabana de Morvanna
-- [[encounter-02-the-terrace-climax|Encontro 2]] — O Terraço (Climax)
-- [[ithiriel-keeper-of-the-garden|Ithiriel]] — Guardiã de Sylvara
-- [[make-exploration-a-game|Make Exploration a Game]] — framework
-- [[backstory|Backstory]] — Semente de Sylvara (esgotada), Guardiões
-- [[aranketh|Aran'keth overview]]
-- [[magic-items|Magic Items — Aran'keth]]
-- [[six-pillars-dungeon-crawls|Six Pillars]]
-- [[09-npcs|Epic Campaigns: NPCs]]
-- [[09b-npc-dialogue|Epic Campaigns: NPC Dialogue]]
-- `hex-key.md` — hex C13+
+- `random-encounters-jardins-vicinity.md` — Encontros aleatórios (corvos e fungos predatórios).
+- [[encounter-01-the-hags-cabin|Encontro 1]] — O Átrio de Olenna.
+- [[aranketh#A Última Rainha: Morrighael|Morrighael]] — A Rainha Fantasma.
+- [[make-exploration-a-game|Make Exploration a Game]] — Framework de exploração.
+- [[backstory|Backstory]] — O sacrifício de Aran'keth.
+- [[aranketh|Aran'keth Overview]]
+- `hex-key.md` — Hex C13+.

@@ -1,67 +1,49 @@
 ---
-title: "Aelyndria, the Golden"
-category: "Mythology"
-related_concepts: ["Auriana", "Aasimar", "Angels"]
+title: "Aelyndria, a Dourada"
+category: "mythology"
+subcategory: "age-of-heroes"
+tags: [aelyndria, lesser-god, auriana, honra, justiça, paladinos, dragões]
+related_concepts: ["[[golden-city]]", "[[Auriana]]", "[[divine-hierarchy]]"]
 ---
 
-## Aelyndria, The Golden: Paragon of Excellence
+# Aelyndria, a Dourada
 
----
+## Natureza Cosmológica
 
-### **Origins and Nature**
+Aelyndria é um Lesser God de Auriana — uma das criações da Greater God da Ordem, portadora de uma faceta específica de seu Poder. A narrativa mítica que a descreve como "primogênita de Auriana e Kael Eryndor" é alegoria: ela encarna a convergência entre o ideal divino da Ordem e a expressão mortal dessa Ordem na forma de honra, valor e proteção.
 
-The Golden, also known as **Aelyndria**, was the firstborn child of **Auriana** and **Kael Eryndor**, created as a reflection of their union: divine order tempered by mortal will. She is the embodiment of **perfection in virtue, strength, and justice**, a divine ideal of what any being can aspire to become. As the eldest of their children, Aelyndria holds a position of high esteem among the Lesser Gods.
+Como Lesser God, manifesta-se no Plano Material via avatar. Se o avatar for destruído, o Poder retorna a ela. Não possui a Vontade de Viridiana e não passa pelo ciclo do Umbral Expanse.
 
-- **Domains**: Honor, Justice, Valor, and Protection.  
-- **Symbol**: A radiant golden shield encircled by a halo of light.  
-- **Appearance**: Aelyndria is often depicted as a tall, radiant woman clad in resplendent golden armor, with a glowing sword in one hand and a shield bearing Auriana’s sigil in the other. Her eyes shimmer like the sun, and her voice carries both comfort and command.  
-- **Personality**: She is compassionate and fair but unyielding in the face of evil. To her, justice is not just about law but about ensuring the weak are defended and the corrupt are brought to account.  
+## Poder — A Faceta da Honra
 
----
+Aelyndria carrega a faceta do Poder de Auriana voltada para o confronto direto com o que nega a Ordem: **Honra, Justiça, Valor e Proteção**. Onde outros Lesser Gods de Auriana aplicam a Ordem através de lei, diplomacia ou vigilância, Aelyndria a aplica através de ação encarnada. Ela é a resposta imediata da Ordem quando algo ameaça o que foi construído.
 
-### **Aelyndria’s Role in the World**
+## Formas e Avatares
 
-1. **The First Paladin**:  
-   Aelyndria is the founder of the **Paladin’s Oath**, a divine code of conduct emphasizing courage, righteousness, and the defense of others. Her example inspired mortals to take up arms not for conquest, but for the protection of the innocent and the pursuit of justice.  
+Seus avatares assumem múltiplas formas:
 
-   - The **Oath of the Golden Shield**, sworn by paladins, is said to trace its origins directly to Aelyndria’s teachings.  
+**Forma divina**: figura feminina em armadura dourada, olhos que emitem luz solar, voz com autoridade irrecusável. Usada quando quer ser reconhecida.
 
-2. **Alliance with the Metallic Dragons**:  
-   Recognizing their shared values of protecting the weak and opposing tyranny, Aelyndria forged an unbreakable bond with the **Metallic Dragons**. Together, they formed the **Golden Accord**, a pact to safeguard the Material Plane.  
-   - The **Dragons of Gold, Silver, Bronze, Brass, and Copper** are her closest allies, often called her **Winged Wardens**.  
-   - Legends tell of Aelyndria riding into battle atop the **Golden Dragon Valaryon**, her sworn companion.  
+**Forma mortal**: guerreira ou curandeira indistinguível de um humano, exceto por uma serenidade e ausência de hesitação que mortais descrevem como sobrenatural.
 
-3. **Champion of Mortals**:  
-   While her divine siblings often focus on abstract principles or distant planes, Aelyndria is deeply invested in mortal affairs. She walks among mortals in times of great need, disguised as a warrior or healer, to lend aid and inspire hope.
+**Forma draconiana**: em conflitos de escala planar, manifesta-se montada no Dragão Dourado Valaryon, seu aliado de pacto.
 
----
+## Os Dragões Metálicos e o Pacto Dourado
 
-### **The Paragon of What One Can Be**
+Aelyndria reconheceu nos Dragões Metálicos — criados por Viridiana antes do sacrifício e portadores de almas — seres cujos valores convergiam com a faceta que ela carrega. O **Pacto Dourado** é o único acordo formal entre os Lesser Gods de Auriana e as criações primordiais de Viridiana: uma aliança de Vontade livre, não de obrigação hierárquica.
 
-Aelyndria is not only a god but an ideal—an aspirational figure. She represents the potential for greatness that lies within every soul, divine or mortal. Her teachings emphasize:
+Os Dragões de Ouro, Prata, Bronze, Latão e Cobre atuam como Guardiões Alados — não subordinados, mas aliados que escolheram voluntariamente agir em consonância com o Poder de Aelyndria.
 
-- **The Pursuit of Excellence**: Strive to be the best version of yourself, whether through valor, wisdom, or kindness.  
-- **Sacred Duty**: Strength must be used to protect, not oppress.  
-- **Unity in Diversity**: Just as different metals forge a stronger alloy, so too do the diverse peoples of the world strengthen one another.
+## Disposição
 
----
+Aelyndria é a mais imediata entre os Lesser Gods de Auriana. Age onde outros deliberam. Sua compaixão se expressa em intervenção, não em orientação. O que ela não tolera é a cumplicidade com a injustiça por cálculo ou conveniência — não a falha, mas a recusa de tentar.
 
-### **The Golden Shield Crusade**
+## O Juramento do Escudo Dourado e os Paladinos
 
-One of her most celebrated myths is the **Golden Shield Crusade**, where Aelyndria led an army of mortals, angels, and dragons against a rising tide of Chaos. This campaign culminated in the **Battle of the Shattered Sky**, where she single-handedly faced the Chaos Lord **Drenzhaal, the Sunderer**. Though she could not destroy him, she banished him beyond the stars, preventing him from corrupting the Material Plane.
+O **Juramento do Escudo Dourado** não foi criado por Aelyndria — foi reconhecido por ela. Mortais que naturalmente convergiam para o Poder que ela carrega já agiam segundo seus princípios antes de qualquer codificação formal. O Juramento articula o que já existia.
 
-The battlefield where this took place became sacred ground, and a massive golden shield—a relic from the battle—remains there as a symbol of hope.
+Paladinos são mortais com Vontade de Viridiana que canalizam o Poder de Aelyndria via juramento — funcionando como clérigos, mas com o canal aberto por compromisso de ação em vez de fé contemplativa.
 
----
+## A Cruzada do Escudo Dourado
 
-### **Aelyndria’s Legacy**
-
-1. **Temples and Orders**:  
-   - **The Radiant Bastion**: A massive temple-fortress dedicated to Aelyndria, located in the heart of the human empire, serves as the headquarters for her paladin order.  
-   - Smaller shrines to Aelyndria dot the lands, often near dragon lairs or places of heroism.
-
-2. **Inspiration for Heroes**:  
-   Many of history’s greatest champions claim to have been inspired by visions of Aelyndria or to have wielded weapons blessed by her hand.
-
-3. **Her Influence on Dragons**:  
-   Metallic Dragons often take on mortal proteges in her name, teaching them the values of justice and humility.
+O mito mais difundido narra a campanha contra **Drenzhaal, o Fragmentador** — avatar de um dos Old Gods ainda não contidos. Aelyndria não o destruiu: baniu-o além das estrelas, custando parte permanente de seu Poder, incorporado no campo de batalha como selo do banimento. O escudo colossal que permanece no local não é relíquia — é o Poder que ela deixou para trás.

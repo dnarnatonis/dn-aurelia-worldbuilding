@@ -1,108 +1,71 @@
 ---
-title: Arthenis and Serilya
-age: Age of Heroes
-order: 3
+title: "Arthenis e Serilya — Mente e Corpo"
+category: "mythology"
+subcategory: "age-of-heroes"
+tags: [arthenis, serilya, lesser-gods, auriana, mente, corpo, resiliência, criatividade, tharizkorr]
+related_concepts: ["[[golden-city]]", "[[Auriana]]", "[[divine-hierarchy]]"]
 ---
 
-## The Twins: Mind and Body
+# Arthenis e Serilya — Mente e Corpo
 
----
+Arthenis e Serilya são Lesser Gods de Auriana criados como par complementar — duas facetas do mesmo aspecto da Ordem: a **excelência como ideal**. Onde a Ordem de Aelyndria se expressa em ação e a de Thalorian em estrutura, a de Arthenis e Serilya se expressa no ser individual levado ao limite de seu potencial.
 
-### **The Poet and Philosopher: Arthenis**
-
-1. **Nature**:  
-   **Arthenis**, the androgynous twin, is the patron of philosophy, literature, and the arts of the mind. Their divine essence inspires creativity, intellectual exploration, and emotional introspection in mortals. Despite their frail physical form, they wield immense influence through their words and ideas.
-
-   - **Domains**: Wisdom, Creativity, Philosophy, Poetry  
-   - **Symbol**: An open book with a quill crossed over it.  
-   - **Appearance**: A slender, ethereal figure with delicate features and flowing robes. Their golden hair shimmers with faint sparks of light, symbolizing the illumination of thought.  
-   - **Personality**: Thoughtful, empathetic, and introspective. Arthenis values the pursuit of understanding and encourages mortals to question the world and themselves.
-
-2. **Legends**:  
-   - **The Song of Stars**: Arthenis is said to have composed the first celestial poem, a song that resonated through the planes and inspired the creation of art among mortals.  
-   - **The Trial of the Mind**: During a dispute between gods, Arthenis used their wit and reason to peacefully resolve a conflict that could have plunged the planes into chaos.  
-
-3. **Teachings**:  
-   Arthenis teaches mortals to seek beauty in thought and expression. They emphasize that the mind is the most powerful tool for overcoming adversity and forging connections.
+A narrativa mítica que os descreve como gêmeos filhos de Auriana e Kael é alegoria — eles encarnação a tensão produtiva entre pensamento e ação, filosofia e corpo, contemplação e maestria.
 
 ---
 
-### **The Dancer and Swordmaster: Serilya**
+## Arthenis — O Vento da Mente
 
-1. **Nature**:  
-   **Serilya**, the sister twin, was born frail and tainted by the corruption of an Old God of rot. Her early life was a struggle for survival, but through sheer determination and will, she overcame her affliction. She transformed her weakness into strength, becoming the patron of resilience, physical mastery, and the arts of the body.
+### Natureza Cosmológica e Poder
 
-   - **Domains**: Resilience, Performance, Swordsmanship, Physical Mastery  
-   - **Symbol**: A crossed rapier and ribbon.  
-   - **Appearance**: A lithe, graceful woman with flowing dark hair, her movements mesmerizingly fluid. She often wears a blend of dancer’s silks and practical leather armor, her every step exuding both beauty and precision.  
-   - **Personality**: Passionate, fiery, and determined. Serilya values perseverance and believes that overcoming hardship is the path to true strength.
+Arthenis carrega a faceta do Poder de Auriana voltada para o domínio da mente como instrumento da Ordem: **Sabedoria, Criatividade, Filosofia e Poesia**. A Ordem não se sustenta apenas por leis e espadas — precisa de ideias que a tornem desejável, de linguagem que a articule, de arte que a faça habitável. Arthenis é o canal pelo qual a Ordem se torna cultura.
 
-2. **Legends**:  
-   - **The Dance of the Phoenix**: Serilya is said to have performed a divine dance so beautiful that it burned away the taint of rot within her, transforming her into an unyielding force of vitality and grace.  
-   - **The Duel of Shadows**: In one legend, she faced a champion of the Old God who once cursed her. Using her unparalleled skill in swordsmanship, she defeated the foe in a battle said to blur the line between combat and art.
+### Formas e Avatares
 
-3. **Teachings**:  
-   Serilya inspires mortals to overcome adversity through dedication and discipline. She teaches that the body is a vessel of expression, capable of beauty and strength when tempered by resilience.
+**Forma divina**: figura andrógina de traços delicados, cabelos dourados com centelhas de luz, mantos que se movem como se houvesse brisa constante. Presença que não intimida — ilumina.
 
----
+**Forma mortal**: filósofo, poeta, músico. Seus avatares mortais raramente são reconhecidos como divinos enquanto vivos; frequentemente só são reconhecidos após o que deixaram para trás.
 
-### **The Bond of the Twins**
+**Forma etérea**: em momentos de revelação artística ou filosófica intensa, Arthenis pode manifestar-se como uma voz ou sensação sem forma — a clareza repentina que chega no meio de uma composição, o verso que se escreve antes que o poeta entenda o que está dizendo.
 
-Despite their differences, Arthenis and Serilya share a deep bond, often appearing together in myths and teachings. Their complementary natures symbolize the harmony of mind and body, thought and action, and resilience through creativity.  
+### Disposição
 
-- **Shared Symbol**: Two intertwined figures, one holding a quill and the other a sword, representing their unity.  
-- **Shared Teachings**: They emphasize that true greatness comes from balance—of intellect and physicality, of thought and movement.
+Arthenis é o mais contemplativo dos Lesser Gods de Auriana. Não age diretamente — inspira ação em outros. Valoriza a pergunta tanto quanto a resposta e considera a arte que não questiona nada como decoração, não como expressão da faceta que carrega.
+
+Sua influência no Plano Material é difusa e de longo prazo: uma ideia plantada num filósofo obscuro que muda o pensamento de um reino três gerações depois é uma intervenção tão válida quanto qualquer ação direta de Aelyndria.
 
 ---
 
-### The Old God of Rot: **Tharizkorr, the Decay Eternal**
+## Serilya — O Vento do Corpo
+
+### Natureza Cosmológica e Poder
+
+Serilya carrega a faceta do Poder de Auriana voltada para o domínio do corpo como instrumento da Ordem: **Resiliência, Performance, Maestria da Espada e Excelência Física**. Ela encarna a ideia de que disciplina e superação de limitação são formas de Ordem tão legítimas quanto lei ou filosofia.
+
+Serilya nasceu — na alegoria mítica — com a marca de **Tharizkorr, o Eterno Decaimento**: um Old God cujo domínio é a corrupção de toda forma e ciclo. O mito narra como Tharizkorr interferiu na criação dela, semeando rot em sua forma para corromper o ideal de excelência física que ela deveria encarnar. A resposta de Serilya — transformar o fardo em maestria, não suprimir a marca mas transcendê-la — tornou-se o núcleo de seu domínio.
+
+Ela não cura rot. Ela carrega rot e ainda assim é perfeita na arte que escolheu. Isso é o que ela representa.
+
+### Tharizkorr — O Eterno Decaimento
+
+Tharizkorr é um Old God — não uma divindade da hierarquia de Viridiana ou Auriana, mas uma entidade que usurpou o poder de algum Outer God de domínio oposto ao florescimento. Seu poder é a corrupção de ciclos: onde Sylvara sustenta o crescimento, Tharizkorr o dissolve prematuramente. Onde Morthys conduz a morte com ordem, Tharizkorr a faz caótica e contaminante.
+
+Seu encarceramento no **Oco Podre**, dentro das **Profundezas Uivantes** sob as ruínas anãs de Dur-Khazad, foi selado com correntes forjadas pelo Poder combinado de Auriana e Khorvyn. O encarceramento contém mas não elimina: sua essência continua vazando, manifestando-se como pragas, blights e corrupção orgânica nas regiões adjacentes.
+
+### Formas e Avatares de Serilya
+
+**Forma divina**: mulher de movimentos fluidos que confundem a fronteira entre dança e combate. Seus olhos carregam uma tonalidade levemente escurecida — a marca de Tharizkorr que ela jamais eliminou completamente.
+
+**Forma mortal**: duelista, performer, atleta. Seus avatares são reconhecíveis pela perfeição técnica que parece impossível para o corpo que a executa, e por um traço de algo incorreto — um estalo de articulação, uma cicatriz que não deveria existir em alguém tão saudável.
+
+### Disposição
+
+Serilya exige. Não do ponto de partida — exige do ponto atual. Ela tem zero interesse em mortais que usam suas limitações como justificativa para parar. Ela mesma nunca parou, e sua marca é mais pesada do que qualquer limitação mortal.
 
 ---
 
-#### **Nature of Tharizkorr**  
+## O Par Complementar
 
-Tharizkorr, the **Old God of Rot**, is a being of entropy and corruption, embodying the inevitable decay that eats away at all things. It is not merely a god of physical decomposition but a cosmic force that represents the decay of ideals, the erosion of order, and the corruption of purity. Tharizkorr thrives on imbalance, feasting on moments of creation and transformation to twist them into stagnation and despair.
+Arthenis e Serilya manifestam-se frequentemente em conjunto porque o ideal que representam coletivamente — **excelência como forma de Ordem** — é mais completo na combinação do que em cada um separado. Uma mente sem corpo que a execute é especulação. Um corpo sem mente que o oriente é força bruta.
 
-- **Titles**: The Decay Eternal, Father of Blight, The Whispering Miasma  
-- **Domains**: Corruption, Decay, Disease, Stagnation  
-- **Appearance**: In legends, Tharizkorr is depicted as a massive, shapeless mass of rotting flesh and fungal growth, constantly shedding and regenerating itself. Its voice is a whispering, wet rasp that seeps into the minds of mortals.  
-
----
-
-#### **Why It Tainted Serilya**
-
-When **Auriana** and **Kael** conceived their twin children, their existence represented a harmony of thought and action, mind and body — a union that defied entropy. This perfection drew the attention of **Tharizkorr**, who sought to corrupt this balance as an affront to the ideals of order.
-
-Tharizkorr managed to reach into the divine essence of Serilya during her creation, seeding her with its rot. It aimed to taint her physical form, ensuring she would be weak and unable to embody the ideals of physical mastery. The rot was also a symbolic attack on Auriana and Kael, a way of undermining their divine perfection by corrupting their offspring.
-
-However, the plan failed:  
-
-- Serilya’s innate resilience, coupled with the influence of her divine family, allowed her to fight back against the corruption.  
-- Through her transformation and mastery of the physical arts, she turned what was meant to destroy her into a source of strength, purging much of the taint but forever bearing its scars.  
-
-Her victory over Tharizkorr’s influence became a symbol of hope and perseverance for mortals.
-
----
-
-#### **Tharizkorr's Imprisonment**
-
-After its interference in the divine realms, the combined forces of **Auriana**, **Kael**, and their angels sought to banish Tharizkorr. The battle was monumental, spanning the planes, and ultimately culminated in the god’s imprisonment.
-
-1. **Prison Location**:  
-   Tharizkorr was sealed within the **Rotting Hollow**, a plane-sized cavern hidden in the **Wailing Deeps** — the cursed tunnels beneath the ruins of the Dwarven empire of **Dur-Khazad**. This location was chosen because it was already corrupted by Chaos and decay, making it an ideal prison where Tharizkorr’s essence would have minimal influence on the greater cosmos.
-
-2. **The Chains of Decay**:  
-   Tharizkorr is bound by the **Chains of Decay**, divine constructs forged by the combined power of Auriana and Khorvyn, the God of Earth. These chains adapt to the rot and constantly regenerate themselves, countering Tharizkorr’s corruptive essence.
-
-3. **Guardians of the Hollow**:  
-   The prison is guarded by ancient **Verdant Wardens**, constructs of stone and root infused with Viridiana’s power. These guardians prevent the spread of rot from the Hollow, ensuring Tharizkorr remains contained.
-
----
-
-#### **Lingering Influence**
-
-Despite its imprisonment, Tharizkorr’s essence seeps into the Material Plane:
-
-- **Plagues and Blights**: Areas near the Wailing Deeps are often cursed with strange diseases and failing crops.  
-- **Cultists of Rot**: Mortals drawn to decay and corruption worship Tharizkorr, believing that embracing entropy will grant them power or favor.  
-- **Taint of the Twins**: Serilya’s early life was shaped by Tharizkorr’s interference, and her triumph over the rot is a constant reminder of its lingering threat.
+O **símbolo compartilhado** — duas figuras entrelaçadas, uma com pena e outra com espada — aparece em ordens dedicadas à excelência integrada: artistas que combatem, guerreiros que filosofam, curandeiros que compõem.

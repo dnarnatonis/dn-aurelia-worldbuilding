@@ -71,12 +71,46 @@ Lesser Gods não possuem fragmentos da Vontade de Viridiana. Agem, decidem e int
 
 ---
 
+---
+
+## Plane-Touched — Mortais com Conexão Planar Direta
+
+Plane-touched são mortais que possuem conexão direta com um plano além do Material — não através de fé ou prática, mas de forma inata, inscrita em sua natureza.
+
+Essa conexão confere acesso inato ao **Poder** do plano de origem. O Plane-touched não aprende a canalizar esse Poder — ele simplesmente o tem, como uma extensão de quem é.
+
+A origem da conexão varia:
+- **Toque direto do plano**: o plano de um Greater God se aproximou o suficiente do Material para tocar um mortal diretamente, como aconteceu com Kael Eryndor e Auriana
+- **Herança**: descendentes de um Plane-touched nascem com a conexão já presente, em grau que tende a diminuir a cada geração
+
+**Aasimar** são Plane-touched do Golden City de Auriana. Possuem Vontade própria vinda do plano de Auriana — não são fragmentos da Vontade de Viridiana. Em morte, retornam ao Golden City, não ao ciclo do Umbral Expanse.
+
+Outros planos geram seus próprios Plane-touched conforme sua natureza e proximidade com o Material.
+
+---
+
+## Clérigos — Fé como Canal de Poder
+
+Clérigos não são Plane-touched — são mortais com alma de Viridiana que, através de fé genuína e sustentada em um Greater God ou Lesser God, abrem um canal de acesso ao Poder desse ser.
+
+O mecanismo:
+
+**Fé → vislumbre de Conhecimento → canal de Poder**
+
+A fé funciona como abertura: ela cria um vislumbre do Conhecimento do plano ou divindade venerada. Esse Conhecimento, ao fluir pelo mortal, abre um canal pelo qual o Poder correspondente pode ser acessado. O clérigo não *possui* o Poder — o canaliza enquanto o canal permanece aberto.
+
+A profundidade da fé determina a largura do canal. Perda de fé fecha o canal. A Vontade do clérigo — seu livre-arbítrio como fragmento de Viridiana — permanece inteiramente sua; a fé não a substitui, apenas a orienta.
+
+---
+
 ## Resumo
 
-| Camada | Pode entrar no Plano Material? | Tem Vontade própria? | Exemplos |
-|---|---|---|---|
-| **Outer God** | Não | Sim | Banuātu, Halqu, Ulmathar, Shalzharae |
-| **Greater God** | Não | Sim | Viridiana |
-| **Lesser God** | Via avatar | Sim (sem alma mortal) | Os Oito, Veshka, Tserakar |
-| **Mortais** | São nativos | Sim (fragmento de Vontade de Viridiana) | Humanos, Elfos, Anões, etc. |
-| **Dragões e Gigantes** | São nativos | Sim (fragmento de Vontade de Viridiana) | — |
+| Camada | Pode entrar no Plano Material? | Tem Vontade própria? | Acesso ao Poder | Exemplos |
+|---|---|---|---|---|
+| **Outer God** | Não | Sim | É o conceito | Banuātu, Halqu, Ulmathar, Shalzharae |
+| **Greater God** | Não | Sim | Poder + Conhecimento plenos | Viridiana, Auriana |
+| **Lesser God** | Via avatar | Sim (sem alma mortal) | Parcela do Poder do Greater God | Os Oito, Anjos, Veshka |
+| **Plane-Touched** | Nativos | Sim (do plano de origem) | Inato — acesso direto ao Poder do plano | Aasimar, outros |
+| **Clérigos** | Nativos | Sim (Vontade de Viridiana) | Via fé → Conhecimento → Poder | — |
+| **Mortais** | Nativos | Sim (Vontade de Viridiana) | Nenhum direto | Humanos, Elfos, Anões, etc. |
+| **Dragões e Gigantes** | Nativos | Sim (Vontade de Viridiana) | Nenhum direto | — |

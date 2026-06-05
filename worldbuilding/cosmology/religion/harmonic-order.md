@@ -316,3 +316,293 @@ A história da Ordem inclui dois cismas formais e vários movimentos reformistas
 **O Segundo Cisma** envolveu a questão de se Aasimar masculinos deveriam ter acesso a ranks clericais plenos. Durou uma geração e foi resolvido por Proclamação do Coro — não foi resolvido teologicamente, foi fechado por decreto. A questão permanece latente.
 
 O **Movimento da Harmonia Viva** — a reforma mais recente, iniciada há quarenta anos e ainda ativa nos subterrâneos da Ordem — defende que a Ordem se tornou instrumento de controle político em vez de canal genuíno de Auriana. Seus membros, principalmente Diáconos e alguns Harmônicos de regiões periféricas, praticam a fé de forma mais próxima à tradição oral anterior à institucionalização. A Inquisição os monitora como potencial heresia. Eles argumentam que são os únicos fiéis genuínos restantes na Ordem.
+
+---
+
+## Simbolismo
+
+### Símbolos Gráficos
+
+O sistema simbólico da Ordem é construído em torno de três formas primárias: o **círculo**, a **torre** e a **chama**.
+
+O **sol dourado** — círculo irradiando luz — é o símbolo central de Auriana e o mais reconhecível em todo o Império. Aparece em moedas, fachadas de templos, vestuário clerical e pendões militares. É simultaneamente símbolo da deusa, do Golden City e da Ordem como instituição. Quando usado como brasão com as doze linhas de luz ao redor, representa Auriana em sua totalidade; com seis linhas, representa a Igreja enquanto corpo terreno.
+
+A **Torre da Harmonia** — silhueta vertical pontiaguda emanando luz do topo — representa o ideal do Golden City e é o símbolo arquitetônico da fé. Aparece nos selos oficiais da Ordem e nos estandartes do Coro Celestial.
+
+A **chama contida em círculo** — fogo que arde sem consumir o que o cerca — representa a Ordem como força que purifica sem destruir. É o símbolo específico da Ordem Harmônica enquanto instituição clerical, distinto do sol dourado de Auriana pessoalmente.
+
+**Símbolos dos Filhos de Auriana** — cada Lesser God tem símbolo próprio usado em contextos de veneração específica, não substituindo os símbolos centrais:
+
+| Lesser God | Símbolo |
+|---|---|
+| Aelyndria | Escudo dourado com auréola de luz |
+| Thalorian | Coroa de louros sobre pergaminho |
+| Arthenis | Livro aberto com pena cruzada |
+| Serilya | Espada e fita entrelaçadas |
+| Valtherion | Corrente quebrada sendo reforjada |
+| Maltherion | Coroa negra com chamas vermelhas *(símbolo de advertência, não de veneração)* |
+
+---
+
+### Atos Simbólicos
+
+**A abertura de palmas** — mãos abertas, palmas para cima, na altura do peito — é o gesto universal de submissão à Ordem divina. Usado ao entrar em templos, ao receber bênção clerical, ao prestar juramento e ao ser apresentado a um superior hierárquico. Um fiel que realiza este gesto está declarando, sem palavras, que sua Vontade está disponível para a Ordem.
+
+**O toque de dois dedos na fronte** — indicador e médio tocando levemente a testa — é o gesto de invocação do Conhecimento de Auriana. Usado antes de falar em contextos formais, antes de ler textos sagrados e no início de qualquer ritual. Clérigos o fazem instintivamente; fiéis leigos o aprenderam por imitação ao longo de gerações.
+
+**O círculo traçado no ar** — dedo indicador descrevendo um pequeno círculo à frente do corpo — é o gesto dos mortos. Realizado ao mencionar alguém falecido, ao passar por cemitérios e no momento da morte assistida. Simboliza a alma completando seu ciclo e chegando ao destino que lhe cabe. Não especifica qual destino — tanto fiéis que acreditam no Golden City quanto aqueles que sabem do ciclo de Viridiana usam o mesmo gesto.
+
+**A genuflexão de grau** — variações do ajoelhar segundo a hierarquia do interlocutor. Joelho direito ao chão diante de Harmônico ou acima; ambos os joelhos diante de membro do Coro; prostração completa diante da Imperatriz. Um erro de grau — ajoelhar menos do que o devido — é ofensa social grave. Ajoelhar *mais* do que o devido é embaraço para ambos.
+
+**A quebra do pão harmônico** — nas refeições comunitárias, especialmente após cerimônias, o pão é partido em silêncio e distribuído antes de qualquer palavra. Representa a comunhão da Ordem como corpo. Recusar o pão em contexto cerimonial é declaração hostil perceptível por todos os presentes.
+
+---
+
+### Vestimenta e Cores
+
+A vestimenta clerical é linguagem. Um cidadão letrado do Império consegue ler rank, Ordem e status de um clérigo pela roupa antes de qualquer palavra ser dita.
+
+**Cores por rank clerical:**
+
+| Rank | Cor base | Detalhe |
+|---|---|---|
+| Novício | Linho cru | Sem bordado |
+| Acólito | Branco simples | Faixa dourada estreita |
+| Diácono | Branco com ocre | Faixa dourada dupla |
+| Harmônico | Branco puro | Bordado dourado nas mangas |
+| Alto Harmônico | Branco com fios dourados | Manto com bordado extenso |
+| Arcediácono | Dourado com branco | Peitoral de metal gravado |
+| Coro | Ouro e púrpura | Só membros do Coro podem usar púrpura |
+| Voz | Branco imaculado | Faixa de prata pura, sem outro ornamento |
+
+O púrpura é cor da linhagem Aasimar para cidadãos comuns — mas dentro da Igreja, membros do Coro o usam combinado ao dourado como marca de autoridade máxima. Isso cria uma distinção visual entre o púrpura "imperial" (linhagem) e o púrpura "celestial" (Coro), reconhecível pelo contexto e pela combinação com o dourado eclesiástico.
+
+**Cores por Ordem:**
+
+| Ordem | Identificação visual |
+|---|---|
+| Ordem Harmônica (corpo principal) | Branco e ouro — ver tabela de ranks |
+| Ordem do Escudo Radiante | Preto com bordado dourado mínimo; sem insígnia visível em campo |
+| Ordem da Luz Dourada | Vermelho carmim e ouro; armadura com sol gravado no peitoral |
+| Ordem da Pena de Ouro | Azul-celeste com ouro; tonsura específica |
+
+A Ordem do Escudo Radiante deliberadamente minimiza marcadores visuais em operação. Um Inquisidor em missão veste-se como cidadão comum. O preto com bordado dourado é a vestimenta formal usada apenas em julgamentos e cerimônias internas — onde ser identificado como Inquisidor é o ponto.
+
+**Vestimenta laica:**
+
+Fiéis comuns não têm obrigação de vestimenta religiosa no cotidiano, mas espera-se que estejam decentemente cobertos ao entrar em templos. Cobrir a cabeça dentro do templo é obrigatório para homens; mulheres removem coberturas de cabeça ao entrar (o inverso de muitas tradições — a justificativa doutrinária é que a cabeça feminina está "mais próxima de Auriana" e não deve ser ocultada no espaço sagrado).
+
+---
+
+### Animais
+
+**A Águia** é o animal central da Igreja de Auriana — símbolo de alcance, visão elevada e autoridade divina. Aparece no brasão imperial junto ao sol dourado. Templos maiores mantêm águias vivas como animais sagrados. Ver uma águia em voo no momento de uma decisão importante é considerado sinal favorável.
+
+**O Leão** é o animal de Aelyndria — força a serviço da proteção. Os paladinos da Ordem da Luz Dourada frequentemente usam o leão como brasão pessoal. Na iconografia, Aelyndria é frequentemente representada acompanhada de leão deitado aos seus pés — não subjugado, mas em repouso voluntário.
+
+**O Falcão** é o animal da Inquisição — vigilância silenciosa, precisão, ataque sem aviso. Não é símbolo oficial da Ordem do Escudo Radiante (que não tem símbolo oficial visível), mas é associação cultural amplamente conhecida. A frase "um falcão pousou na viga" é eufemismo popular para "há um Inquisidor presente".
+
+**A Pomba** é o animal dos Harmonizadores (sub-coro angélico) e, por extensão, dos rituais de paz e mediação. Usada em cerimônias de tratados, casamentos e reconciliações. Uma pomba morta encontrada num templo é presságio extremamente ruim.
+
+**O Dragão Metálico** — especificamente o Dourado — não é animal simbólico no sentido estrito, mas ocupa posição única na iconografia da Ordem. O Pacto Dourado de Aelyndria com os Dragões Metálicos significa que representações de dragões dourados aparecem em capelas dedicadas a Aelyndria, sempre em posição de aliado, nunca de ameaça. Isso distingue a iconografia imperial da de culturas que representam dragões como perigo.
+
+---
+
+### Edifícios
+
+**Orientação**: todos os templos da Ordem são construídos com a entrada principal voltada para leste — o lado do nascer do sol. O altar principal fica na extremidade oeste. O fiel que entra pelo leste caminha em direção ao oeste, simbólicamente da luz da aurora para a luz permanente da Torre da Harmonia.
+
+**Geometria sagrada**: a planta dos templos combina o retângulo (o finito, o ordenado, o humano) com o círculo (o eterno, o divino). A nave retangular termina numa abside semicircular onde fica o altar. Templos maiores têm cúpula circular sobre a interseção da nave com o transepto — o ponto onde o finito e o eterno se cruzam.
+
+**A chama eterna**: todo templo da Ordem mantém uma chama que nunca se apaga, no nicho central do altar. Apagar a chama por descuido é falha grave; apagá-la deliberadamente é sacrilégio. A Ordem da Luz Dourada é responsável por proteger as chamas eternas em conflitos militares.
+
+**Direito de santuário**: qualquer pessoa que alcance o interior de um templo da Ordem e toque o altar pode declarar santuário. Enquanto permanecer dentro do templo, não pode ser presa por autoridade civil. Apenas a Inquisição pode quebrar o santuário — e somente com autorização de um membro do Coro. Na prática, o santuário é raramente invocado porque a maioria das pessoas que o invocaria seria acusada de heresia, o que coloca o processo dentro da jurisdição inquisitorial de qualquer forma.
+
+**Templos como mapa do cosmos**: os templos maiores de Celestra são construídos com câmaras secundárias dedicadas aos seis filhos reconhecidos de Auriana. A disposição das câmaras segue um padrão que, visto de cima, forma o símbolo do sol dourado — cada câmara representando um raio. A câmara de Maltherion existe mas permanece fechada, acessível apenas ao Coro, e sua posição no "raio" correspondente é deliberadamente incompleta.
+
+---
+
+### Objetos Sagrados
+
+**O Codex Áureo** — a escritura canônica não é apenas um livro; é um objeto sagrado. Cópias completas são mantidas em capas de couro dourado com fechos de metal, tratadas com o mesmo cuidado que relíquias físicas. Manuseá-lo sem permissão clerical é desrespeito; danificá-lo é sacrilégio; possuir uma cópia não-autorizada levanta questão inquisitorial imediata.
+
+**As Balanças de Thalorian** — instrumento de justiça presente em toda sala de julgamento imperial. Antes de qualquer veredito, o magistrado Harmônico toca as balanças com dois dedos (o gesto de invocação do Conhecimento). As balanças não são usadas literalmente para pesagem — são símbolo de equilíbrio entre misericórdia e lei.
+
+**Relíquias de Mártires** — ossos, vestes ou objetos de mártires canonizados são mantidos em relicários e considerados condutores de Poder divino residual. Templos que possuem relíquias de primeira classe (o próprio corpo do mártir ou objeto que tocou diretamente) têm status de peregrinação. A falsificação de relíquias é crime capitável — não por razão teológica abstrata, mas porque relíquias falsas fraudam a fé dos devotos e potencialmente canalizam Poder para onde não deveria ir.
+
+**O Anel de Consagração** — anel específico entregue a cada Harmônico no momento de sua investidura. O anel contém o símbolo do sol dourado gravado e foi tocado por um membro do Coro durante a cerimônia de consagração — tornando-o objeto com alguma conexão ao Poder de Auriana. Perder o anel é considerado presságio terrível. Devolvê-lo é o ato físico central de uma renúncia clerical.
+
+---
+
+## Cerimônias
+
+Todo ritual da Ordem é estruturado em três dimensões simultâneas — o que se **faz**, o que se **diz** e o que se **vê**. Essa tríade é ensinada aos Noviços como o fundamento de qualquer cerimônia: ações físicas, componentes vocais e parafernália visual reforçam-se mutuamente, engajando todos os sentidos do participante. Um ritual que falha em qualquer uma dessas dimensões é considerado incompleto — e um ritual incompleto pode não estabelecer o canal com Auriana que deveria.
+
+---
+
+### Rituais Comunitários
+
+**A Prece do Alvorecer** é a cerimônia obrigatória mais frequente — realizada diariamente ao nascer do sol em todo templo, capela e posto imperial. Começa com o toque do sino do templo, que chama os fiéis presentes. Um Diácono ou superior recita a abertura em Alto Imperial; a congregação responde em Imperial Comum com as respostas antifônicas. A cerimônia dura aproximadamente vinte minutos. Ausências repetidas sem justificativa são notadas pela comunidade clerical local.
+
+**A Procissão Harmônica** ocorre nos dias santos maiores. O clero desfila desde o templo central até o limite da comunidade e retorna, carregando o estandarte da Ordem e, em dias de maior importância, o relicário do mártir local. A procissão simboliza a Ordem percorrendo e consagrando o espaço físico da comunidade. Cidadãos que assistem da calçada devem permanecer de pé com a abertura de palmas enquanto o estandarte passa.
+
+**A Refeição da Aliança** segue as cerimônias maiores. Pão previamente bento por um Harmônico é partido em silêncio pelo clérigo celebrante e distribuído à congregação antes de qualquer palavra ser trocada. Representa a comunhão da Ordem como corpo único. Recusar o pão em contexto cerimonial é declaração hostil perceptível por todos os presentes.
+
+---
+
+### Calendário Litúrgico
+
+A Ordem mantém um calendário de seis datas maiores e várias menores, distribuídas ao longo do ano. As datas maiores combinam elementos de *theofest* (significado teológico) e *ecofest* (marcação sazonal).
+
+#### Dias Santos Maiores
+
+**O Dia do Sacrifício** *(fim do inverno)* — a data mais sagrada do calendário. Comemora o sacrifício de Viridiana que criou as almas mortais. A doutrina oficial enquadra isso como "o ato de amor que tornou os mortais possíveis" e como fundamento de toda a cadeia que levou a Auriana. Cerimônia noturna com extinção e reacendimento de todas as chamas — simbolizando o momento antes da criação e o instante em que ela ocorreu. Único dia do ano em que o jejum completo é prescrito até a meia-noite.
+
+**A Festa do Alvorecer** *(equinócio de primavera)* — celebra o início dos ciclos de crescimento e a faceta de Sylvara como Vento Verde. Marcada por plantio ritual de sementes no átrio dos templos, distribuição de flores e cerimônias de nomeação de crianças nascidas no inverno anterior. É o dia mais alegre do calendário — o único em que expressões públicas de júbilo são não apenas permitidas mas esperadas.
+
+**O Dia da Ascensão** *(início do verão)* — comemora a ascensão de Kael Eryndor ao Golden City e sua transformação no Arauto do Equilíbrio. Cerimônia de investidura de novos Harmônicos é programada para este dia sempre que possível. Inclui a leitura pública de genealogias Aasimar reconhecidas — reafirmação pública da legitimidade da linhagem imperial.
+
+**A Colheita Harmônica** *(início do outono)* — festival de colheita combinado com o pagamento do dízimo anual maior. Cada família traz sua contribuição ao templo, que é contabilizada e abençoada publicamente. Também é o dia de renovação de contratos de trabalho e de resolução formal de disputas civis menores — aproveitando a presença do magistrado Harmônico local.
+
+**O Dia dos Filhos** *(meados do outono)* — celebração dos seis Lesser Gods reconhecidos de Auriana. Cada um é mencionado em sequência numa liturgia longa que percorre os domínios de Aelyndria, Thalorian, Arthenis, Serilya e Valtherion. Maltherion não é nomeado na liturgia pública — a câmara fechada nos templos é aberta apenas para um momento de silêncio.
+
+**A Noite Longa** *(solstício de inverno)* — a noite mais longa do ano, dedicada a Elyndra como Vento Branco. Cerimônia noturna que vai do pôr do sol ao alvorecer, com velas acesas sucessivamente e salmos antifônicos ao longo de toda a noite. Simboliza a permanência da luz da Ordem mesmo na maior escuridão. É a cerimônia mais fisicamente exigente do calendário — clérigos conduzem a noite inteira sem sentar.
+
+**O Luto de Maltherion** *(último dia do outono)* — não é celebração; é advertência. Um único sino dobrado, uma única oração pelo "filho que perdeu o caminho", e silêncio. Dura menos de quinze minutos. Nenhum adorno, nenhuma procissão. O propósito é lembrar que até sangue divino não protege contra a corrupção da ambição — e que a Ordem continua de luto por esse fato.
+
+---
+
+### Sacramentos — Rituais Exclusivamente Clericais
+
+Sacramentos são ritos que *apenas* um clérigo investido pode realizar. Sua validade depende do rank do celebrante — alguns exigem Harmônico ou acima; outros podem ser realizados por Diácono.
+
+| Sacramento | Rank mínimo | Ocasião |
+|---|---|---|
+| **Nomeação** | Diácono | Apresentação formal de criança recém-nascida |
+| **Confirmação** | Harmônico | Rito de passagem à vida adulta |
+| **Laço Harmônico** | Harmônico | Casamento com validade civil e religiosa |
+| **Absolvição** | Harmônico | Remissão formal de transgressão confessada |
+| **Bênção de Lugar** | Harmônico | Consagração de edificação, campo, navio |
+| **Investidura** | Arcediácono | Ordenação de novo Harmônico |
+| **Últimos Ritos** | Diácono (urgência) / Harmônico (formal) | Cerimônia fúnebre e liberação da alma |
+
+Um sacramento realizado por clérigo abaixo do rank mínimo é considerado inválido — o casamento não tem validade civil, a absolvição não produz efeito espiritual, os últimos ritos não garantem a passagem adequada. Isso cria dependência prática da hierarquia em todos os momentos cruciais da vida.
+
+---
+
+### Ritos de Passagem
+
+**Rito da Luz** *(nomeação, primeiros dias de vida)* — a criança é apresentada ao templo local pelo pai ou responsável. O Diácono celebrante toca a fronte da criança com óleo bento (a unção de Auriana) e pronuncia o nome em Alto Imperial. Esse ato registra a criança nos livros da Ordem e confere-lhe existência legal no Império. Uma criança não-nominada não existe nos registros imperiais.
+
+**Rito da Travessia** *(iniciação à vida adulta, aos dezesseis anos)* — o jovem passa três dias em vigília no templo, realizando tarefas de serviço ao clero e orando nos intervalos. No terceiro dia, confessa-se ao Harmônico local e recebe a Confirmação. Ao sair do templo, é reconhecido como adulto com plenos direitos e deveres civis. Adiar este rito além dos dezesseis anos gera restrições legais.
+
+**O Laço Harmônico** *(casamento)* — a cerimônia de casamento inclui o entrelaçamento das mãos dos noivos com um cordão dourado pelo Harmônico celebrante — o único momento ritual em que um nó é feito (a maioria dos ritos evita nós). O cordão é mantido pelo casal após a cerimônia. Dissolver o casamento exige petição formal ao Arcediácono regional, que considera a questão à luz da lei divina.
+
+**A Investidura** *(ordenação clerical)* — a cerimônia mais longa do calendário pessoal de qualquer clérigo. Começa ao anoitecer e termina ao alvorecer. Inclui: banho ritual de purificação, leitura pública do percurso do ordinando desde o Noviciado, juramento em Alto Imperial perante a congregação, imposição de mãos por um membro do Coro (ou Arcediácono, se Coro não disponível) e a entrega do Anel de Consagração. O ordinando não fala durante as primeiras doze horas após a cerimônia — período chamado de *o silêncio da escuta*, durante o qual se espera que o canal com Auriana se estabeleça.
+
+**O Rito da Passagem** *(morte)* — realizado o mais cedo possível após a morte, idealmente antes do pôr do sol do mesmo dia. O Harmônico celebrante ou Diácono (em localidades remotas) faz o círculo no ar sobre o corpo, recita a oração dos mortos em Alto Imperial, unge os lábios e as mãos do falecido com óleo de cedro, e fecha formalmente os olhos. O corpo deve então ser preparado para sepultamento dentro de três dias. O atraso no Rito é presságio grave — não por superstição vaga, mas porque a Ordem ensina que almas sem o Rito demoram mais para completar a passagem ao Umbral Expanse.
+
+---
+
+### Oração
+
+A Ordem prescreve quatro momentos diários de oração com formas fixas:
+
+| Momento | Nome | Língua | Obrigatório para |
+|---|---|---|---|
+| Alvorecer | *Prece da Luz* | Alto Imperial (clero) / Imperial Comum (leigos) | Todos os cidadãos |
+| Meio-dia | *Prece do Equilíbrio* | Imperial Comum | Recomendado; obrigatório para clérigos |
+| Entardecer | *Prece do Crepúsculo* | Imperial Comum | Recomendado; obrigatório para clérigos |
+| Noite | *Prece do Repouso* | Qualquer | Opcional para leigos; obrigatório para clérigos |
+
+O **Cântico Celestial** é a forma de oração cantada exclusiva de Harmônicos e acima — uma liturgia musical longa reservada para as cerimônias maiores e para as horas canônicas do clero em residência. Diáconos aprendem as melodias básicas; as progressões harmônicas mais complexas pertencem a Harmônicos com formação musical específica.
+
+A **Prece Pessoal** — não prescrita, não monitorada — é considerada virtude. A Ordem incentiva a oração espontânea dirigida a Auriana, diferenciando-a das formas fixas. Um devoto que ora apenas nas formas prescritas por obrigação é seguidor; um que desenvolve oração pessoal está no caminho do devoto.
+
+---
+
+### Sacrifício
+
+A Ordem não pratica sacrifício de sangue — isso a distingue de cultos mais antigos e de práticas que ela classifica como barbarismo pré-imperial. Seus sacrifícios são:
+
+**O Dízimo** — dez por cento da renda anual, pago obrigatoriamente. É enquadrado na doutrina não como imposto mas como *sacrifício voluntário de abundância* — o fiel reconhece que sua prosperidade existe dentro da Ordem que Auriana orienta, e retorna uma fração ao sustento dessa Ordem. A framing é importante: recusar o dízimo não é apenas crime fiscal, é recusa de participação na aliança.
+
+**Os Votos Clericais** — membros de algumas Ordens prestam votos de castidade (Ordem da Pena de Ouro), pobreza pessoal (Noviciado prolongado) ou obediência absoluta (Ordem do Escudo Radiante). Esses votos são o sacrifício máximo dentro da vida clerical ordinária.
+
+**O Martírio** — a forma mais elevada de sacrifício, reconhecida pela Ordem como a expressão máxima de fé. Não é buscado nem incentivado ativamente — a Ordem não glorifica a autodestruição — mas é reconhecido como ato de significado cosmológico quando ocorre genuinamente em defesa da fé.
+
+---
+
+### Rituais Domésticos
+
+O **Altar do Lar** é a extensão da vida religiosa para dentro da casa. Toda família imperial deveria manter um nicho com o símbolo do sol dourado, uma vela (não necessariamente sempre acesa) e espaço para as imagens dos filhos de Auriana que mais ressoam com a família. Ritos menores de nomeação emergencial, prece pelos doentes e ritos fúnebres provisórios podem ser realizados no altar doméstico por um leigo quando um clérigo não está disponível — mas sempre com a ressalva de que o rito formal clerical deve ser realizado posteriormente.
+
+Em famílias Aasimar, o altar doméstico tem status diferenciado — é o ponto focal de genealogia e é mantido com mais elaboração. A linhagem é rastreada e exibida no altar, frequentemente em forma de árvore genealógica gravada ou bordada.
+
+---
+
+### Rituais de Cura e Exorcismo
+
+**A Bênção dos Enfermos** é realizada por Harmônico ou superior à cabeceira do doente. Inclui unção das mãos e fronte com óleo bento, recitação da intercessão a Serilya (faceta da resiliência e cura), e uma oração de canal aberto — a Harmônica concentra-se em manter o canal de Poder de Auriana focado no paciente. O efeito clerical real varia com a profundidade de fé da celebrante.
+
+**O Rito de Purificação de Lugar** é a cerimônia de limpeza de locais corrompidos por influência caótica, necromântica ou de Old Gods. O processo padrão envolve: aspersão de água benta (consagrada por um Harmônico) nos quatro cantos e no centro do espaço, queima de incenso de cedro e mirra enquanto o clérigo percorre o perímetro, recitação da intercessão a Elyndra (luz que dissipa sombra) e selagem com o símbolo do sol dourado marcado em óleo na entrada principal.
+
+Em casos de contaminação grave — locais expostos a Old Gods, necromancia intensa, ou presença do Aboleth — o Rito de Purificação padrão é insuficiente. Esses casos exigem um membro do Coro e são raros o suficiente para serem eventos notáveis quando ocorrem. A Ordem tem registros de exorcismos maiores que duraram dias e exigiram múltiplos clérigos em revezamento.
+
+---
+
+## Dever Clerical
+
+### Deveres Práticos por Rank
+
+O dever primário de todo clérigo é servir a Auriana — manter o canal de Conhecimento aberto, sustentar a doutrina e ser instrumento funcional do Poder dela no Plano Material. O dever secundário é servir os fiéis. O dever terciário é proteger a Igreja como instituição. A proporção entre os três muda com o rank.
+
+| Rank | Dever principal | Deveres típicos |
+|---|---|---|
+| **Novício / Acólito** | Formação | Assistir rituais, estudar Alto Imperial, serviço doméstico no templo, memorizar liturgia |
+| **Diácono** | Pastoral direto | Prece do Alvorecer diária, visitas aos enfermos, Rito da Luz e Últimos Ritos em emergência, ensino de crianças, coleta do dízimo local |
+| **Harmônico** | Pastoral e jurídico | Todos os sacramentos, presidir julgamentos menores, supervisionar Diáconos, manter registro dos fiéis da comunidade |
+| **Alto Harmônico** | Administrativo e judicial | Julgamentos formais, supervisão regional, formação de novos Harmônicos, relação com autoridades civis |
+| **Arcediácono** | Doutrinário e institucional | Produção e interpretação de textos, gestão de propriedades eclesiásticas, comunicação com o Coro |
+| **Coro** | Legislativo e revelador | Estabelecimento de canon, reconhecimento de Vozes, decisões sobre cismas e heresia grave |
+
+---
+
+### Disciplinas da Fé
+
+Cada sub-ordem da Harmônica tende a uma disciplina espiritual distinta — não imposta a todos os membros, mas cultivada como caminho preferencial.
+
+**Ritualismo** *(Ordem Harmônica principal)* — crença de que a performance perfeita de cada ritual em cada aspecto da vida aproxima o clérigo de Auriana. Um Harmônico ritualista acorda, come, trabalha e dorme dentro de formas prescritas. Não é obsessão — é o reconhecimento de que a Ordem existe tanto no gesto quanto na lei.
+
+**Monasticismo** *(Ordem da Pena de Ouro)* — vida separada das preocupações mundanas, dedicada inteiramente à contemplação e preservação do conhecimento. Membros vivem em residência clerical coletiva, passam a maior parte do tempo em estudo e cópia de textos, e têm contato limitado com fiéis comuns. Possuem propriedade apenas coletivamente.
+
+**Fanatismo estrutural** *(Ordem do Escudo Radiante)* — o Inquisidor não busca iluminação contemplativa nem perfeição ritual. Seu caminho espiritual é a certeza: a doutrina é verdadeira, os desvios são reais, e sua função é a linha entre a Ordem e o Caos que avança. A Ordem do Escudo Radiante seleciona deliberadamente candidatos com essa disposição — um Inquisidor que duvida é um instrumento quebrado. A penalidade social de ser visto como fanático é aceita; dentro da Inquisição, é selo de confiabilidade. Isso também explica por que a hierarquia de gênero se inverte dentro da Inquisição: a certeza doutrinária transcende qualquer consideração de rank quando o canal de Auriana está em jogo.
+
+**Misticismo** *(Vozes e alguns membros do Coro)* — meditação profunda e transe como caminho para o canal com Auriana. Místicos são considerados levemente perturbadores pelos colegas — passam horas em estados alterados, comunicam visões em formas difíceis de interpretar, e têm penalidade de reação com quem não compartilha a fé. São raros mas respeitados quando o Coro os reconhece como Vozes legítimas.
+
+**Sem disciplina formal** *(Ordem da Luz Dourada)* — paladinos não seguem disciplina contemplativa. O caminho de Aelyndria é ação, não meditação. Isso os distingue claramente do restante do clero e é fonte de tensão ocasional com Harmônicos ritualistas que os veem como "clérigos incompletos."
+
+---
+
+### Votos por Ordem
+
+| Ordem | Votos exigidos |
+|---|---|
+| **Harmônica principal** | Voto Menor de obediência à hierarquia; dízimo de 20% da renda pessoal à Ordem |
+| **Pena de Ouro** | Voto Maior de pobreza pessoal (propriedade coletiva); Voto Menor de castidade durante residência em claustro |
+| **Escudo Radiante** | Voto Maior de obediência absoluta ao Coro, sem exceção; Voto Menor de silêncio sobre casos em andamento |
+| **Luz Dourada** | Voto Menor de proteção de templos e relíquias; sem voto de castidade ou pobreza |
+
+Votos quebrados têm consequências proporcionais ao Poder real da Igreja. Como a Ordem representa força sobrenatural genuína, uma violação de voto não é apenas falta disciplinar — afeta o canal do clérigo com Auriana. Um Harmônico que quebra o voto de obediência pode perceber que suas preces não alcançam o mesmo canal de antes. Isso não é punição da Igreja: é Auriana retirando o acesso.
+
+---
+
+### Excomunhão — Estado Social Sobrenatural
+
+A excomunhão na Ordem Harmônica não é apenas punição social — é um estado com consequência sobrenatural. Como a Ordem representa poder divino genuíno, qualquer clérigo que encontre um excomungado *reconhece imediatamente* esse estado, sem precisar ser informado. Algo na presença da pessoa sinaliza a ruptura do canal.
+
+**Para leigos**: a excomunhão retira todos os direitos civis derivados da pertença à Igreja — contratos, propriedades registradas pela Igreja, proteções legais. A reação de qualquer fiel é de -3 automático; dobra para fanáticos.
+
+**Para clérigos**: além da perda de rank e propriedades eclesiásticas, o canal com Auriana fecha. Poderes clericais derivados de fé cessam imediatamente. Do ponto de vista do excomungado, esse é o momento mais brutal — não é punição da Igreja, é Auriana retirando o canal, o que a Ordem interpreta como confirmação divina da sentença.
+
+A Ordem usa esse efeito como argumento doutrinário circular mas eficaz: *"Se a excomunhão não fosse real, o canal não fecharia. O fato de fechar prova que Auriana concorda."* Qualquer clérigo que testemunhou o efeito de perto tende a não questionar a lógica.

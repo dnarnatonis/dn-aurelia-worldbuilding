@@ -13,6 +13,7 @@ Sistemas de jogo, mecânicas e guias para campanhas.
 | Categoria | Arquivos | Descrição |
 |-----------|----------|-----------|
 | **Chronicle System** | `Sword Chronicle - Core/` | Ruleset completo do Chronicle System (Green Ronin) — sistema-alvo da migração de Aurelia |
+| **Chronicle System** | `Sword Chronicle - Sorcery/` | Chronicle of Sorcery (2014) — o sistema de magia completo, com Lores modulares |
 | **DMG** | DMG-02-07, DMG-03, DMG-04, DMG-07, DMG-08 | Dungeon Master's Guide |
 | **PHB** | PHB-01-10 | Player's Handbook |
 | **Guide** | Epic Campaigns, HTGHM | Guias de criação de campanha |
@@ -38,6 +39,12 @@ Capítulo 4 do DMG 2024 — guia completo para criar aventuras:
 Ruleset do **Chronicle System** passado a limpo a partir de *Sword Chronicle: Feudal Fantasy Roleplaying* (Green Ronin, 2020) — 18 arquivos cobrindo motor de regras, criação de personagem, casa nobre, feitiçaria, equipamento, intriga, combate, guerra, o Narrador e o setting Shattered Era.
 
 Índice completo e notas de migração em `Sword Chronicle - Core/README.md`.
+
+## Sword Chronicle - Sorcery
+
+**Chronicle of Sorcery** (Green Ronin, 2014) — a versão completa do sistema de magia, que o livro básico de 2020 resumiu no seu Cap. 6. Traz a camada **Lore** (traditions mágicas com abilities, preço e resonances próprios), seis Lores de exemplo, as três Arts comuns detalhadas e os Sorcerous Wealth Holdings.
+
+As duas versões divergem — ver `Sword Chronicle - Sorcery/99-divergencias-2014-2020.md`.
 
 ## Epic Campaigns (Guy Sclanders)
 

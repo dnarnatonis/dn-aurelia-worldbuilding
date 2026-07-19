@@ -8,6 +8,8 @@ source: "Sword Chronicle (Green Ronin, 2020), Cap. 6, pp. 85–90"
 
 # Cap. 6 — Sorcery: Fundamentos
 
+> **Versão estendida.** Este capítulo é uma **condensação revisada** do suplemento *Chronicle of Sorcery* (2014), transcrito em [[../Sword Chronicle - Sorcery/README|Sword Chronicle - Sorcery]]. As duas versões **divergem em vocabulário e arquitetura** (Lore × Tradition, Technique × Work) — ver [[../Sword Chronicle - Sorcery/99-divergencias-2014-2020|as divergências]] antes de decidir qual é canônica.
+
 No milieu de **low fantasy** do Chronicle System, a magia é rara e prodigiosa. Bruxas de florestas, pântanos e planaltos oferecem amuletos de sorte, tratamentos herbais e maldições malévolas. Astrólogos leem o curso do destino nos padrões dos planetas. Alquimistas combinam ingredientes estranhos em laboratórios enfumaçados. Sussurradores de espíritos habitam as franjas de sociedades tribais, temidos até pelos mais ferozes; e feiticeiros de sangue exploram o sacrifício mais sombrio pelo poder que há no sangue — e no seu derramamento.
 
 ## Um tipo diferente de magia

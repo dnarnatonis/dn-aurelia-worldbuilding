@@ -12,6 +12,7 @@ Sistemas de jogo, mecânicas e guias para campanhas.
 
 | Categoria | Arquivos | Descrição |
 |-----------|----------|-----------|
+| **Chronicle System** | `Sword Chronicle - Core/` | Ruleset completo do Chronicle System (Green Ronin) — sistema-alvo da migração de Aurelia |
 | **DMG** | DMG-02-07, DMG-03, DMG-04, DMG-07, DMG-08 | Dungeon Master's Guide |
 | **PHB** | PHB-01-10 | Player's Handbook |
 | **Guide** | Epic Campaigns, HTGHM | Guias de criação de campanha |
@@ -31,6 +32,12 @@ Capítulo 4 do DMG 2024 — guia completo para criar aventuras:
 | DMG-04-05 | Bring It to an End (climax, denouement) |
 | DMG-04-06 | Adventure Rewards (treasure, hoards, quest rewards) |
 | DMG-04-07 | Adventure Examples (The Fouled Stream, Miner Difficulties, The Winged God, Horns of the Beast, Boreal Ball) |
+
+## Sword Chronicle - Core
+
+Ruleset do **Chronicle System** passado a limpo a partir de *Sword Chronicle: Feudal Fantasy Roleplaying* (Green Ronin, 2020) — 18 arquivos cobrindo motor de regras, criação de personagem, casa nobre, feitiçaria, equipamento, intriga, combate, guerra, o Narrador e o setting Shattered Era.
+
+Índice completo e notas de migração em `Sword Chronicle - Core/README.md`.
 
 ## Epic Campaigns (Guy Sclanders)
 

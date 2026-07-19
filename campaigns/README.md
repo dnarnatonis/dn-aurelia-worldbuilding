@@ -4,6 +4,7 @@ Organize campanha a campanha.
 
 ## Campanhas
 
+- **gilded-dawn/** — Registro mestre da guilda (esqueleto DMG Cap. 5)
 - **black-hollow/** — Gilded Dawn, Black Hollow
 
 ## Estrutura por Campanha

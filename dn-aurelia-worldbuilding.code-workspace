@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../dn-rpg-rules-collection"
 		}
 	],
 	"settings": {}

@@ -220,10 +220,18 @@ Segue [[character-template|Template de Personagem]]: os três nomes, prosa em **
 
 ## 6. Índice de casas
 
+### Lorvenia — Terras Além-Mar
+
 | Reino | Casa | Status | Fundação | Em uma linha |
 |---|---|:---:|:---:|---|
 | A Capital — Ysaminguatú *(Venită)* | [[00-navanu\|**Navanu**]] · [[01-navanu-holdings\|holdings]] | **10** | **F0** | Os Almiratori. Armaram a frota que se perdeu e viraram a frota que se perdeu; governam por juramento, não por posse |
 | A Escadaria e o Planalto | [[00-atesata\|**Atesáta**]] · [[01-atesata-holdings\|holdings]] | 5 | F1 | A casa mais antiga das Terras Além-Mar, fundada por um falsário, guardiã do único arquivo contínuo do mundo |
+
+### Aurelia — Império
+
+| Território | Casa / Linhagem | Status | Em uma linha |
+|---|---|:---:|---|
+| Imperial Heartland | [[00-linhagem-dourada\|**Linhagem Dourada**]] · [[01-linhagem-dourada-holdings\|holdings]] | **10** | A dinastia Aasimar de Kael Eryndor; Serenai fundou, Celestara II reina — sem herdeiras vivas |
 
 *Atualizar esta tabela sempre que uma casa for criada ou mudar de Status.*
 

@@ -20,11 +20,11 @@ The **Aurelian Empire** is a vast, fragmented realm modeled after the **Holy Rom
 
 | **Duchy** | **Geography** | **Economic Role** | **Strategic Importance** |
 |----------|--------------|------------------|-------------------------|
-| **Ironvale (Northwestern Highlands)** | **Cold, mountainous, rich in iron and silver.** | **Mining, blacksmithing, and stonecutting.** | **Defends against external barbarian or raider threats.** |
+| **Ironvale (Northwestern Highlands)** | **Cold, mountainous, rich in iron and silver.** Includes the county of **Alba**, whose northern half — **North Alba** — was carried off by the Silver Host in the schism | **Mining, blacksmithing, and stonecutting.** | **Defends against external barbarian or raider threats.** Its Alban population is a people split across a hostile border — see [`alban-language.md`](../../../../World/Languages/alban-language.md) |
 | **Greenfield (Eastern Plains)** | **Endless farmland, gentle hills, large rivers.** | **Agriculture (grain, livestock, and trade).** | **Feeds the empire, heavily taxed and contested.** |
 | **Seaforth (Southern Coastline)** | **Mild climate, harbor cities, naval strongholds.** | **Maritime trade, fishing, shipbuilding, and commerce.** | **Vital for controlling sea routes and imperial supply lines.** |
-| **Stonewood (Western Frontier)** | **Dense forests, rugged hills, home to old ruins.** | **Lumber, hunting, fur trade, and frontier exploration.** | **A contested region with external threats and remnants of past civilizations.** |
-| **The Silver Host (Breakaway State)** | **Mountainous, fortified, and mineral-rich.** | **Gold, silver, and religious chivalry.** | **Broke from the empire, now a militarized theocracy.** |
+| **Stonewood (Trans-Riverine March)** | **Dense forests, rugged hills, home to old ruins.** Bounded **west by the Great River** and **east by the Ôstwal** *(Montes Terminales)* | **Lumber, hunting, fur trade, amber, and dwarven metalwork.** | **The empire's buffer against the greenskin pressure beyond the eastern wall.** See [`stonewood.md`](../../../geography/regions/stonewood.md) |
+| **The Silver Host (Breakaway State)** | **Mountainous, fortified, and mineral-rich.** Counties lie **behind one of the chains of the Silver Mountains**, which stand **between the Empire and Greenfield** — see [`silver-mountains.md`](../../../geography/regions/silver-mountains.md) | **Gold, silver, and religious chivalry.** | **Broke from the empire, now a militarized theocracy — and took the southern pass with it, severing the imperial road to Greenfield's old capital.** Only two passes exist |
 
 ---
 
@@ -48,8 +48,9 @@ The **Aurelian Empire** is a vast, fragmented realm modeled after the **Holy Rom
 
 ### **E. The Imperial Borders**
 
-- **To the West:** **Dwarven Clans** in their **mountain fortresses**.  
-- **To the East:** **Elven Kingdoms**, isolated and enigmatic.  
+- **To the West:** the **Pact of Iron dwarves** — Ironshield and Stonefist — in the **Ironspire Mountains**, between the Heartlands and the lands of the Silver Host. Allied, cosmopolitan, with a permanent embassy in Celestra.
+- **To the East:** beyond the Great River lies **Stonewood**, and beyond Stonewood the **Ôstwal** — held by **insular dwarven clans with no treaty**, and pressed from the far side by **greenskins**.
+- **Overseas, south and east of Seaforth:** the archipelago of **Aranath**, the **Elven Kingdoms** — ancestral homeland of all elves, and a **closed country**: no port of contact, no exceptions. See [`aranath-isles.md`](../../../geography/regions/aranath-isles.md).
 - **To the North:** **Feral lands, raiders, and supernatural threats.**  
 - **To the South:** **The Empire’s coastal holdings, challenged by rival naval powers.**  
 

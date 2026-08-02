@@ -1,10 +1,14 @@
 ---
 title: "Sylvan"
 category: "Languages"
-related_concepts: ["Viridiana", "Verdant Dream", "Fey"]
+related_concepts: ["Viridiana", "Verdant Dream", "Fey", "[[proto-elvish-language]]", "[[wood-elvish-language]]"]
 ---
 
 The language of nature and the Fey, born from Viridiana's shaping of reality.
+
+> **Mãe de toda a família élfica.** Os elfos despertaram dentro do Sonho Verdejante e aprenderam a falar com os Fey — mas o mecanismo Sylvan de palavras vivas, cujo *"meaning changes based on natural seasons"*, é incompatível com a cultura élfica da memória. O **Athlirë** (Proto-Élfico) nasceu do ato de **congelar** esse mecanismo. Ver [`World/Languages/proto-elvish-language.md`](../../../../World/Languages/proto-elvish-language.md) §0.
+>
+> O ramo silvestre ([[wood-elvish-language|Lothlir]]) reabriu a porta e vem derivando **de volta** na direção do Sylvan há milênios — é a única língua élfica que se aproxima da mãe conforme envelhece.
 
 ## Origins
 

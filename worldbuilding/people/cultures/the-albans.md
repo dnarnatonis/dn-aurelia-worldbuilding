@@ -1,4 +1,13 @@
 # Cultura de North Alba — WorldAnvil Ethnicity Template
+
+> ⚠️ **Refatoração de canon (1 ago 2026).** Os Albanos são um povo **dividido por uma fronteira**:
+>
+> - **Alba** — condado do **Ducado de Ironvale**, imperial. Terras altas, minas de ferro e prata, forjas
+> - **North Alba** — a porção setentrional, levada pela **Hoste Prateada** no cisma. Costa, *meres*, salinas
+>
+> **Este documento descreve North Alba**, e continua integralmente válido para ela. O que mudou é que existe uma outra metade, sob outro senhor, falando a mesma língua com outro sotaque.
+>
+> Ver [`World/Languages/alban-language.md`](../../../World/Languages/alban-language.md) §0 para a refatoração completa e para as formas albanas originais dos termos que aqui aparecem traduzidos (*Mere-house*, *Storm-Warden*, *Hearth-right*, *Telling-circle*…).
 *Framework: DMG 2024 | Sistema: D&D 2024*
 
 > Cada campo abaixo corresponde a um campo do template **Ethnicity** do WorldAnvil.

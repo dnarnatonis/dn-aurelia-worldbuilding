@@ -1,5 +1,7 @@
 # North Alba
 
+> ⚠️ **Refatoração de canon:** North Alba é a **metade norte** do território albano. A metade sul é **Alba**, condado do Ducado de **Ironvale**, que permaneceu imperial quando a Hoste Prateada rompeu. Um só povo, duas soberanias. Ver [`alban-language.md`](../../../World/Languages/alban-language.md) §0.
+
 North Alba represents the northernmost reaches of the Silver Host, a harsh and windswept region reminiscent of the North Frisian coastline. This untamed frontier marks where the Host's theocratic influence begins to fade into the wild unknown.
 
 ## Geography & Climate

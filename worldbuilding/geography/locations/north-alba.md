@@ -1,5 +1,7 @@
 # North Alba: The Frosted Marches of the Silver Host
 
+> ⚠️ **Refatoração de canon:** este documento descreve a **metade norte** do território albano, sob a Hoste Prateada. A metade sul é **Alba**, condado do Ducado de **Ironvale**, imperial. Ver [`alban-language.md`](../../../World/Languages/alban-language.md) §0.
+
 > “Where the wind meets the marsh, and the marsh meets the moonlight — there begins the patience of the North.”  
 > — *Codex Basilikai*, Vol. IX: The Outer Provinces
 

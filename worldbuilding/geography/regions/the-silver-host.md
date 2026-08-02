@@ -5,7 +5,7 @@
 ## **1. Overview**  
 
 - **Formerly part of the Aurelian Empire, now an independent nation.**  
-- **Founded by Duke Edric the Anointed**, who **declared himself King**, claiming divine right.  
+- **Founded by Duke Eneko Antsoitz, l'Onhut**, who **declared himself King**, claiming divine right.  
 - **Controls vital gold and silver mines**, making it **wealthy yet constantly at war.**  
 - **Deeply religious, devoted to the Classical Gods of Light, Heaven, and Life.**  
 - **Rigid social structure**—**strict gender roles, chivalric code, and religious hierarchy.**  
@@ -15,11 +15,16 @@
 
 ## **2. Geography & Strategic Position**
 
-- **Mountainous, heavily fortified terrain**, rich in **precious metals.**  
-- **Located along the empire’s northeastern border**, cutting off imperial access to key mines.  
-- **Fortified mountain passes**, making it difficult to invade.  
-- **Shares borders with imperial loyalist duchies, independent dwarven clans, and hostile frontier lands.**  
-- **Harsh winters and rocky soil**—**not self-sufficient in food production, reliant on trade or conquest.**  
+> ⚠️ **Posição precisada (2 ago 2026).** As **Montanhas de Prata** ficam **entre o Império e Greenfield** — um feixe de cadeias paralelas, não uma serra única. Os condados da Hoste ficam **atrás de uma das cadeias**, em vales protegidos. Eram ducados de **Greenfield** antes da ruptura. Ver [`silver-mountains.md`](silver-mountains.md).
+>
+> A menção antiga a *"northeastern border"* deve ser lida como imprecisa; vale a **posição relativa**: Celestra → Montanhas de Prata → Greenfield.
+
+- **Mountainous, heavily fortified terrain**, rich in **precious metals.**
+- **Só existem duas passagens** através da cadeia — e é por isso que os passos são fáceis de fortificar:
+  - **Passo Sul** — ***Porta Aurelia*** (nome imperial) / ***Port de l'Onhut*** (nome da Hoste). Fica **sobre a estrada imperial** que liga a **antiga capital de Greenfield** à Capital Imperial. **Ao romper, a Hoste não levou só as minas: levou a estrada**
+  - **Passo Norte** — ***Ipar-Atea***, mais alto, mais frio, fora de qualquer via construída. Caravana, contrabando, e os Errantes
+- **Shares borders with imperial loyalist duchies, independent dwarven clans, and hostile frontier lands.**
+- **Harsh winters and rocky soil**—**not self-sufficient in food production, reliant on trade or conquest.** *(E a razão é histórica: são gente de planície agrícola que se mudou para trás de uma montanha onde não se planta.)*
 
 ---
 
@@ -27,12 +32,12 @@
 
 | **Title** | **Holder** | **Role & Authority** |
 |----------|-----------|----------------------|
-| **King** | **Edric the Anointed** | **Absolute ruler, claims divine right, sees himself as the true chosen monarch.** |
+| **King** | **Eneko Antsoitz, l'Onhut** | **Absolute ruler, claims divine right, sees himself as the true chosen monarch.** |
 | **High Theurge** | **Elected Cleric of the Church of Light** | **Spiritual leader, wields religious influence but serves under the king.** |
 | **Knight-Commanders** | **Lords of the Chivalric Orders** | **Control strongholds, lead military campaigns, and enforce the king’s will.** |
 | **Barons & Counts** | **Feudal vassals** | **Hold land, raise troops, and manage local governance.** |
 
-**Edric’s Justification for the Breakaway:**  
+**Eneko’s Justification for the Breakaway:**  
 
 - Claims **the Aurelian Empire is corrupt, led by a woman, and forsaken by the gods.**  
 - **Believes his realm is the true inheritor of divine law** and the **purest form of imperial faith.**  
@@ -71,7 +76,7 @@
 
 1. **War with the Aurelian Empire** – Constant **border skirmishes, raiding, and ideological battles.**  
 2. **Tensions with the Dwarves** – **Some clans support the Silver Host, others remain neutral.**  
-3. **Internal Dissent** – **Not all nobles agree with Edric’s totalitarian rule.**  
+3. **Internal Dissent** – **Not all nobles agree with Eneko’s totalitarian rule.**  
 
 ---
 
@@ -92,9 +97,9 @@
 
 ## **8. The Future of the Silver Host**
 
-- **Edric’s rule is strong now, but cracks are forming.**  
+- **Eneko’s rule is strong now, but cracks are forming.**  
 - **If the players intervene**, they could **either reinforce or weaken the separatist state.**  
 - **Possible Future Arcs:**  
   - A **civil war between theocratic zealots and pragmatists.**  
   - A **crusade against a heretical threat** (real or fabricated).  
-  - **An assassination attempt on Edric**, forcing a new order to rise.  
+  - **An assassination attempt on Eneko**, forcing a new order to rise.  

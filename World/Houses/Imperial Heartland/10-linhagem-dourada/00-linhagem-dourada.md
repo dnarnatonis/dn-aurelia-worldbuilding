@@ -199,7 +199,7 @@ Aqui fica só o **resumo de uma linha**:
 - [ ] Preencher §0–§4
 - [ ] Completar linha de reinados (§2.2)
 - [ ] Escrever `01-linhagem-dourada-holdings.md`
-- [ ] Ficha de Celestara II (`02-celestara-ii.md`)
+- [x] Template de Celestara II (`02-celestara-ii.md`) — preencher §1–§3
 - [ ] Preencher penetração P1–P5
 - [ ] Rodar Apêndice B
 

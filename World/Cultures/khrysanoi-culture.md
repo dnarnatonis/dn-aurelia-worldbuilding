@@ -67,7 +67,7 @@ O ponto teológico que sustenta o Ethos: para os Khrysanoi, Khrysópolis é lite
 
 - **Albanos** (North Alba / Fronteira Norte) — pré-datam qualquer incorporação, mantêm animismo sincretizado e estrutura de clã por Mere-house (`the-albans.md`). **Atenção:** hoje estão sob a **Silver Host**, não sob o Império — *"Absorvidos pela Silver Host após gerações de resistência, eles pagam tributo em sal"*. Qualquer contato Khrysanoi–Albano passa por um estado cismático hostil no meio.
 - **Alamanos** (Stonewood / Fronteira Oeste) — **correção importante em relação a uma leitura apressada de `the-imperials.md`**, que os lista de passagem como mero "dialeto regional tolerado". O canon de campanha os mostra como coisa bem diferente: cultura **tribal de sabor germânico/nórdico**, com assembleia própria (**Wald-thing**), Thingmen com direito a voto, chefes tribais, bosques sagrados, marcas tribais e nomes como *Gerhard, Sigurd, Ragnar, Bjorn, Freya, Astrid, Ingrid* (`The Monk.md`; `stonewood.md`). Stonewood *"maintains significant autonomy under its Alaman tribes, whose fierce independence and martial traditions often challenge imperial authority."* Não são assimilados — são o oposto disso.
-- **Silver Host** — estado cismático que se separou do Império sob Duke Edric the Anointed (`the-silver-host.md`); herança à parte por razão política, não étnica.
+- ⚠️ ~~**Silver Host** — herança à parte por razão política, não étnica.~~ **Corrigido:** a Hoste **não** é herança à parte. É cultura **Verdois** (`verdois-culture.md`), herança **Aureliana** — a mesma dos Khrysanoi. Império e Hoste são o mesmo tronco imperial disputando qual metade é legítima, e por isso **não podem hibridizar**: um assimila o outro, ou nada.
 
 Manter os três fora abre a possibilidade narrativa mais interessante: **culturas híbridas de fronteira**. O candidato realmente forte é o **Waldmark de Stonewood** — as *"disputed borderlands between imperial territories and tribal regions"*, território ainda imperial, onde administração Khrysanoi e tribos Alaman se atritam há gerações. Duskport seria o equivalente no norte, mas o híbrido de lá seria **Silver Host × Albano**, não Khrysanoi × Albano: o Império perdeu aquela fronteira quando a Host rompeu.
 
@@ -227,7 +227,7 @@ Theophan*, Christophoros*, Sophia*, Kyra*, Athanasios / Athanasia, Chrysostomos,
 
 - **Títulos de cargo:** Imperatriz *(Áureo)* · Chanceler da Harmonia · Legado *(Áureo — província de fronteira)* · Archon *(Khordaico — distrito urbano)* · Arcediácono · Alto Harmônico
 - **Títulos cerimoniais secundários:** padrão **"Voz de / do [X]"** — *Voz do Sino da Manhã* é o exemplo canônico. São honrarias de corte com função ritual mínima e peso social enorme; acumulá-las é o esporte principal da nobreza de Celestra
-- **Epítetos históricos:** posposto e definido, à moda Khordaica — *Serenai, **a Radiante***; *Edric, **o Ungido*** (este último, do lado cismático)
+- **Epítetos históricos:** posposto e definido, à moda Khordaica — *Serenai, **a Radiante***; *Eneko, **o Ungido*** (este último, do lado cismático)
 - **Guerreiros de elite:** **Khrysaspidai** *(sing. Khrysaspis)* — "Portadores do Escudo Dourado"
 
 ---
@@ -494,7 +494,7 @@ Magia arcana independente exige registro, declaração de origem e taxa eclesiá
 
 | Entidade | Relação | Notas |
 |---|---|---|
-| **Silver Host** | Estado cismático hostil | Fundado por Duke Edric, o Ungido, que se declarou Rei por direito divino. Controla minas vitais de ouro e prata, cortando o acesso imperial |
+| **Silver Host** | Estado cismático hostil | Fundado por Duque Eneko Antsoitz, l'Onhut, que se declarou Rei por direito divino. Controla minas vitais de ouro e prata, cortando o acesso imperial |
 | **Trade Republic** | Estrangulamento econômico | Controla a foz do Great River e **taxa o comércio imperial** — humilhação estrutural permanente para uma potência que se vê como centro do mundo |
 | **Clãs Anões** | Fronteira ocidental | Fortalezas de montanha; parceiros comerciais |
 | **Reinos Élficos** | Fronteira oriental | Isolados e enigmáticos |
@@ -556,7 +556,7 @@ World/Languages/khorde-language.md     ← língua-mãe sagrada
 
 - [x] **Corrigido:** **North Alba está sob a Silver Host, não sob o Império** (`the-albans.md`). Isso invalidou a hibridização Khrysanoi × Albano em Duskport que eu havia proposto no esqueleto, e rebaixou a relação Khrysanoi–Albano a indireta. **Conflito adjacente:** `geography-of-the-empire.md` chama Duskport e Black Hollow de *"northernmost imperial settlements"* — provavelmente defasado em relação à ruptura da Host. Vale confirmar de que lado da fronteira Black Hollow está hoje, já que é onde a campanha se passa.
 - [x] **Corrigido:** eu havia colocado os **Alamanos** na herança Aureliana como povo assimilado, baseado na menção de passagem em `the-imperials.md` ("dialeto regional tolerado"). Está errado — `The Monk.md` e `stonewood.md` os descrevem como tribos germânicas/nórdicas autônomas, com Wald-thing, chefes tribais e hostilidade ativa à autoridade imperial. Movidos para herança separada, aceitação baixa. **A menção em `the-imperials.md` não é falsa — é o ponto de vista imperial**, que reduz um povo tribal inteiro a "sotaque tolerado". Isso é ótimo material, mas convém não confundir com fato geográfico.
-- [ ] **Vale um arquivo próprio:** os Alamanos são hoje a cultura mais desenvolvida do repositório *sem* documento de cultura — o material está espalhado entre um handout de jogador e um doc de região.
+- [x] ~~**Vale um arquivo próprio:** os Alamanos são hoje a cultura mais desenvolvida do repositório *sem* documento de cultura~~ — **erro meu, corrigido:** `worldbuilding/people/cultures/the-alamans.md` **já existia**. A cultura Alaman completa está agora em `World/Cultures/alaman-culture.md`; o doc antigo tem nomenclatura alto-alemã (*Adalbert, Bernhard, Friedrich*) que diverge da nórdica de `The Monk.md` — vale conciliar.
 - [ ] **Conflito de modelo a resolver:** SIR (`geography-of-the-empire.md`) vs. Bizâncio (docs de cultura e religião). Ver nota na seção Heritage. Sugestão: Cinco Ducados como *themata*.
 - [ ] **Ambiguidade "Celestial" confirmada de novo:** `The Monk.md` cita pergaminhos *"escritos em antigo Celestial"* num monastério dedicado a **Arthenis e Serilya** — que são Lesser Gods de *Auriana* (`harmonic-order.md`). Ou seja: esse "Celestial" quase certamente é **Khordē**, não o Celestial élfico de Aran'keth. Se for, é um gancho excelente (uma disciplina marcial preservada na língua-mãe sagrada, longe de Celestra) — mas reforça que os dois "Celestiais" precisam de nomes distintos no repositório.
 

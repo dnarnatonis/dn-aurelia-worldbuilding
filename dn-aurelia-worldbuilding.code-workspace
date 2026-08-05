@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../dn-rpg-rules-collection"
+		},
+		{
+			"path": "../dn-worldbuilding-lorvenia"
 		}
 	],
 	"settings": {}

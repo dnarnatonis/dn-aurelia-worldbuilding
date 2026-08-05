@@ -52,7 +52,7 @@ O império é um vasto domínio inspirado no Sacro Império Romano, onde a maior
 
 #### **A Hoste Prateada**
 
-Uma teocracia militarizada que se separou do império, governada pelo autoproclamado **Rei Edric, o Ungido**. Controla importantes minas de ouro e prata nas montanhas do nordeste.
+Uma teocracia militarizada que se separou do império, governada pelo autoproclamado **Rei Eneko Antsoitz, l'Onhut**. Controla importantes minas de ouro e prata nas montanhas do nordeste.
 
 - **Sociedade**
   - Rígida hierarquia baseada em ordens de cavalaria

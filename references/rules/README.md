@@ -14,6 +14,7 @@ Sistemas de jogo, mecânicas e guias para campanhas.
 |-----------|----------|-----------|
 | **Chronicle System** | `Sword Chronicle - Core/` | Ruleset completo do Chronicle System (Green Ronin) — sistema-alvo da migração de Aurelia |
 | **Chronicle System** | `Sword Chronicle - Sorcery/` | Chronicle of Sorcery (2014) — o sistema de magia completo, com Lores modulares |
+| **Homebrew** | `Sword Chronicle - Homebrew/` | Material autoral de Aurelia: Lores, Ancestries, Qualities |
 | **DMG** | DMG-02-07, DMG-03, DMG-04, DMG-07, DMG-08 | Dungeon Master's Guide |
 | **PHB** | PHB-01-10 | Player's Handbook |
 | **Guide** | Epic Campaigns, HTGHM | Guias de criação de campanha |
@@ -45,6 +46,12 @@ Ruleset do **Chronicle System** passado a limpo a partir de *Sword Chronicle: Fe
 **Chronicle of Sorcery** (Green Ronin, 2014) — a versão completa do sistema de magia, que o livro básico de 2020 resumiu no seu Cap. 6. Traz a camada **Lore** (traditions mágicas com abilities, preço e resonances próprios), seis Lores de exemplo, as três Arts comuns detalhadas e os Sorcerous Wealth Holdings.
 
 As duas versões divergem — ver `Sword Chronicle - Sorcery/99-divergencias-2014-2020.md`.
+
+## Sword Chronicle - Homebrew
+
+Material autoral de Aurelia construído sobre o Chronicle System — organizado em `Lores/`, `Ancestries/` e `Qualities/`.
+
+Primeira Lore escrita: **A Consonância**, magia tonal e bárdica ancorada na Ordem Harmônica, com a **Art of Glamour** derivada do College of Glamour e do Feyglade Veil.
 
 ## Epic Campaigns (Guy Sclanders)
 

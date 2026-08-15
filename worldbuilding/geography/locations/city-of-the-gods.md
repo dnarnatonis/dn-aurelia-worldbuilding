@@ -59,6 +59,16 @@ The massive magical energies that had sustained the city for millennia created a
 
 **Present Aran'keth** (*"The Broken Crown"*): The ruins as they exist now - crumbling stone, twisted passages, and reality-tears where divine magic once flowed.
 
+### The Tides
+
+The sealing tore Aran'keth loose from the Material Plane without anchoring it anywhere else. The city still has mass, streets and foundations - it simply has no address. It drifts through the limbo between realities and periodically **makes landfall**: it touches a plane, remains for a season or a generation, then slips free again.
+
+Each tide leaves a mark. Whatever stands in the contact zone is absorbed into the city, which is why Aran'keth now contains architecture no elf ever raised. Whoever is inside when the tide turns is carried away with it, which is why entire peoples are recorded as having walked into the city and never walked out. And every landfall spends a little more of the seal - the depleted Vestiges are the receipts of tides long past.
+
+**Why the literature survives.** The withdrawal is never clean. Relics, corpses and above all *texts* are left behind on the abandoned plane, spat back into a world the city itself has already departed. This is why chronicles written in the Great Library of Astrael sit in archives beneath a manor in North Alba, and why scholars can read first-hand accounts of a city that appears on no map. Every manuscript attributed to Aran'keth is flotsam from a tide.
+
+**The present tide** is the longest on record. The city did not touch and withdraw - it **ran aground**, beneath Black Hollow, and has stayed there long enough for mortals to excavate it, colonise it and start prying at the seals.
+
 ## 🏙️ The Ruined City
 
 ### Current State

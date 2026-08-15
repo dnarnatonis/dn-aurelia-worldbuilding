@@ -17,8 +17,8 @@ Distrito de **Lothiriel** + **Rhuvenar** (*Sylvara* + *Thalvok* em culto comum; 
 | Aspecto | Detalhe |
 |---------|---------|
 | **Causa** | Guardiã [[aranketh#A Última Rainha: Morrighael|Morrighael]] presa em luto eterno; vestígios de **Lothiriel** / **Rhuvenar** esgotados ou distorcidos; o feitiço de selamento causou imortalidade fúngica e distorceu o ciclo da vida |
-| **Clímax em aberto** | [[M - C13 - Jardins Suspensos de Sylvara|Jardins Suspensos]] — confronto com **Beholder** (*Deus Cego*) ainda em definição na mesa |
-| **Mecânica de distrito (temporária)** | Enquanto isso, **bolsões de esporos venenosos** no ar livre e em espaços semi-fechados simulam a pressão ambiental do quadrante (ver abaixo). Após resolver o arco do Beholder nos Jardins, o DM pode **afrouxar**, **regionalizar** ou **remover** esporos conforme a narrativa |
+| **Clímax** | **Resolvido na mesa.** Os heróis derrotaram a invasão nos [[M - C13 - Jardins Suspensos de Sylvara|Jardins Suspensos]] |
+| **Mecânica de distrito** | **Desativada.** Com o arco dos Jardins resolvido, os esporos foram limpos — o hazard abaixo fica registrado como referência histórica e para bolsões isolados que o DM queira reintroduzir |
 
 ---
 
@@ -36,7 +36,9 @@ Ver `hex-key.md` — secção **Quarter of Being**.
 
 ---
 
-## Hazard: esporos venenosos (nuisance)
+## Hazard: esporos venenosos (nuisance) — inativo
+
+> Registro da mecânica que vigorou até a resolução do arco dos Jardins. Não aplicar por padrão.
 
 Mecânica inspirada em **Poisonous Gas** (*Nuisance Hazard*, níveis 1–4). **Esporos** em névoa baixa e correntes entre cogumelos e musgos; dano **1d10** veneno como incômodo de exploração.
 

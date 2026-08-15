@@ -33,7 +33,9 @@ O culto original ([[cult-of-vaelthas|Dark Reformation]]) operava sob Vaelthas e 
 
 ## O sacrifício, os 8 Vestígios, os Guardiões e a Prisão
 
-Os **Oito Arquimagos** não apenas construíram Aran'keth — **se sacrificaram** para selar o **Whisperer in the Dark**. A cidade inteira foi transformada em gaiola e **arrancada do Prime Material Plane**, isolando o aboleth e os vestígios num limbo entre realidades. Com o passar dos **milênios**, os selos foram falhando; a cidade **retornou lentamente** ao plano material (hoje sob Black Hollow), como uma ferida que sangra de volta à carne do mundo.
+Os **Oito Arquimagos** não apenas construíram Aran'keth — **se sacrificaram** para selar o **Whisperer in the Dark**. A cidade inteira foi transformada em gaiola e **arrancada do Prime Material Plane**, isolando o aboleth e os vestígios num limbo entre realidades.
+
+A gaiola nunca foi ancorada. Ao longo das eras a cidade encostou e se soltou de plano em plano — as **[[aranketh#As Marés de Aran'keth|Marés]]** —, e cada ciclo consumiu um pouco do selo. A maré desta era não recuou: Aran'keth **encalhou** sob Black Hollow, como uma ferida que voltou a se abrir na carne do mundo e não fechou mais.
 
 No coração do mecanismo estão **8 artefatos** — os **Vestígios**: o foco do poder final de cada arquimago no momento do selo. Na lenda popular, são relíquias *divinas*; na verdade, são âncoras arcanas colossais.
 

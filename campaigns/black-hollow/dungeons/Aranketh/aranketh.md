@@ -10,7 +10,9 @@ location: "[[city-of-the-gods|Aran'keth]]"
 
 ## Context Header
 
-Aran'keth é um megadungeon urbano em hexcrawl. Uma vasta metrópole subterrânea que outrora foi o ápice da civilização élfica. Não era governada por deuses vivos ou arquimagos divinos, mas permeada por uma religiosidade profunda e figurativa, semelhante aos antigos impérios mesopotâmicos. A cidade tornou-se o mecanismo de contenção cósmica para o **Whisperer in the Dark** — um aboleth ancestral aprisionado num demiplano acessível por um portal de obsidiana. Para selar a entidade definitivamente, a última rainha de Aran'keth, **Morrighael**, tomou a terrível decisão de sacrificar a cidade inteira e a força vital de seu povo, **arrancando Aran'keth do Prime Material Plane**. Com o tempo, a magia de contenção estagnou e falhou, e a cidade **infiltrou-se de volta** à realidade física, milênios depois. Hoje, facções cultistas disputam os distritos em ruínas, manipuladas pela [[the-gravedigger|Gravedigger]].
+Aran'keth é um megadungeon urbano em hexcrawl. Uma vasta metrópole subterrânea que outrora foi o ápice da civilização élfica. Não era governada por deuses vivos ou arquimagos divinos, mas permeada por uma religiosidade profunda e figurativa, semelhante aos antigos impérios mesopotâmicos. A cidade tornou-se o mecanismo de contenção cósmica para o **Whisperer in the Dark** — um aboleth ancestral aprisionado num demiplano acessível por um portal de obsidiana. Para selar a entidade, a última rainha de Aran'keth, **Morrighael**, tomou a terrível decisão de sacrificar a cidade inteira e a força vital de seu povo, **arrancando Aran'keth do Prime Material Plane**.
+
+O que o ritual não fez foi ancorá-la em lugar nenhum. Desde então a cidade **deriva** — encosta em planos e lugares, permanece um tempo, e se solta de novo. São as **Marés de Aran'keth**, e é delas que vem tudo o que a cidade não construiu: ruínas de outras épocas, habitantes de outros mundos e as poucas crônicas que escaparam para o mundo. A maré atual é a mais longa já registrada: a cidade não encostou, **encalhou** — sob Black Hollow. Hoje, facções cultistas disputam os distritos em ruínas, manipuladas pela [[the-gravedigger|Gravedigger]].
 
 ---
 
@@ -18,11 +20,12 @@ Aran'keth é um megadungeon urbano em hexcrawl. Uma vasta metrópole subterrâne
 
 Em Aran'keth, os deuses (Os Oito) nunca andaram de fato entre os mortais. Eles eram arquétipos, forças fundamentais da natureza e do cosmos, adorados através de grandes templos que pontuavam o dia a dia da metrópole (ver [[elven-religion]]). A cidade fervilhava com sacerdotes, astrólogos, tecelões e guerreiros que buscavam viver em estrita harmonia com essas forças.
 
-A história da cidade atravessou três fases:
+A história da cidade atravessou quatro fases:
 
 1. **A Grande Metrópole** — Uma civilização no auge, onde a magia era tecida no cotidiano. A cidade era dividida em distritos monumentais, cada um dedicado a conjugar os aspectos e dogmas do cosmos.
 2. **A Queda e o Sacrifício** — Face à ameaça iminente do *Whisperer in the Dark* despertar das profundezas, a última rainha da cidade tomou um fardo intolerável. Assumindo a regência do destino e o manto da morte para si, **Morrighael** selou a criatura usando um ritual que exigia as almas e a magia de sua própria civilização, isolando Aran'keth no vazio entre planos.
-3. **Retorno e Ruína** — Ao longo das eras, os limites dimensionais enfraqueceram. A cidade sangrou de volta para o subsolo de Aurelia (abaixo de Black Hollow). Facções humanas modernas tentam reivindicar seus segredos, enquanto Morrighael permanece eternamente como uma trágica guardiã quebrada.
+3. **As Marés** — Solta da realidade mas não destruída, a cidade passou eras encostando e se soltando de planos diversos. Cada aterrissagem trouxe habitantes, arquitetura e ruína de outro lugar; cada recuo levou embora quem estivesse dentro e cuspiu fragmentos no mundo que ficou para trás.
+4. **O Encalhe e a Ruína** — A maré atual não recuou. A cidade travou no subsolo de Aurelia (abaixo de Black Hollow), tempo suficiente para que facções humanas descessem e se instalassem. Morrighael permanece eternamente como uma trágica guardiã quebrada, e os selos se aproximam do fim.
 
 Os nomes élficos dos deuses permeiam as ruínas, embora os invasores de hoje usem a nomenclatura comum imperial.
 
@@ -36,6 +39,30 @@ Os nomes élficos dos deuses permeiam as ruínas, embora os invasores de hoje us
 | **Ulthryn** | Voryn | Profecia, Véu, Sombras |
 | **Lirael** | Elyndra | Ordem, Leis, Justiça |
 | **Narvenor** | Khorvyn | Terra, Raízes, Fundações |
+
+---
+
+## As Marés de Aran'keth
+
+O Grande Selamento cortou a âncora da cidade ao Plano Material — não a sua massa. Aran'keth continua existindo, com peso e geografia, mas sem endereço. Deriva pelo limbo entre realidades e, periodicamente, **encosta**: toca um plano, permanece um tempo, e se solta.
+
+| Fenômeno | Consequência |
+|----------|--------------|
+| **A cidade absorve** | O que estiver na zona de contato — pedra, ruína, gente — passa a fazer parte de Aran'keth. Daí o amálgama de arquiteturas que não têm nada de élfico |
+| **A cidade leva** | Quando a maré recua, quem está dentro vai junto. Povos inteiros entraram e nunca mais foram vistos |
+| **A cidade cospe** | O recuo é imperfeito. Relíquias, corpos e **textos** ficam para trás no plano abandonado — é por isso que existem crônicas de Aran'keth no mundo enquanto a cidade não consta em mapa nenhum |
+| **Cada maré custa** | Encostar e soltar consome selo. Os vestígios esgotados (`backstory.md`) marcam marés antigas; a influência do Whisperer cresce a cada ciclo |
+| **O sedimento desce** | Tudo que a cidade coleciona acaba nas Profundezas — ver `The Deep/the-deep.md` |
+
+### Marés conhecidas
+
+| Maré | Onde | O que ficou |
+|------|------|-------------|
+| **Oceânicas** (mais de uma) | Plano Material, fundo do mar | Os **Kua-toa** das Profundezas e o mar subterrâneo que corre sob a cidade |
+| **Era dos Heróis** | Onde hoje é North Alba, na borda do futuro Império | O bastião da **[[Lumenaris\|Ordem do Dragão]]** e seus Waystations nas Profundezas; na superfície, o santuário dos Seis Sentinelas sob a [[The Fallen Manor\|Fallen Manor]] |
+| **Maré atual** | Subsolo de Black Hollow | A cidade **encalhou** em vez de recuar. Os cultos humanos tiveram tempo de sobra para colonizar os distritos |
+
+Na mesa isso significa que os PCs não exploram uma ruína morta, mas um objeto que já se moveu antes e pode se mover de novo. Se a maré virar com o grupo lá dentro, eles vão junto.
 
 ---
 

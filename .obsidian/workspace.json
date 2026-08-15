@@ -239,8 +239,16 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "eed5abf6fba62995",
+  "active": "bffd971bbc16fd65",
   "lastOpenFiles": [
+    "campaigns/black-hollow/dungeons/The Deep/the-hold.md",
+    "campaigns/black-hollow/dungeons/The Deep/magister-aurelius.md",
+    "campaigns/black-hollow/dungeons/The Deep/ssal-uuth-kuatoa.md",
+    "campaigns/black-hollow/dungeons/The Deep/encounters/encounter-02-the-waystation.md",
+    "campaigns/black-hollow/dungeons/The Deep/encounters/encounter-01-the-apkallu.md",
+    "campaigns/black-hollow/dungeons/The Deep/encounters",
+    "campaigns/black-hollow/dungeons/The Deep/the-deep.md",
+    "campaigns/black-hollow/dungeons/The Deep",
     "campaigns/black-hollow/handouts/lumenaris-o-que-sabemos.md",
     "campaigns/black-hollow/handouts/lumenaris-concept-art-prompt.md",
     "campaigns/black-hollow/handouts/lumenaris.png",
@@ -268,12 +276,6 @@
     "worldbuilding/history/timeline/imperial-calendar.md",
     "campaigns/black-hollow/dungeons/Aranketh/Locais/M - C13 - Jardins Suspensos de Sylvara/M - C13 - Jardins Suspensos de Sylvara.md",
     "campaigns/black-hollow/dungeons/Aranketh/Locais/I - B17 - Refúgio de Silas/encounters/encounter-01-silas.md",
-    "campaigns/black-hollow/dungeons/Aranketh/Locais/I - B17 - Refúgio de Silas/I - B17 - Refúgio de Silas.md",
-    "campaigns/black-hollow/dungeons/Aranketh/magic-items.md",
-    "campaigns/black-hollow/dungeons/Aranketh/Playlist.md",
-    "campaigns/black-hollow/dungeons/Aranketh/quarter-of-being.md",
-    "campaigns/black-hollow/dungeons/Aranketh/random-encounters-jardins-vicinity.md",
-    "gemini-scribe/Prompts/example-expert.md",
     "gemini-scribe/Prompts",
     "campaigns/black-hollow/dungeons/Aranketh/Locais/M - C13 - Jardins Suspensos de Sylvara/M - C13 - Jardins Suspensos de Sylvara.png",
     "campaigns/black-hollow/factions/the-crimson-procession.png",
@@ -284,8 +286,6 @@
     "campaign/dungeons/The Fallen Manor/Level 01",
     "campaign/dungeons/Blackthorne Catacombs",
     "campaign/dungeons/Eelgrave/encounters",
-    "campaign/dungeons/The Fallen Manor",
-    "worldbuilding/systems/technology",
-    "worldbuilding/systems/economics"
+    "campaign/dungeons/The Fallen Manor"
   ]
 }
